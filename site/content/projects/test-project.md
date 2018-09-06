@@ -1,8 +1,9 @@
 ---
 title: Test-Projekt 1b
 date: '1989-12-03'
+position: '20'
 active: false
-draft: false
+draft: true
 concept: true
 planning: true
 implementation: true
