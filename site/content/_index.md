@@ -32,7 +32,7 @@ date: '2018-07-01'
     {{< /col >}}
 {{< /row >}}
 
-{{< switch-stripe color="red">}}
+{{< switch-stripe color="white">}}
 
 <img src="https://www.cchobby.com/media/catalog/product/cache/14/image/9df78eab33525d08d6e5fb8d27136e95/5/9/59228_1.jpg" alt="3D Strukturen">
 
