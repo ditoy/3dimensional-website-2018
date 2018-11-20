@@ -4,7 +4,7 @@ position: 1
 draft: false
 robotsExclude: false
 title: Martin Hurschler
-function: 'Inhaber, Eidg. dipl. Techniker HF Innenarchitektur'
+function: 'Inhaber, Eidg. dipl. Innenarchitekt'
 quote: >-
   Wir verstehen uns als Partner für dreidimensionale Projekte mit höchsten
   Ansprüchen.
