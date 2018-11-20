@@ -5,22 +5,12 @@ draft: false
 robotsExclude: false
 title: Martin Hurschler
 function: 'Inhaber, Eidg. dipl. Techniker HF Innenarchitektur'
-quote: Wir verstehen uns als Partnerunternehmen bei dreidimensionalen Projekten.
+quote: >-
+  Wir verstehen uns als Partner für dreidimensionale Projekte mit höchsten
+  Ansprüchen.
 email: hurschler@3dimensional.ch
 phone: +41 44 123 45 67
 image: 'https://ucarecdn.com/1fe6742b-0848-4e87-a920-aeb03cdd97c0/'
 ---
-
-| | |
-| --- | --- |
-| 2007 | Gründung der 3dimensional ag |
-| 2001 | Gründung der Einzelfirma archituning |
-| 1997 - 2000 | Atelier Hauser & Partner AG, Dübendorf, Projektleiter |
-| 1999 - 2003 | Ausbildung als Techniker HF Innenarchitektur in Zürich |
-| 1993 - 1997 | Schöner Wohnen AG, Zürich, Innenausbauzeichner |
-| 1993 - 1995 | Zusatz-Betriebsausbildung als Innenausbauzeichner |
-| 1988 - 1993 | Schreinerei Hunziker AG, Adliswil, Möbelschreiner |
-| 1988 - 1992 | Betriebsausbildung als Möbelschreiner |
-
-Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna.
-
+| Martin Hurschler lebt 3dimensional! Seinem Auge entgeht kein noch so kleines Detail und er gibt sich erst zufrieden, wenn die Umsetzung seinen hohen Ansprüchen genügt. Als Gründer und Inhaber des Unternehmen laufen bei ihm viele Fäden zusammen. Das lässt ihn seine Ruhe und Übersicht aber nie verlieren, auch dann nicht, wenn wieder einmal alle gleichzeitig etwas von ihm wollen. Sein Flair für Inneneinrichtung hält das Feuer am brennen und ist Garant dafür, dass alles was bei 3dimensional produziert wird, auch schön und praxistauglich ist. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
