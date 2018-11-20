@@ -1,5 +1,5 @@
 ---
-title: Weihnachtsbaum für einen städtischen Platz
+title: Weihnachtsbaum auf einem städtischen Platz
 date: 2018-10-16T12:16:29.143Z
 position: 20
 draft: false
