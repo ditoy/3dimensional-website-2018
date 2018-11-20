@@ -4,7 +4,7 @@ position: 2
 draft: false
 robotsExclude: false
 title: Philipp Keusch
-function: Projektleiter / Eidg. dipl. Schreiner-Innenausbau Gestaltung HF
+function: 'Projektleiter, Eidg. dipl. Schreiner-Innenausbau Gestaltung HF'
 quote: Wir geben alles.
 email: keusch@3dimensional.ch
 phone: +41 44 123 45 67
