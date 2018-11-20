@@ -1,13 +1,10 @@
 ---
-title:          "Ihre Ansprechpartner"
-date:           "2018-07-01"
-draft:          false
-robotsExclude:  false
-image:          ""
+title: Ihre Ansprechpartner
+date: '2018-07-01'
 ---
 # Ihre Ansprechpartner
 
-## Lernen Sie unser interdisziplinäres Team aus erfahrenen Handwerkern kennen.
+## Lernen Sie unser interdisziplinäres Team aus erfahrenen Gestaltern, Planern und Handwerkern kennen.
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales dui pulvinar turpis rhoncus dapibus. Pellentesque 
