@@ -28,7 +28,7 @@ date: '2018-07-01'
     {{< /col >}}
     {{< col 8 >}}
         {{< heading "Die Ausführung" >}}
-        In unseren für vielfältige Arbeitsschritte eingerichteten Ateliers realisieren wir mit einem interdisziplinären Team ästhetisch und funktional anspruchsvolle Lösungen im Bereich der Display-, Beleuchtungs- und Signaletikproduktion.
+        In unseren sehr gut eingerichteten Ateliers realisieren wir mit einem interdisziplinären Team ästhetisch und funktional anspruchsvolle Lösungen im Bereich der Display-, Beleuchtungs- und Signaletikproduktion.
     {{< /col >}}
 {{< /row >}}
 
