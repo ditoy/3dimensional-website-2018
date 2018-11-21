@@ -10,7 +10,7 @@ date: '2018-07-01'
     {{< /col >}}
     {{< col 8 >}}
         {{< heading "Die Idee" >}}
-        Ob für ein Ausstellungs-Display, eine Gebäude-Signaletik oder die Gestaltung einer Inneneinrichtung — wir kreieren visuell innovative Konzepte, welche bei der täglichen Nutzung funktional überzeugen.
+        Ob für ein Ausstellungs-Display, die Gebäude-Signaletik oder die Gestaltung von Inneneinrichtungen — wir kreieren visuell innovative Konzepte, welche bei der täglichen Nutzung funktional überzeugen.
     {{< /col >}}
 {{< /row >}}
 {{< row >}}
