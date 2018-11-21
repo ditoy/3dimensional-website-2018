@@ -28,7 +28,7 @@ date: '2018-07-01'
     {{< /col >}}
     {{< col 8 >}}
         {{< heading "Die Ausführung" >}}
-        Donec at justo tempor, eleifend risus non, dignissim erat. Praesent non vulputate orci. In hac habitasse platea dictumst. Nunc scelerisque leo eu erat tristique hendrerit. Fusce a semper orci. Aenean pretium efficitur est non viverra. Phasellus in odio nibh.
+        In unseren bestens ausgerüsteten Ateliers realisieren wir mit unserem interdisziplinären Team ästhetisch und funktional anspruchsvolle Lösungen im Bereich der Display-, Beleuchtungs- und Signaletikproduktion.
     {{< /col >}}
 {{< /row >}}
 
