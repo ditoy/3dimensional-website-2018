@@ -20,7 +20,7 @@ date: '2018-07-01'
     {{< col 8 >}}
         {{< heading "Die Planung" >}}
         Wir unterstützen Sie ab der ersten Idee bis zur Übergabe mit der
-Planung sämtlicher Projektphasen. Vom Variantenstudium, über die Erstellung von Farb-, Material- und Beleuchtungskonzepten bis hin zur Terminplanung, Bauleitung und Kostenkontrolle erhalten Sie von uns das gesamte planerische Spektrum aus einer Hand.
+Planung sämtlicher Projektphasen. Vom Variantenstudium, über die Erstellung von Farb-, Material- und Beleuchtungskonzepten bis hin zur Terminplanung, Bauleitung und Kostenkontrolle erhalten Sie bei uns das gesamte planerische Spektrum aus einer Hand.
     {{< /col >}}
 {{< /row >}}
 {{< row >}}
