@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2016-05-31T13:29:01.344Z
 title: Im Moment haben wir gerade keine offenen Stellen zu besetzen.
 ---
