@@ -1,6 +1,7 @@
 ---
-title: Front-End Engineer 100%
+draft: true
 date: '2018-07-26'
+title: Front-End Engineer 100%
 ---
 Pro Infirmis setzt sich für ein selbstständiges und selbstbestimmtes Leben behinderter Menschen ein. Als grösste Dachorganisation im Behindertenbereich erbringt sie Dienstleistungen für Betroffene und deren Angehörige. Dazu steht in allen Sprachregionen ein Netzwerk von insgesamt 50 Beratungsstellen mit rund 1‘600 Mitarbeitenden zur Verfügung.
 
