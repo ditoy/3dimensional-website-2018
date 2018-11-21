@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2018-11-21T14:29:01.344Z
+date: 2016-05-31T13:29:01.344Z
 title: Im Moment haben wir gerade keine offenen Stellen zu besetzen.
 ---
 Wir freuen uns, dass Sie sich für eine Anstellung in unserem Unternehmen interessieren. 
