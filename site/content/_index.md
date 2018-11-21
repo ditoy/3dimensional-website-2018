@@ -19,7 +19,8 @@ date: '2018-07-01'
     {{< /col >}}
     {{< col 8 >}}
         {{< heading "Die Planung" >}}
-        Donec at justo tempor, eleifend risus non, dignissim erat. Praesent non vulputate orci. In hac habitasse platea dictumst. Nunc scelerisque leo eu erat tristique hendrerit. Fusce a semper orci. Aenean pretium efficitur est non viverra. Phasellus in odio nibh.
+        Wir unterstützen Sie ab der ersten Idee bis zur Übergabe mit der
+Planung sämtlicher Projektphasen. Zu unseren Leistungen gehört vom Variantenstudium, über die Erstellung von Farb-, Material- und Beleuchtungskonzepten, dem Zeichnen von Ausführungsplänen bis hin zur Terminplanung, Bauleitung und Kostenkontrolle das gesamte Spektrum planerischer Aufgabenbereiche.
     {{< /col >}}
 {{< /row >}}
 {{< row >}}
