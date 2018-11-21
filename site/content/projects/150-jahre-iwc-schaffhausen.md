@@ -9,7 +9,6 @@ planning: true
 implementation: true
 activities:
   - Point-of-Sale
-  - null
 image: 'https://ucarecdn.com/df76938f-a1ab-4212-a645-3e9963768907/'
 teaser: >-
   Zeit ihres Bestehens hat die Manufaktur aus Schaffhausen innovative Uhren
