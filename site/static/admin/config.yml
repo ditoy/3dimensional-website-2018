@@ -38,6 +38,28 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "appSitemapUrl", name: "appSitemapUrl", widget: "string", tagname: "p" }
           - { label: "appGoogleVerification", name: "appGoogleVerification", widget: "string", tagname: "p" }
           - { label: "referenceCompetences", name: "referenceCompetences", widget: "list", tagname: "p" }
+      - label: "Slider Landing Page"
+        name: "configuration_slides"
+        file: "site/content/_index.md"
+        fields:
+        - { label: "Slide 1 Bild", name: "slide1_image", widget: "file" }
+        - { label: "Slide 1 Claim", name: "slide1_claim", widget: "string" }
+        - { label: "Slide 1 Textfarbe", name: "slide1_color", widget: "select", options: ["black", "white"] }
+        - { label: "Slide 2 Bild", name: "slide2_image", widget: "file" }
+        - { label: "Slide 2 Claim", name: "slide2_claim", widget: "string" }
+        - { label: "Slide 2 Textfarbe", name: "slide2_color", widget: "select", options: ["black", "white"] }
+        - { label: "Slide 3 Bild", name: "slide3_image", widget: "file" }
+        - { label: "Slide 3 Claim", name: "slide3_claim", widget: "string" }
+        - { label: "Slide 3 Textfarbe", name: "slide3_color", widget: "select", options: ["black", "white"] }
+        - { label: "Slide 4 Bild", name: "slide4_image", widget: "file" }
+        - { label: "Slide 4 Claim", name: "slide4_claim", widget: "string" }
+        - { label: "Slide 4 Textfarbe", name: "slide4_color", widget: "select", options: ["black", "white"] }
+        - { label: "Slide 5 Bild", name: "slide5_image", widget: "file" }
+        - { label: "Slide 5 Claim", name: "slide5_claim", widget: "string" }
+        - { label: "Slide 5 Textfarbe", name: "slide5_color", widget: "select", options: ["black", "white"] }
+        - { label: "Slide 6 Bild", name: "slide6_image", widget: "file" }
+        - { label: "Slide 6 Claim", name: "slide6_claim", widget: "string" }
+        - { label: "Slide 6 Textfarbe", name: "slide6_color", widget: "select", options: ["black", "white"] }
 
   - label: "Index-Seiten"
     name: "page_index"
@@ -47,24 +69,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "site/content/_index.md"
         fields:
           - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
-          - { label: "Slide 1 Bild", name: "slide1_image", widget: "file" }
-          - { label: "Slide 1 Claim", name: "slide1_claim", widget: "string" }
-          - { label: "Slide 1 Textfarbe", name: "slide1_color", widget: "select", options: ["black", "white"] }
-          - { label: "Slide 2 Bild", name: "slide2_image", widget: "file" }
-          - { label: "Slide 2 Claim", name: "slide2_claim", widget: "string" }
-          - { label: "Slide 2 Textfarbe", name: "slide2_color", widget: "select", options: ["black", "white"] }
-          - { label: "Slide 3 Bild", name: "slide3_image", widget: "file" }
-          - { label: "Slide 3 Claim", name: "slide3_claim", widget: "string" }
-          - { label: "Slide 3 Textfarbe", name: "slide3_color", widget: "select", options: ["black", "white"] }
-          - { label: "Slide 4 Bild", name: "slide4_image", widget: "file" }
-          - { label: "Slide 4 Claim", name: "slide4_claim", widget: "string" }
-          - { label: "Slide 4 Textfarbe", name: "slide4_color", widget: "select", options: ["black", "white"] }
-          - { label: "Slide 5 Bild", name: "slide5_image", widget: "file" }
-          - { label: "Slide 5 Claim", name: "slide5_claim", widget: "string" }
-          - { label: "Slide 5 Textfarbe", name: "slide5_color", widget: "select", options: ["black", "white"] }
-          - { label: "Slide 6 Bild", name: "slide6_image", widget: "file" }
-          - { label: "Slide 6 Claim", name: "slide6_claim", widget: "string" }
-          - { label: "Slide 6 Textfarbe", name: "slide6_color", widget: "select", options: ["black", "white"] }
           - { label: "Publikationsdatum", name: "date", widget: "datetime" }
           - { label: "Seiteninhalt", name: "body", widget: "markdown" }
       - label: "Index Projekte"
