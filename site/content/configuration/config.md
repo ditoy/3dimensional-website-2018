@@ -1,20 +1,20 @@
 ---
 title: Site Configuration
+appFooterCol1: |-
+  _Innenarchitektur_, Gestaltung, Kommunikation\
+  Oberwiesenstrasse 4\
+  CH-8304 Wallisellen
+appFooterCol2: |-
+  <a href="tel:+41444224466">Tel +41 44 422 44 66</a>\
+  _Fax_ +41 44 422 44 14\
+  <a href="mailto:web@3dimensional.ch">web@3dimensional.ch</a>
+appFooterCol3: |-
+  Mo-Fr 8.00h-17.00h\
+  _Unsere_ Werkstatt kann jederzeit und flexibel besucht werden.
 appColor: '#B6C229'
 appTitle: '3dimensional: Innenarchitektur, Gestaltung und dreidimensionale Kommunikation'
 appTitleShort: 3dimensional
 appPublisher: 3dimensional AG
-appFooterCol1: |-
-  Innenarchitektur, Gestaltung, Kommunikation\
-  Oberwiesenstrasse 4\
-  CH-8304 Wallisellen
-appFooterCol2: |-
-    <a href="tel:+41444224466">Tel +41 44 422 44 66</a>\
-    Fax +41 44 422 44 14\
-    <a href="mailto:web@3dimensional.ch">web@3dimensional.ch</a>
-appFooterCol3: |-
-  Mo-Fr 8.00h-17.00h\
-  Unsere Werkstatt kann jederzeit und flexibel besucht werden.
 appDescription: >-
   3dimensional entwickelt Lösungen, die exakt auf Ihre Bedürfnisse zugeschnitten
   sind. Damit können wir Ihnen ein Optimum an Leistungen zu realistischen
