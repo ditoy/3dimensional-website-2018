@@ -9,7 +9,7 @@ date: '2018-07-01'
         {{< icon bulb >}}
     {{< /col >}}
     {{< col 8 >}}
-        {{< heading "Die Idee" >}}
+        {{< heading "Design" >}}
         Ob für ein Ausstellungs-Display, Ihre Gebäude-Signaletik oder für die Gestaltung von Inneneinrichtungen — wir kreieren visuell innovative Konzepte, welche bei ihrer täglichen Nutzung funktional überzeugen.
     {{< /col >}}
 {{< /row >}}
@@ -18,7 +18,7 @@ date: '2018-07-01'
         {{< icon ruler >}}
     {{< /col >}}
     {{< col 8 >}}
-        {{< heading "Die Planung" >}}
+        {{< heading "Planung" >}}
         Vom Variantenstudium, über die Erstellung von Farb-, Material- und Beleuchtungskonzepten bis hin zur Terminplanung, Bauleitung und Kostenkontrolle erhalten Sie bei uns das gesamte planerische Spektrum aus einer Hand.
     {{< /col >}}
 {{< /row >}}
@@ -27,7 +27,7 @@ date: '2018-07-01'
         {{< icon saw >}}
     {{< /col >}}
     {{< col 8 >}}
-        {{< heading "Die Ausführung" >}}
+        {{< heading "Produktion" >}}
         In unseren vielfältig ausgestatteten Ateliers realisieren wir mit einem interdisziplinären Team ästhetisch und funktional anspruchsvolle Lösungen im Bereich der Display-, Beleuchtungs- und Signaletikproduktion.
     {{< /col >}}
 {{< /row >}}
