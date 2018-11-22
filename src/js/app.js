@@ -188,7 +188,8 @@ window.onresize = function() {
  * action before unload event (does not work on Safari)
  */
 const ua = navigator.userAgent.toLowerCase();
-if (ua.indexOf('safari') === -1 || ua.indexOf('chrome') >= -1) {
+const isSafari = /^((?!chrome|android).)*safari/i.test(ua);
+if (!isSafari) {
     window.addEventListener('beforeunload', (e) => { fadeOut(document.querySelector('.wrapper')); });
 }
 
