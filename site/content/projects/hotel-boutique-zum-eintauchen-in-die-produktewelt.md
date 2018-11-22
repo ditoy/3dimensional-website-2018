@@ -1,5 +1,5 @@
 ---
-title: Hotel-Boutique zum Eintauchen in die Produktewelt
+title: Hotel-Boutique zum Eintauchen in eine faszinierende Produktewelt
 date: 2018-10-17T13:45:23.188Z
 position: 20
 draft: false

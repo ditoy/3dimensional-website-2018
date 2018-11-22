@@ -1,5 +1,5 @@
 ---
-title: Weihnachtsbaum für den städtischen Platz
+title: Weihnachtsbaum auf einem städtischen Platz
 date: 2018-10-16T12:16:29.143Z
 position: 20
 draft: false
@@ -12,4 +12,4 @@ teaser: >-
   Was gibt es Schöneres, als während der Weihnachtszeit durch die geschmückten
   Gassen zu flanieren?
 ---
-Zusammen mit IWC Schaffhausen hat 3dimensional den Weihnachtsbaum für den Zürcher Weinplatz gestaltet und aufgestellt. Die geschmückten Gassen der Zürcher Altstadt laden während der Weihnatszeit als beliebtes Ziel zum Stadtbummel mit festlichem Ambiente ein.
+Zusammen mit IWC Schaffhausen hat 3dimensional den Weihnachtsbaum für den Zürcher Weinplatz gestaltet und aufgestellt. Die geschmückten Gassen der Zürcher Altstadt laden während der Weihnachtszeit als beliebtes Ziel zum Stadtbummel mit festlichem Ambiente ein.
