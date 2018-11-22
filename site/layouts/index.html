@@ -9,9 +9,12 @@
             {{ partial "svg/grid" . }}
         </div>
         <div id="slides" class="hero rellax" data-rellax-speed="-1">
-            <div class="slide showing"></div>
-            <div class="slide"></div>
-            <div class="slide"></div>
+            <div class="slide showing" style="background-image:url('{{ .Params.slide1_image }}');"></div>
+            <div class="slide" style="background-image:url('{{ .Params.slide2_image }}');"></div>
+            <div class="slide" style="background-image:url('{{ .Params.slide3_image }}');"></div>
+            <div class="slide" style="background-image:url('{{ .Params.slide4_image }}');"></div>
+            <div class="slide" style="background-image:url('{{ .Params.slide5_image }}');"></div>
+            <div class="slide" style="background-image:url('{{ .Params.slide6_image }}');"></div>
         </div>
         <div class="claim">
             <div class="container">
@@ -64,7 +67,7 @@
                     <h2>Team</h2>
                     <div class="cards">
                         {{ $collection := (where .Site.Pages "Section" "team") }}
-                        {{ range first 6 ($collection.ByParam "position") }}
+                        {{ range ($collection.ByParam "position") }}
                         {{ .Render "card" }}
                         {{ end }}
                     </div>
