@@ -25,6 +25,9 @@ collections: # A list of collections the CMS should be able to edit
         file: "site/content/configuration/config.md"
         fields:
           - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
+          - { label: "Footer Spalte 1", name: "appFooterCol1", widget: "markdown", tagname: "div" }
+          - { label: "Footer Spalte 2", name: "appFooterCol2", widget: "markdown", tagname: "div" }
+          - { label: "Footer Spalte 3", name: "appFooterCol3", widget: "markdown", tagname: "div" }
           - { label: "appColor", name: "appColor", widget: "string", tagname: "p" }
           - { label: "appTitle", name: "appTitle", widget: "string", tagname: "p" }
           - { label: "appTitleShort", name: "appTitleShort", widget: "string", tagname: "p" }

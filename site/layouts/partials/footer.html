@@ -8,19 +8,14 @@
         </div>
         <div class="row">
             <div class="col-4">
-                Innenarchitektur, Gestaltung, Kommunikation<br/>
-                Oberwiesenstrasse 4<br/>
-                CH-8304 Wallisellen
+                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol1 | markdownify }}{{ end }}
             </div>
             <div class="col-4">
-                <a href="tel:+41444224466">Tel +41 44 422 44 66</a><br/>
-                Fax +41 44 422 44 14<br/>
-                <a href="mailto:web@3dimensional.ch">web@3dimensional.ch</a><br/>
+                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol2 | markdownify }}{{ end }}
                 <div class="spacer-4x"></div>
             </div>
             <div class="col-4">
-                Mo-Fr 8.00h-17.00h<br/>
-                Unsere Werkstatt kann jederzeit und flexibel besucht werden.
+                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol3 | markdownify }}{{ end }}
             </div>
         </div>
         <div class="row">
