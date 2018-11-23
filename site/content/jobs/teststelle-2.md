@@ -9,34 +9,34 @@ Die Abteilung Kommunikation ist zuständig für die externe und interne Kommunik
 
 Fit in der digitalen Welt? Dann sind Sie bei uns am richtigen Ort. Wir suchen per sofort oder nach Vereinbarung eine/n Mediamatiker/in:
 
-## Ihr Tagesgeschäft
+### Ihr Tagesgeschäft
 
-### Fotos und Bilddatenbank
+#### Fotos und Bilddatenbank
 
 * Pflege und Weiterentwicklung unserer Bilddatenbank, Qualitätskontrolle der Bilder
 * Bildbearbeitung (Photoshop) und Bildaufbereitung für unsere Kommunikationskanäle
 * Organisation, Koordination und Durchführung von Fotoshootings
 * Beratung von internen Stakeholdern zur Bildauswahl, Bildverwendung und Nutzung der Bilddatenbank
 
-### Corporate Website
+#### Corporate Website
 
 * Bewirtschaftung der dynamischen und barrierefreien Pro Infirmis Website und den zugehörigen Microsites (CMS Typo 3) mit technischem Schwerpunkt, in Zusammenarbeit mit der Online-Redakteurin
 * Technische und inhaltliche Weiterentwicklung der Website und der Microsites in enger Zusammenarbeit mit der Verantwortlichen digitale Marketingkommunikation
 * Umsetzung von SEO-Tasks
 * Domain- und Redirect-Management
 
-### Social Media
+#### Social Media
 
 * Bewirtschaftung der Social-Media-Kanäle mit technischem Schwerpunkt, Community Management primär für Facebook und YouTube, Umsetzung von Kommunikations-, Kampagnen- und Werbeaktivitäten, Auswertungen, (inhaltliche Unterstützung analog Website gewährleistet)
 * Aufbereitung von Videoclips und ein Flair fürs bewegte Bild
 
-### Zudem
+#### Zudem
 
 * Technische Unterstützung beim Intranet
 * Erstellen von Präsentationen
 * Umsetzungsverantwortung CD/CI
 
-### Das bringen Sie mit
+#### Das bringen Sie mit
 
 * Ausbildung als Mediamatiker/in
 * 2 bis 4 Jahre Berufserfahrung im digitalen Bereich in einer NPO, in der Privatwirtschaft oder einer Agentur
@@ -48,7 +48,7 @@ Fit in der digitalen Welt? Dann sind Sie bei uns am richtigen Ort. Wir suchen pe
 * Teamfähigkeit
 * Exakte und selbständige Arbeitsweise
 
-### Wir bieten
+#### Wir bieten
 
 * Wir bieten attraktive Anstellungsbedingungen und gute Sozialleistungen. Der Arbeitsplatz befindet sich in Zürich-Seefeld.
 
