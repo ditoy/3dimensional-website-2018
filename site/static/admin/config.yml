@@ -57,6 +57,12 @@ collections: # A list of collections the CMS should be able to edit
         - { label: "Slide 6 Bild", name: "slide6_image", widget: "file" }
         - { label: "Slide 6 Claim", name: "slide6_claim", widget: "string" }
         - { label: "Slide 6 Textfarbe", name: "slide6_color", widget: "select", options: ["black", "white"] }
+        - { label: "Quote 1 Bild", name: "quote1_image", widget: "file" }
+        - { label: "Quote 1", name: "quote1", widget: "string", tagname: "cite" }
+        - { label: "Quote 2 Bild", name: "quote2_image", widget: "file" }
+        - { label: "Quote 2", name: "quote2", widget: "string", tagname: "cite" }
+        - { label: "Quote 3 Bild", name: "quote3_image", widget: "file" }
+        - { label: "Quote 3", name: "quote3", widget: "string", tagname: "cite" }
       - label: "Footer Einstellungen"
         name: "configuration_footer"
         file: "site/content/configuration/footer.md"
