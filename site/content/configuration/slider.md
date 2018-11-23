@@ -8,7 +8,7 @@ slide2_claim: Claim 2 dunkel auf hell
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/29d06b51-c8f8-490b-8157-8c27e62b54da/'
 slide3_claim: Claim 3 dunkel auf hell
-slide3_color: white
+slide3_color: black
 slide4_image: 'https://ucarecdn.com/ba24f3cf-023d-4748-b7b6-b4222e06df01/'
 slide4_claim: Claim 4 hell auf dunkel
 slide4_color: white

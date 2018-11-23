@@ -26,7 +26,6 @@ body.has-hero {
     }
   }
 
-
   #slides{
     position: relative;
     height: 150px;
@@ -72,7 +71,7 @@ body.has-hero {
     &.black {
       h1 {
         color: $c-black !important;
-        text-shadow: 1px 1px 2px rgba($c-white, 0.5);
+        text-shadow: 1px 1px 2px rgba($c-white, 0.9);
       }
     }
 
@@ -149,18 +148,6 @@ body.has-hero {
 
     @include media(">=mega") {
       padding: 35vh 0;
-    }
-
-    h1, h2 {
-      color: $c-mediumgray;
-      text-transform: none;
-      font-weight: 400;
-      text-align: left;
-      max-width: (2/3) * $w-container;
-      top: 70%;
-      position: absolute;
-      text-shadow: 0 1 0.2em #000;
-      line-height: normal;
     }
   }
 

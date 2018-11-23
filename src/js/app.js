@@ -447,7 +447,21 @@ if (!!customersList) {
 const prepareSlides = (slides) => {
     forEach(slides, (slide) => {
         let imageUrl = slide.dataset.src;
-        slide.style.backgroundImage = "url('" + imageUrl + "')";
+
+
+        const isPhone = window.screen.width < 800 ? true : false;
+        const isDesktop = window.screen.width > 1400 ? true : false;
+
+        let width = 1024;
+        if (isPhone) {
+            width = 800;
+        } else if (isDesktop) {
+            width = 1600;
+        }
+        let height = Math.round(width / (16/9));
+        let imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
+
+        slide.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
         axios.get(imageUrl + '-/preview/-/main_colors/2/').then((r) => {
             slide.style.backgroundColor = 'rgba(' + r.data.main_colors[0].join(',') + ', 0.8)';
         });
