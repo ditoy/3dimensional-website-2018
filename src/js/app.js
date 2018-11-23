@@ -171,6 +171,12 @@ window.onload = function() {
         prepareStripes(stripes);
     }
 
+    // init cards
+    const cards = document.querySelectorAll('.featuredimage');
+    if (cards.length > 0) {
+        prepareCards(cards);
+    }
+
     if (document.getElementById('projects-filterable')) {
         // prepare competence tag selector
         selectProjects('kompetenzen', competenceList);
@@ -451,21 +457,20 @@ if (!!customersList) {
  */
 const prepareSlides = (slides) => {
     forEach(slides, (slide) => {
-        let imageUrl = slide.dataset.src;
+        const imageUrl = slide.dataset.src ? slide.dataset.src : false;
+        if (imageUrl) {
+            let width = 1024;
+            if (isPhone()) {
+                width = 800;
+            } else if (isDesktop()) {
+                width = 1600;
+            }
+            const height = Math.round(width / (16 / 9));
+            const imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
 
-        let width = 1024;
-        if (isPhone()) {
-            width = 800;
-        } else if (isDesktop()) {
-            width = 1600;
+            slide.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
+            prefillImage(slide, imageUrl);
         }
-        let height = Math.round(width / (16/9));
-        let imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
-
-        slide.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
-        axios.get(imageUrl + '-/preview/-/main_colors/2/').then((r) => {
-            slide.style.backgroundColor = 'rgba(' + r.data.main_colors[0].join(',') + ', 0.8)';
-        });
     });
 };
 
@@ -476,8 +481,8 @@ const attachSlider = (slides) => {
         currentSlide = (currentSlide + 1) % slides.length;
         slides[currentSlide].className = 'slide showing';
 
-        let currentSlideElem = document.querySelector('.slide.showing');
-        let claim = currentSlideElem.querySelector('.claim');
+        const currentSlideElem = document.querySelector('.slide.showing');
+        const claim = currentSlideElem.querySelector('.claim');
 
         if (claim.classList.contains('black')) {
             if (document.body.classList.contains('white')) {
@@ -508,13 +513,42 @@ const prepareStripes = (stripes) => {
             } else if (isDesktop()) {
                 width = 1600;
             }
-            let height = Math.round(width / (16/3));
+            let height = Math.round(width / (16 / 3));
             let imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
 
             stripe.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
+            prefillImage(stripe, imageUrl);
         }
     });
 };
+
+/**
+ * Cards / Teaser boxes post-loading
+ */
+const prepareCards = (cards) => {
+    forEach(cards, (card) => {
+        const imageUrl = card.dataset.src ? card.dataset.src : false;
+        if (imageUrl) {
+            let width = 400;
+            if (isPhone()) {
+                width = 300;
+            } else if (isDesktop()) {
+                width = 500;
+            }
+            const height = Math.round(width / (4 / 3));
+            const imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
+
+            card.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
+            prefillImage(card, imageUrl);
+        }
+    });
+};
+
+const prefillImage = (elem, imageUrl) => {
+    axios.get(imageUrl + '-/preview/-/main_colors/2/').then((r) => {
+        elem.style.backgroundColor = 'rgba(' + r.data.main_colors[0].join(',') + ', 0.8)';
+    });
+}
 
 
 /**

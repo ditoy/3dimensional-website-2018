@@ -3,7 +3,7 @@
         <div class="card-inner">
             {{ if .Params.image }}
                 <div class="featuredimageWrapper">
-                    <div class="featuredimage" style="background-image: url('{{ .Params.image }}-/scale_crop/400x300/center/');" title="{{ .Params.title }}"></div>
+                    <div class="featuredimage" data-src="{{ .Params.image }}" title="{{ .Params.title }}"></div>
                 </div>
             {{ end }}
 
