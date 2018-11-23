@@ -158,6 +158,13 @@ window.onload = function() {
     checkResize();
     positionToggler();
 
+    // init slide shows
+    const slides = document.querySelectorAll('#slides .slide');
+    if (slides.length > 0) {
+        prepareSlides(slides);
+        attachSlider(slides);
+    }
+
     if (document.getElementById('projects-filterable')) {
         // prepare competence tag selector
         selectProjects('kompetenzen', competenceList);
@@ -254,7 +261,6 @@ function equalize() {
 /**
  * position toggler within container
  */
-
 function positionToggler() {
     const containerMaxWidth = 1100;
     const toggler = document.getElementById('toggler');
@@ -266,6 +272,7 @@ function positionToggler() {
         toggler.style.right = '1rem';
     }
 }
+positionToggler();
 
 /**
  * window resize event listener
@@ -415,6 +422,7 @@ function populateSelect(id, options) {
 
 }
 
+
 /**
  * hide letters in customer list where no customers available for that letter
  */
@@ -432,22 +440,29 @@ if (!!customersList) {
     }
 }
 
+
 /**
  * Home Slideshow
  */
-const attachSlider = () => {
-    const slides = document.querySelectorAll('#slides .slide');
-    if (slides.length > 0) {
-        let currentSlide = 0;
-        const nextSlide = () => {
-            slides[currentSlide].className = 'slide';
-            currentSlide = (currentSlide + 1) % slides.length;
-            slides[currentSlide].className = 'slide showing';
-        };
-        setInterval(nextSlide, 8000);
-    }
+const prepareSlides = (slides) => {
+    forEach(slides, (slide) => {
+        let imageUrl = slide.dataset.src;
+        slide.style.backgroundImage = "url('" + imageUrl + "')";
+        axios.get(imageUrl + '-/preview/-/main_colors/2/').then((r) => {
+            slide.style.backgroundColor = 'rgba(' + r.data.main_colors[0].join(',') + ', 0.8)';
+        });
+    });
 };
-attachSlider();
+
+const attachSlider = (slides) => {
+    let currentSlide = 0;
+    const nextSlide = () => {
+        slides[currentSlide].className = 'slide';
+        currentSlide = (currentSlide + 1) % slides.length;
+        slides[currentSlide].className = 'slide showing';
+    };
+    setInterval(nextSlide, 8000);
+};
 
 
 /**
