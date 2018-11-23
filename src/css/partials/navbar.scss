@@ -75,10 +75,6 @@
 
 body.has-hero {
   &.black {
-    .navbar a {
-      color: $c-black;
-    }
-
     .animated-menu-icon {
       > div {
         background-color: $c-black;
@@ -88,10 +84,6 @@ body.has-hero {
   }
 
   &.white {
-    .navbar a {
-      color: $c-white;
-    }
-
     .animated-menu-icon {
       > div {
         background-color: $c-white;
@@ -176,7 +168,7 @@ body.has-hero {
 
   > div {
     width: 20px !important;
-    background: $c-white;
+    background: $c-white !important;
     box-shadow: none;
   }
 

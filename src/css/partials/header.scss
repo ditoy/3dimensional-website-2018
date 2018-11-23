@@ -40,38 +40,22 @@
 /* override for hero pages: show header on top of hero */
 body.has-hero {
 
-  &.black {
-    a {
-      color: $c-black;
-    }
+  .header {
+    position: absolute;
+    top: 0;
+  }
 
+  &.black {
     .logo-hero {
-      display: none !important;
+      display: none;
     }
 
     .logo-regular {
-      display: block !important;
+      display: block;
     }
   }
 
   &.white {
-    a {
-      color: $c-white;
-    }
-
-    .logo-hero {
-      display: block !important;
-    }
-
-    .logo-regular {
-      display: none !important;
-    }
-  }
-
-  .header {
-    position: absolute;
-    top: 0;
-
     .logo-hero {
       display: block;
     }
