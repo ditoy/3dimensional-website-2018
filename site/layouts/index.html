@@ -9,45 +9,45 @@
             {{ partial "svg/grid" . }}
         </div>
         <div id="slides" class="hero rellax" data-rellax-speed="-1">
-            <div class="slide showing" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide1_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide1_color }}{{ end }}">
+            <div class="slide showing" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide1_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide1_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide1_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide1_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
-            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide2_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide2_color }}{{ end }}">
+            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide2_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide2_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide2_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide2_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
-            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide3_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide3_color }}{{ end }}">
+            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide3_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide3_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide3_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide3_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
-            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide4_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide4_color }}{{ end }}">
+            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide4_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide4_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide4_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide4_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
-            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide5_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide5_color }}{{ end }}">
+            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide5_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide5_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide5_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide5_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
-            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide6_image }}{{ end }}">
-                <div class="claim {{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide6_color }}{{ end }}">
+            <div class="slide" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide6_image }}{{ end }}">
+                <div class="claim {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide6_color }}{{ end }}">
                     <div class="container">
-                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/slider.md") }}{{ .Params.slide6_claim }}{{ end }}</h1>
+                        <h1 class="rellax" data-rellax-speed="-1">{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.slide6_claim }}{{ end }}</h1>
                     </div>
                 </div>
             </div>
@@ -63,6 +63,17 @@
             <div class="container">
                 <article class="main introduction">
                     {{ .Content }}
+                </article>
+            </div>
+        </div>
+
+        <div class="stripe white">
+            <div class="container main">
+                <article>
+                    <img src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote1_image }}{{ end }}-/resize/600x/" alt="3D Strukturen">
+                    <cite>
+                        {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote1 }}{{ end }}
+                    </cite>
                 </article>
             </div>
         </div>
@@ -86,7 +97,7 @@
             <div class="container main">
                 <article>
                     <cite>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus augue. Nullam nec commodo.
+                        {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote2 }}{{ end }}
                     </cite>
                 </article>
             </div>
@@ -143,7 +154,7 @@
             <div class="container main">
                 <article>
                     <cite>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus augue. Nullam nec commodo.
+                        {{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote3 }}{{ end }}
                     </cite>
                 </article>
             </div>

@@ -31,11 +31,3 @@ date: '2018-07-01'
         In unseren vielfältig ausgestatteten Ateliers realisieren wir mit einem interdisziplinären Team ästhetisch und funktional anspruchsvolle Lösungen im Bereich der Display-, Beleuchtungs- und Signaletikproduktion.
     {{< /col >}}
 {{< /row >}}
-
-{{< switch-stripe color="white">}}
-
-<img src="https://www.cchobby.com/media/catalog/product/cache/14/image/9df78eab33525d08d6e5fb8d27136e95/5/9/59228_1.jpg" alt="3D Strukturen">
-
-{{< quote >}}
-    Wir verstehen uns als Partnerunternehmen für die Ideenfindung und Umsetzung dreidimensionaler Projekte mit höchsten Ansprüchen.
-{{< /quote >}}

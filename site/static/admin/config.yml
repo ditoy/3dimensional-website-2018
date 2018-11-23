@@ -38,9 +38,9 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "appSitemapUrl", name: "appSitemapUrl", widget: "string", tagname: "p" }
           - { label: "appGoogleVerification", name: "appGoogleVerification", widget: "string", tagname: "p" }
           - { label: "referenceCompetences", name: "referenceCompetences", widget: "list", tagname: "p" }
-      - label: "Slider Landing Page"
+      - label: "Landing Page Einstellungen"
         name: "configuration_slides"
-        file: "site/content/configuration/slider.md"
+        file: "site/content/configuration/landingpage.md"
         fields:
         - { label: "Slide 1 Bild", name: "slide1_image", widget: "file" }
         - { label: "Slide 1 Claim", name: "slide1_claim", widget: "string" }
