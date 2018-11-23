@@ -9,8 +9,7 @@ Design, Planung, Produktion\
 Oberwiesenstrasse 4\
 CH-8304 Wallisellen
 
-Tel +41 44 422 44 66\
-Fax +41 44 422 44 14
++41 44 422 44 66
 
 <a href="mailto:info@3dimensional.ch">info@3dimensional.ch</a>
 
