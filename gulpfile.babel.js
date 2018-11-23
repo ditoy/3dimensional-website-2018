@@ -109,9 +109,9 @@ function buildSite(cb, options, environment = 'development') {
     return spawn(hugoBin, args, {stdio: 'inherit'}).on('close', (code) => {
         if (code === 0) {
             // HTML minification - turn on prod only....
-            // gulp.start('htmlmin', () => {
-            //     browserSync.reload();
-            // });
+            gulp.start('htmlmin', () => {
+                browserSync.reload();
+            });
 
             browserSync.reload();
             cb();
