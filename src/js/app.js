@@ -72,20 +72,20 @@ const project = {
         }
     },
     getCompetenceByTag: function(tag) {
-        if (tag == 'Idee') {
+        if (tag.toLowerCase() === 'design') {
             return this.competence.concept;
-        } else if (tag == 'Planung') {
+        } else if (tag.toLowerCase() === 'Planung') {
             return this.competence.planning;
-        } else if (tag == 'Ausführung') {
+        } else if (tag.toLowerCase() === 'Produktion') {
             return this.competence.implementation;
         }
     },
     getActivityByTag: function(tag) {
-        if (tag == 'Idee') {
+        if (tag.toLowerCase() === 'Design') {
             return this.activity.concept;
-        } else if (tag == 'Planung') {
+        } else if (tag.toLowerCase() === 'Planung') {
             return this.activity.planning;
-        } else if (tag == 'Ausführung') {
+        } else if (tag.toLowerCase() === 'Produktion') {
             return this.activity.implementation;
         }
     },

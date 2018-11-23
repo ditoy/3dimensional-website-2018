@@ -14,7 +14,7 @@
                 "implementation" : {{ if eq $element.Params.implementation true }}true{{ else }}false{{ end }},
                 "activities" : "{{ range $element.Params.activities }}{{ . }} {{ end }}",
                 "icons" : "{{ if eq $element.Params.concept true }}{{ $concept_icon }}{{ end }}{{ if eq $element.Params.planning true }}{{ $planning_icon }}{{ end }}{{ if eq $element.Params.implementation true }}{{ $implementation_icon }}{{ end }}",
-                "featuredimage" : "background-image: url('{{ $element.Params.image }}-/scale_crop/500x375/center/');"
+                "featuredimage" : "background-image: url('{{ $element.Params.image }}-/scale_crop/400x300/center/');"
             }
         {{ end }}
     {{ end }}

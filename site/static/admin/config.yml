@@ -115,9 +115,9 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Nicht auf Website publizieren", name: "draft", widget: "boolean", default: true, required: false }
       - { label: "Jahr", name: "Year", widget: "date", format: "YYYY", required: false }
       - { label: "Referenz-URL", name: "reference", widget: "string", required: false }
-      - { label: "Konzept", name: "concept", widget: "boolean", default: false, required: false }
+      - { label: "Design", name: "concept", widget: "boolean", default: false, required: false }
       - { label: "Planung", name: "planning", widget: "boolean", default: false, required: false }
-      - { label: "Umsetzung", name: "implementation", widget: "boolean", default: false, required: false }
+      - { label: "Produktion", name: "implementation", widget: "boolean", default: false, required: false }
       - label: "Aufgabenbereiche"
         name: "activities"
         widget: "list"
