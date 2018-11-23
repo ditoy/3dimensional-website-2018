@@ -74,11 +74,32 @@
 /* color modifiers for navbar on heros */
 
 body.has-hero {
-  .navbar a {
-    color: $c-mediumgray;
+  &.black {
+    .navbar a {
+      color: $c-black;
+    }
+
+    .animated-menu-icon {
+      > div {
+        background-color: $c-black;
+        box-shadow: 1px 1px 2px 0 rgba($c-white, 0.5);
+      }
+    }
+  }
+
+  &.white {
+    .navbar a {
+      color: $c-white;
+    }
+
+    .animated-menu-icon {
+      > div {
+        background-color: $c-white;
+        box-shadow: 1px 1px 2px 0 rgba($c-black, 0.5);
+      }
+    }
   }
 }
-
 
 
 /* animated hamburger menu icon -> changes to X when menu open */
@@ -148,16 +169,6 @@ body.has-hero {
     top: 30px;
     transform-origin: left center;
     z-index: $z-toggler-l4;
-  }
-}
-
-/* has-hero color modifier for menu toggler */
-.has-hero {
-  .animated-menu-icon {
-    > div {
-      background-color: $c-white;
-      box-shadow: 1px 1px 2px 0 rgba($c-black, 0.5);
-    }
   }
 }
 

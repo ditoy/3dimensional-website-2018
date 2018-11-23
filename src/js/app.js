@@ -389,7 +389,6 @@ function listProjects(id, list) {
         '</div><ul class="icons"></ul></div></a><div class="clear"></div></li>'
     };
 
-    // console.log('LIST.JS', list);
     if (list.length > 0) {
         let mylist = new List(id, options);
         mylist.clear();
@@ -448,10 +447,8 @@ const prepareSlides = (slides) => {
     forEach(slides, (slide) => {
         let imageUrl = slide.dataset.src;
 
-
         const isPhone = window.screen.width < 800 ? true : false;
         const isDesktop = window.screen.width > 1400 ? true : false;
-
         let width = 1024;
         if (isPhone) {
             width = 800;
@@ -474,6 +471,21 @@ const attachSlider = (slides) => {
         slides[currentSlide].className = 'slide';
         currentSlide = (currentSlide + 1) % slides.length;
         slides[currentSlide].className = 'slide showing';
+
+        let currentSlideElem = document.querySelector('.slide.showing');
+        let claim = currentSlideElem.querySelector('.claim');
+
+        if (claim.classList.contains('black')) {
+            if (document.body.classList.contains('white')) {
+                document.body.classList.remove('white');
+            }
+            document.body.classList.add('black');
+        } else {
+            if (document.body.classList.contains('black')) {
+                document.body.classList.remove('black');
+            }
+            document.body.classList.add('white');
+        }
     };
     setInterval(nextSlide, 8000);
 };
