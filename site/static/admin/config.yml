@@ -25,9 +25,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "site/content/configuration/config.md"
         fields:
           - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
-          - { label: "Footer Spalte 1", name: "appFooterCol1", widget: "markdown", tagname: "div" }
-          - { label: "Footer Spalte 2", name: "appFooterCol2", widget: "markdown", tagname: "div" }
-          - { label: "Footer Spalte 3", name: "appFooterCol3", widget: "markdown", tagname: "div" }
           - { label: "appColor", name: "appColor", widget: "string", tagname: "p" }
           - { label: "appTitle", name: "appTitle", widget: "string", tagname: "p" }
           - { label: "appTitleShort", name: "appTitleShort", widget: "string", tagname: "p" }
@@ -60,6 +57,13 @@ collections: # A list of collections the CMS should be able to edit
         - { label: "Slide 6 Bild", name: "slide6_image", widget: "file" }
         - { label: "Slide 6 Claim", name: "slide6_claim", widget: "string" }
         - { label: "Slide 6 Textfarbe", name: "slide6_color", widget: "select", options: ["black", "white"] }
+      - label: "Footer Einstellungen"
+        name: "configuration_footer"
+        file: "site/content/configuration/footer.md"
+        fields:
+        - { label: "Footer Spalte 1", name: "column_1", widget: "markdown", tagname: "div" }
+        - { label: "Footer Spalte 2", name: "column_2", widget: "markdown", tagname: "div" }
+        - { label: "Footer Spalte 3", name: "column_3", widget: "markdown", tagname: "div" }
 
   - label: "Index-Seiten"
     name: "page_index"

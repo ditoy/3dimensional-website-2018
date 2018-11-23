@@ -8,14 +8,14 @@
         </div>
         <div class="row">
             <div class="col-4">
-                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol1 | markdownify }}{{ end }}
+                {{ with ($.Site.GetPage "page" "configuration/footer.md") }}{{ .Params.column_1 | markdownify }}{{ end }}
             </div>
             <div class="col-4">
-                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol2 | markdownify }}{{ end }}
+                {{ with ($.Site.GetPage "page" "configuration/footer.md") }}{{ .Params.column_2 | markdownify }}{{ end }}
                 <div class="spacer-4x"></div>
             </div>
             <div class="col-4">
-                {{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appFooterCol3 | markdownify }}{{ end }}
+                {{ with ($.Site.GetPage "page" "configuration/footer.md") }}{{ .Params.column_3 | markdownify }}{{ end }}
             </div>
         </div>
         <div class="row">
