@@ -44,19 +44,31 @@
 
                         <div class="cont">
 							<div class="page-head">
-								<div class="demo-gallery">
-							    {{ if .Params.projectpictures }}
+								<div class="gallery">
+                                {{ if or (.Params.projectpictures) (.Params.image) }}
 								<ul id="lightgallery">
-								  {{ range .Params.projectpictures }}
-							      <li data-responsive="#" data-src="{{ . }}">
-							        <a href="#">
-							          <img src="{{ . }}" title="Projektbild">
-							          <div class="demo-gallery-poster">
-							            <img src="./zoom.png" alt="Bild vergrössern">
-							          </div>
-							        </a>
-							      </li>
-								  {{ end }}
+                                  {{ if .Params.image }}
+                                    <li data-responsive="#" data-src="{{ .Params.image }}-/resize/1400/">
+                                        <a href="#">
+                                            <img src="{{ .Params.image }}-/scale_crop/400x300/center/" title="Projektbild">
+                                            <div class="gallery-poster">
+                                                <img src="./zoom.png" alt="Bild vergrössern">
+                                            </div>
+                                        </a>
+                                    </li>
+                                  {{ end }}
+                                  {{ if .Params.projectpictures }}
+                                      {{ range .Params.projectpictures }}
+                                          <li data-responsive="#" data-src="{{ . }}-/resize/1400/">
+                                            <a href="#">
+                                              <img src="{{ . }}-/scale_crop/400x300/center/" title="Projektbild">
+                                              <div class="gallery-poster">
+                                                <img src="./zoom.png" alt="Bild vergrössern">
+                                              </div>
+                                            </a>
+                                          </li>
+                                      {{ end }}
+                                    {{ end }}
 							    </ul>
 							    {{ end }}
 							  </div>

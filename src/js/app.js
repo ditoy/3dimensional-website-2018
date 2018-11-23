@@ -192,7 +192,12 @@ window.onload = function() {
     }
 
     if (document.getElementById('lightgallery')) {
-        window.lightGallery(document.getElementById('lightgallery'));
+        window.lightGallery(document.getElementById('lightgallery'), {
+            cssEasing: 'cubic-bezier(0.15, 1.05, 0.9, 1)',
+            speed: 800,
+            backdropDuration: 400,
+            download: false
+        });
     }
 };
 
