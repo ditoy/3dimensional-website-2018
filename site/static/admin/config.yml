@@ -40,7 +40,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "referenceCompetences", name: "referenceCompetences", widget: "list", tagname: "p" }
       - label: "Slider Landing Page"
         name: "configuration_slides"
-        file: "site/content/_index.md"
+        file: "site/content/configuration/slider.md"
         fields:
         - { label: "Slide 1 Bild", name: "slide1_image", widget: "file" }
         - { label: "Slide 1 Claim", name: "slide1_claim", widget: "string" }
