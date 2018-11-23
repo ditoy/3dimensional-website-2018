@@ -3,7 +3,9 @@ title: Slider Configuration
 quote1: 'Wir verstehen uns als Partnerunternehmen für die Ideenfindung und Umsetzung dreidimensionaler Projekte mit höchsten Ansprüchen.'
 quote1_image: 'https://ucarecdn.com/aba04285-e172-4eaf-8918-2034eeac49f6/'
 quote2: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus augue. Nullam nec commodo 2.'
+quote2_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
 quote3: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus augue. Nullam nec commodo 3.'
+quote3_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
 slide1_image: 'https://ucarecdn.com/753852ca-f413-4b05-96f3-076deda39266/'
 slide1_claim: Claim 1 dunkel auf hell
 slide1_color: black

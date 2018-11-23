@@ -165,6 +165,12 @@ window.onload = function() {
         attachSlider(slides);
     }
 
+    // init stripes
+    const stripes = document.querySelectorAll('.stripe');
+    if (stripes.length > 0) {
+        prepareStripes(stripes);
+    }
+
     if (document.getElementById('projects-filterable')) {
         // prepare competence tag selector
         selectProjects('kompetenzen', competenceList);
@@ -447,12 +453,10 @@ const prepareSlides = (slides) => {
     forEach(slides, (slide) => {
         let imageUrl = slide.dataset.src;
 
-        const isPhone = window.screen.width < 800 ? true : false;
-        const isDesktop = window.screen.width > 1400 ? true : false;
         let width = 1024;
-        if (isPhone) {
+        if (isPhone()) {
             width = 800;
-        } else if (isDesktop) {
+        } else if (isDesktop()) {
             width = 1600;
         }
         let height = Math.round(width / (16/9));
@@ -492,6 +496,28 @@ const attachSlider = (slides) => {
 
 
 /**
+ * Home Stripes
+ */
+const prepareStripes = (stripes) => {
+    forEach(stripes, (stripe) => {
+        const imageUrl = stripe.dataset.src ? stripe.dataset.src : false;
+        if (imageUrl) {
+            let width = 1024;
+            if (isPhone()) {
+                width = 800;
+            } else if (isDesktop()) {
+                width = 1600;
+            }
+            let height = Math.round(width / (16/3));
+            let imageOptions = "-/scale_crop/" + width + "x" + height + "/center/";
+
+            stripe.style.backgroundImage = "url('" + imageUrl + imageOptions + "')";
+        }
+    });
+};
+
+
+/**
  * Home parallax scrolling with rellax.js
  */
 const attachRellax = () => {
@@ -523,3 +549,16 @@ const attachJobSliders = () => {
     }
 };
 attachJobSliders();
+
+
+/**
+ * Helpers
+ */
+
+const isPhone = () => {
+    return window.screen.width < 800 ? true : false;
+}
+
+const isDesktop = () => {
+    return window.screen.width > 1400 ? true : false;
+}

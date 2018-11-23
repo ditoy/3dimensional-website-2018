@@ -93,7 +93,7 @@
             </div>
         </div>
 
-        <div class="stripe black">
+        <div class="stripe black" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote2_image }}{{ end }}">
             <div class="container main">
                 <article>
                     <cite>
@@ -150,7 +150,7 @@
             </div>
         </div>
 
-        <div class="stripe gray">
+        <div class="stripe black" data-src="{{ with ($.Site.GetPage "page" "configuration/landingpage.md") }}{{ .Params.quote3_image }}{{ end }}">
             <div class="container main">
                 <article>
                     <cite>
