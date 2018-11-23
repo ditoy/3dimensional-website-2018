@@ -30,6 +30,10 @@ body.projects {
 .card-inner,
 .project {
 
+  .projectimage {
+    max-width: 600px;
+  }
+
   .icons {
     display: block;
     list-style: none;
