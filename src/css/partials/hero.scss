@@ -1,5 +1,21 @@
 body.has-hero {
 
+  &.black {
+    #animated-grid-svg {
+      .cls {
+        stroke: $c-darkgray !important;
+      }
+    }
+  }
+
+  &.white {
+    #animated-grid-svg {
+      .cls {
+        stroke: $c-mediumgray !important;;
+      }
+    }
+  }
+
   #animated-grid {
     display: block;
     position: absolute;
@@ -23,6 +39,61 @@ body.has-hero {
         max-height: 400px;
         float: right;
       }
+
+      .cls {
+        stroke: $c-green;
+        stroke-miterlimit: 10;
+        transition: $tr-scope $tr-ease $tr-speed;
+      }
+
+      @keyframes anim01 {
+        0% {
+          opacity: 1;
+        }
+
+        50% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 1;
+        }
+      }
+
+      @keyframes anim02 {
+        0% {
+          opacity: 1;
+        }
+
+        50% {
+          opacity: 0.1;
+        }
+
+        100% {
+          opacity: 1;
+        }
+      }
+
+      .cls-28, .cls-40 {
+        animation: anim01 15s infinite;
+        fill: $c-green !important;
+      }
+
+      .cls-15, .cls-16 {
+        animation: anim01 11s infinite;
+        fill: $c-green !important;
+      }
+
+      .cls-3, .cls-30, .cls-33    {
+        animation: anim02 9s infinite;
+        fill: $c-green !important;
+      }
+
+      .cls-10, .cls-26  {
+        animation: anim02 5s infinite;
+        fill: $c-green !important;
+      }
+
     }
   }
 
@@ -91,42 +162,6 @@ body.has-hero {
   .slide {
     z-index: 0;
   }
-
-  .cls {
-    fill: none;
-    stroke:#b6b6b7;
-    stroke-miterlimit:10;
-  }
-
-  @keyframes anim01 {
-    0% {
-      opacity: 1;
-    }
-
-    50% {
-      opacity: 0;
-    }
-
-    100% {
-      opacity: 1;
-    }
-  }
-
-
-  .cls-15, .cls-28, cls-40, .cls-16 {
-    animation: anim01 10s infinite;
-    fill: $c-green;
-  }
-  .cls-3, .cls-30, .cls-33    {
-    animation: anim01 7s infinite;
-    fill: $c-green;
-  }
-
-  .cls-10, .cls-26  {
-    animation: anim01 15s infinite;
-    fill: $c-green;
-  }
-
 
   #slides {
     position: relative;

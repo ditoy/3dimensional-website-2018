@@ -5,7 +5,7 @@ import {fadeOut, forEach} from 'ditoy-js-utils';
 const List = require('list.js');
 const Autogrow = require('textarea-autogrow');
 
-const Rellax = require('rellax');
+// const Rellax = require('rellax');
 
 // let MobileDetect = require('mobile-detect');
 // let md = new MobileDetect(window.navigator.userAgent);
@@ -554,12 +554,12 @@ const prefillImage = (elem, imageUrl) => {
 /**
  * Home parallax scrolling with rellax.js
  */
-const attachRellax = () => {
-    if (document.querySelectorAll('.rellax').length > 0) {
-        new Rellax('.rellax');
-    }
-};
-attachRellax();
+// const attachRellax = () => {
+//     if (document.querySelectorAll('.rellax').length > 0) {
+//         new Rellax('.rellax');
+//     }
+// };
+// attachRellax();
 
 
 /**
