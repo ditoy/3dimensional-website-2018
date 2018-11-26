@@ -2,7 +2,7 @@ body.projects {
   background-color: $c-lightgray;
 
   h1 {
-    margin: 1.3em 0 2em 0;
+    margin: 1.3em 0 1.3em 0;
     font-size: 2.3em;
 
     @include media('<=phone') {
@@ -30,7 +30,25 @@ body.projects {
 .project {
 
   .projectimage {
-    max-width: 600px;
+    @include media('<=phone') {
+      max-width: 300px;
+    }
+
+    @include media('>phone', '<=tablet') {
+      max-width: 300px;
+    }
+
+    @include media('>tablet', '<=desktop') {
+      max-width: 400px;
+    }
+
+    @include media('>desktop', '<=mega') {
+      max-width: 500px;
+    }
+
+    @include media('>=mega') {
+      max-width: 700px;
+    }
   }
 
   .icons {
@@ -54,7 +72,7 @@ body.projects {
     &.bigger {
       .icon {
         width: 2em;
-        margin: 2.5em 0.4em 0 0.4em;
+        margin: 0.4em 0.4em 0 0.4em;
       }
     }
   }
