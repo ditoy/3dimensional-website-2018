@@ -30,6 +30,6 @@ quote2: >-
 quote3_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
 quote3: >-
   Sprechen Sie mit uns über Ihre Projektidee! Wir realisieren auch
-  anspruchsvolle Konzepte mit höchsten ästhetischen Anforderungen.
+  anspruchsvolle 3dimensionale Konzepte mit höchsten ästhetischen Anforderungen.
 ---
 
