@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: '2018-07-26'
 title: 'Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich'
 ---
