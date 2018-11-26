@@ -28,6 +28,8 @@ quote2: >-
   Setzen Sie für die Produktion Ihrer 3dimensionalen Ideen auf unser
   interdisziplinäres Team aus erfahrenen Designern, Planern und Handwerkern.
 quote3_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
-quote3: Sprechen Sie mit einem unserer motivierten Mitarbeiter über
+quote3: >-
+  Sprechen Sie mit uns über Ihre Projektidee! Wir realisieren auch
+  anspruchsvolle Konzepte mit höchsten Anforderungen an die Ästhetik.
 ---
 
