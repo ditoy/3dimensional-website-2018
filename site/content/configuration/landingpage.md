@@ -25,8 +25,8 @@ quote1: >-
   dreidimensionaler Projekte mit höchsten Ansprüchen.
 quote2_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
 quote2: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus
-  augue. Nullam nec commodo 2.
+  Setzen Sie für Produktion Ihrer 3dimensionalen Projekte auf unser
+  interdisziplinäres Team aus erfahrenen Designern, Planern und Handwerkern.
 quote3_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
 quote3: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed lacus
