@@ -101,8 +101,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
         - { label: "Publikationsdatum", name: "date", widget: "datetime" }
-        - { label: "Seiteninhalt", name: "body", widget: "markdown" }
-
+        - { label: "offene Stellen?", name: "hasJobs", widget: "boolean" }
+        - { label: "Text mit offenen Stellen", name: "textJobs", widget: "markdown" }
+        - { label: "Text ohne Stellen", name: "textNoJobs", widget: "markdown" }
   - name: "page"
     label: "Weitere Seiten"
     folder: "site/content"

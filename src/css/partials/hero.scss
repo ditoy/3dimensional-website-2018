@@ -3,7 +3,7 @@ body.has-hero {
   &.black {
     #animated-grid-svg {
       .cls {
-        stroke: $c-darkgray !important;
+        stroke: lighten($c-darkgray, 10%) !important;
       }
     }
   }
@@ -11,7 +11,7 @@ body.has-hero {
   &.white {
     #animated-grid-svg {
       .cls {
-        stroke: $c-mediumgray !important;;
+        stroke: darken($c-mediumgray, 10%) !important;;
       }
     }
   }

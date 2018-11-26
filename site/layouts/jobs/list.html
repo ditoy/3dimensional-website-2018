@@ -11,8 +11,11 @@
             <div class="container">
                 <article class="main">
                     <h1>{{ .Title }}</h1>
-
-                    {{ .Content }}
+                    {{ if .Params.hasJobs }}
+                        {{ .Params.textJobs | markdownify }}
+                    {{ else }}
+                        {{ .Params.textNoJobs | markdownify }}
+                    {{ end}}
                 </article>
             </div>
         </div>
