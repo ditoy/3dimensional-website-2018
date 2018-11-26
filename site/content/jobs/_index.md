@@ -13,7 +13,7 @@ textJobs: >-
   AVOR benötigen.
 
 
-  Für folgende Stellen suchen wir die passende Besetzung:
+  Im Moment suchen wir für folgende Stellen die passende Besetzung:
 textNoJobs: >-
   Wir freuen uns, dass Sie sich für eine Anstellung in unserem Unternehmen
   interessieren. Im Moment haben wir gerade keine offenen Stellen zu besetzen.
