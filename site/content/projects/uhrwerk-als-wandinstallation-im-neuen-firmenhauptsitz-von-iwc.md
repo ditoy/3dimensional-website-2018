@@ -7,6 +7,9 @@ Year: '2017'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Display
+  - Shopdesign
 image: 'https://ucarecdn.com/6a5311ce-8dc6-4baa-bc8b-c538642fdf13/'
 teaser: ' Die sprichwörtliche Präzision in den grossen Massstab übersetzt'
 projectpictures:
