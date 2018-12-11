@@ -13,4 +13,4 @@ teaser: >-
   Materialisiert aus bedruckten Kartonschachteln und einer halben Tonne
   hängender Glycerinseifen
 ---
-Der Stand mit dem imposanten Lüster in Form eines hängenden Wasserwirbels wurde für den Auftritt des schweizer Armaturen Hersteller arwa an der Milano Design Week realisiert. Für die Umsetzung des sinnlichen Entwurfs von Bureau Hindermann fanden 1200 Glycerinseifen der Firma Mettler und 100 bedruckte Kartonschachteln Verwendung. Während der Wirbel das fliessende Wasser aus Armaturen und Duschbrausen verkörpert, vermittelt die Kartonwand den Besuchern Hintergründe zum Produktionsprozess der Armaturen.
+Der Stand mit dem imposanten Lüster in Form eines hängenden Wasserwirbels wurde für den Auftritt des schweizer Armaturen Hersteller arwa an der Milano Design Week realisiert. Für die Umsetzung des sinnlichen Entwurfs von Bureau Hindermann fanden 1200 Glycerinseifen und 100 bedruckte Kartonschachteln Verwendung. Während der Wirbel das fliessende Wasser aus Armaturen und Duschbrausen verkörpert, vermittelt die Kartonwand den Besuchern Hintergründe zum Produktionsprozess der Armaturen.
