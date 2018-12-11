@@ -9,7 +9,7 @@ quote: >-
   Nach einem Projekt voll neuer Herausforderungen und konstruktiver Lösungen mit
   dem zufriedenen Kunden vor dem fertigen Produkt zu stehen — that's it!
 email: vonorelli@3dimensional.ch
-phone: 044 422 44 18
+phone: +41 44 422 44 18
 image: 'https://ucarecdn.com/187239c6-0d09-4bb6-81e7-851392edf31a/'
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
