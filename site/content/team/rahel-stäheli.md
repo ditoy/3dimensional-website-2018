@@ -4,8 +4,11 @@ position: 20
 draft: false
 robotsExclude: false
 title: Rahel Stäheli
-function: 'Projektleiterin, Eidg. dipl. Holztechnikerin HF'
-quote: Lorem ipsum dolor sit amen.
+function: 'Projektleiterin, Holztechnikerin HF'
+quote: >-
+  Wenn es im Projekt gelingt in einen Flow zu kommen, wo alles wie am Schnürchen
+  läuft und sich am Schluss alle zufrieden über das Erreichte freuen, dann war
+  es wieder mal mein Lieblingsprojekt.
 email: staeheli@3dimensional.ch
 phone: 044 422 44 26
 image: 'https://ucarecdn.com/af36c519-4674-463c-9d80-c960542ba309/'
