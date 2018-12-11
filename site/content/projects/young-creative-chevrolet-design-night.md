@@ -7,6 +7,9 @@ Year: '2018'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Eventgestaltung
+  - Display
 image: 'https://ucarecdn.com/72ec9d18-2f93-4036-ab91-fecb8226892d/'
 teaser: >-
   Führende Köpfe aus der Kreativwirtschaft präsentieren ihre Sicht auf kommende
