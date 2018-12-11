@@ -7,6 +7,8 @@ Year: '2013'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Eventgestaltung
 image: 'https://ucarecdn.com/a579fadc-04ff-4583-987f-5d82b9769ad3/'
 imageAlt: ''
 teaser: Damit junge Solisten dereinst gross rauskommen brauchen sie die richtige Bühne
