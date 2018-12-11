@@ -7,6 +7,9 @@ Year: '2018'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Point-of-Sale
+  - Shopdesign
 image: 'https://ucarecdn.com/357ab143-8a90-4437-8896-873c5f25f52f/'
 imageAlt: ''
 teaser: >-
