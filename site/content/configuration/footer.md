@@ -9,6 +9,6 @@ column_2: |-
   <a href="mailto:info@3dimensional.ch">info@3dimensional.ch</a>
 column_3: |-
   Mo-Fr 8.00h bis 17.30h\
-  Unsere Ateliers und Büros können jederzeit und flexibel besucht werden.
+  Unsere Ateliers und Büros können nach Absprache gerne besucht werden.
 ---
 
