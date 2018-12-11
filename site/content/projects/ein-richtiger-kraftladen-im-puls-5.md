@@ -7,6 +7,9 @@ Year: '2004'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Shopdesign
+  - Point-of-Sale
 image: 'https://ucarecdn.com/57f06041-c177-473a-a50d-fd3cbba909ed/'
 imageAlt: ''
 teaser: Mit Eiweiss zur kraftstrotzenden Form für den perfekten Auftritt
