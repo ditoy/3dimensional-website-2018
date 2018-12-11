@@ -7,6 +7,8 @@ Year: '2018'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Signaletik
 image: 'https://ucarecdn.com/c66ba378-99f4-4fca-87e0-57d57359d893/'
 imageAlt: ''
 teaser: Mehr Stil als Stilhaus geht nicht. Und wer hat's beschriftet?
