@@ -7,6 +7,8 @@ Year: '2008'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Signaletik
 image: 'https://ucarecdn.com/7d04066e-5439-4aa0-811f-2e315bb80a44/'
 teaser: 'Es braucht nicht viel, aber dieses wenige muss sitzen'
 projectpictures:
