@@ -7,6 +7,8 @@ Year: '2018'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Signaletik
 image: 'https://ucarecdn.com/7c13bdc1-e5e1-4582-bdc9-523fe0287b45/'
 teaser: Die Braumeister von Schützengarten leben Bierkultur seit über 230 Jahren
 ---
