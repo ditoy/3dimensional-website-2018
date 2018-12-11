@@ -7,6 +7,9 @@ Year: '2017'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Ausstellungsgestaltung
+  - null
 image: 'https://ucarecdn.com/9dd6d692-4237-4e7f-b204-29dbc29618e4/'
 teaser: >-
   Mit dem dreirädrigen Zustellfahrzeug der Post das Verteilen gleich selber
