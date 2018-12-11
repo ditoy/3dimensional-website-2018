@@ -7,6 +7,8 @@ Year: '2007'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Signaletik
 image: 'https://ucarecdn.com/616dace5-00a6-4183-81ca-8bc2fe4ef5f7/'
 imageAlt: ''
 teaser: >-
