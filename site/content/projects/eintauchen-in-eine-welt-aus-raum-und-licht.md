@@ -7,6 +7,8 @@ Year: '2010'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Ausstellungsgestaltung
 image: 'https://ucarecdn.com/03b4b650-2c84-49aa-96e3-3c5103022f01/'
 teaser: >-
   Die Arbeit mit Licht ist eine Handwerkskunst. Eine Kunst, die Inspiration und
