@@ -7,6 +7,8 @@ Year: '2009'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Schaufenstergestaltung
 image: 'https://ucarecdn.com/8ba18549-1f4c-49e5-8f9e-0d14360091de/'
 teaser: >-
   Ein Schaufenster für den Klassiker von Denz, heute Teil der Marke Lista Office
