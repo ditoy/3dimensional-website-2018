@@ -7,6 +7,9 @@ Year: '2008'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Ausstellungsgestaltung
+  - Messegestaltung
 image: 'https://ucarecdn.com/a98ceca3-e532-4606-92ed-3f4ac6ff2978/-/preview/'
 imageAlt: ''
 teaser: >-
