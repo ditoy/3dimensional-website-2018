@@ -13,4 +13,4 @@ email: staeheli@3dimensional.ch
 phone: 044 422 44 26
 image: 'https://ucarecdn.com/af36c519-4674-463c-9d80-c960542ba309/'
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Für Rahel Stäheli ist die Welt in Bewegung — oder Bewegung die Welt. Geschult am prozessorientierten Denken in der seriellen Möbelproduktion bahnte ihr die Zusatzausbildung zur Innenausbauzeichnerin den Weg in Richtung Gestaltung und führte sie zum Produktdesign. Von Ihrem Kulturinteresse lässt sie sich an die Konzerte ausgefallener Bands lotsen und in den urbanen Sporthallen bleibt sie nicht nur mit Yoga in Schwung.
