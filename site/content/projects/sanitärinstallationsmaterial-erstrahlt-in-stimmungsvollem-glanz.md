@@ -1,5 +1,5 @@
 ---
-title: Aus Sanitärmaterial ensteht stimmungsvolle Beleuchtung im Sitzungszimmer
+title: Aus Sanitärmaterial ensteht stimmungsvolle Beleuchtung im Schulungsraum
 date: 2018-09-21T14:35:19.635Z
 position: 20
 draft: false
