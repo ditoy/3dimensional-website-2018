@@ -7,6 +7,10 @@ Year: '2014'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Shopdesign
+  - Point-of-Sale
+  - Display
 image: 'https://ucarecdn.com/d5801d58-6928-4d03-8719-4edcdf2ac7f7/'
 teaser: >-
   Im Grand Resort Bad Ragaz bietet La Prairie zusätzlich zum Spa-Erlebnis nun
