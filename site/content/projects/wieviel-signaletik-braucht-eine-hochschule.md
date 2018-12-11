@@ -4,7 +4,7 @@ date: 2018-10-09T13:48:23.301Z
 position: 20
 draft: false
 Year: '2018'
-concept: true
+concept: false
 planning: true
 implementation: true
 image: 'https://ucarecdn.com/27774543-52c1-4a63-aac0-e95aa72932cb/'
