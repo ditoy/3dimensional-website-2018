@@ -4,7 +4,9 @@ position: 20
 draft: false
 robotsExclude: false
 title: Dani von Orelli
-function: Projektleiter
+function: >-
+  Nach einem Projekt voller neuer Herausforderungen und konstruktiven Lösungen,
+  mit dem zufriedenen Kunden vor dem fertigen Produkt zu stehen — that's it!
 quote: Lorem ipsum dolor sit amet.
 email: vonorelli@3dimensional.ch
 phone: 044 422 44 18
