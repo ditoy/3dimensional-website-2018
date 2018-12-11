@@ -5,7 +5,7 @@ draft: false
 robotsExclude: false
 title: Dani von Orelli
 function: >-
-  Nach einem Projekt voller neuer Herausforderungen und konstruktiven Lösungen,
+  Nach einem Projekt voll neuer Herausforderungen und konstruktiver Lösungen,
   mit dem zufriedenen Kunden vor dem fertigen Produkt zu stehen — that's it!
 quote: Lorem ipsum dolor sit amet.
 email: vonorelli@3dimensional.ch
