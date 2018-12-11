@@ -7,6 +7,8 @@ Year: '2016'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Eventgestaltung
 image: 'https://ucarecdn.com/ab9a8d96-5efe-4aa9-8e41-c7d4a0229aa6/'
 teaser: Spielerisch Aufmerksamkeit schaffen für die Anliegen der Menschen in der Welt
 ---
