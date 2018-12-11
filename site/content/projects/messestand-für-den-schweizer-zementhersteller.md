@@ -7,6 +7,8 @@ Year: '2018'
 concept: true
 planning: true
 implementation: true
+activities:
+  - Messegestaltung
 image: 'https://ucarecdn.com/019b1bf2-bb46-4400-bd24-e453be6cd631/'
 teaser: >-
   Die grösste Baumesse der Schweiz — die Swissbau — ist ein zentraler
