@@ -1,5 +1,5 @@
 ---
-title: 'Baustoffe für die Zukunft in der Umweltarena '
+title: 'Baustoffe der Zukunft für die Optimo Roadshow '
 date: 2018-10-16T13:10:00.000Z
 position: 20
 draft: false
