@@ -7,6 +7,9 @@ Year: '2016'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Schaufenstergestaltung
+  - Display
 image: 'https://ucarecdn.com/d88adbc8-672c-431e-913a-56e40abfacd6/'
 teaser: Die Weihnachtszeit bringt nicht nur Kinderaugen zum Glitzern und Glänzen
 ---
