@@ -4,7 +4,7 @@ date: 2018-10-08T12:52:14.131Z
 position: '10'
 draft: false
 Year: '2018'
-concept: true
+concept: false
 planning: true
 implementation: true
 activities:
