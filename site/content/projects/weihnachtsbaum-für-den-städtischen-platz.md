@@ -7,6 +7,8 @@ Year: '2017'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Display
 image: 'https://ucarecdn.com/f851e298-947f-4e1c-ab18-6a2904351182/'
 teaser: >-
   Was gibt es Schöneres, als während der Weihnachtszeit durch die geschmückten
