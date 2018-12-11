@@ -7,6 +7,8 @@ Year: '2013'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Schaufenstergestaltung
 image: 'https://ucarecdn.com/fbfbff45-db0f-4041-84ac-4ebeffef7645/'
 imageAlt: ''
 teaser: >-
