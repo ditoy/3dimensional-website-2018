@@ -14,4 +14,4 @@ teaser: >-
   Der neue Campus Info ist die Anlaufstelle für Information und Services rund um
   die ETH Zürich
 ---
-Wer viel fragt, wird bekanntlich klüger. Beim Campus Info der ETH kann dies ausgiebig testen, wer Informationen mit Bezug zur ETH sucht. Damit die neue Anlaufstelle auch sicher gefunden wird, hat 3dimensional das Signaletik Konzept präzis umgesetzt.
+Wer viel fragt, wird bekanntlich klüger. Beim Campus Info der ETH kann dies ausgiebig testen, wer Informationen mit Bezug zur ETH sucht. Damit die neue Anlaufstelle auch sicher gefunden wird, hat 3dimensional das Signaletik Konzept von Pikka GmbH sehr präzis umgesetzt.
