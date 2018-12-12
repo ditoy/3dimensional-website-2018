@@ -132,7 +132,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Aufgabenbereiche"
         name: "activities"
         widget: "list"
-        field: {label: "Aufgabenbereich", widget: "select", options: ['Shopdesign', 'Bürodesign', 'Rendering', 'Ausstellungsgestaltung', 'Schaufenstergestaltung', 'Eventgestaltung', 'Messegestaltung', 'Signaletik', 'Display', 'Point-of-Sale']}
+        field: {label: "Aufgabenbereich", widget: "select", options: ['Ausstellungsgestaltung', ‘Beschriftung’, 'Bürodesign', 'Display', 'Eventgestaltung', ‘Innenarchitektur’, ‘Leuchtendesign’, ‘Leuchtwerbung’, 'Messegestaltung', ‘Point-of-Information’, 'Point-of-Sale’, ‘Promotionsfläche’, 'Rendering', 'Schaufenstergestaltung', 'Shopdesign', 'Signaletik', ‘Wandgestaltung’]}
         required: false
       - { label: "Teaser-Bild", name: "image", widget: "image" }
       - { label: "Teaser-Bild Titel / Alt", name: "imageAlt", widget: "string", required: false }
