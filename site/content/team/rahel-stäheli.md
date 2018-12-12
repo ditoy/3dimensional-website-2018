@@ -6,7 +6,7 @@ robotsExclude: false
 title: Rahel Stäheli
 function: 'Projektleiterin, Holztechnikerin HF'
 quote: >-
-  Wenn alles wie am Schnürchen läuft bis sich am Ende alle zufrieden über das
+  Wenn es wie am Schnürchen läuft und sich am Ende alle zufrieden über das
   Erreichte freuen, dann leite ich gerade wieder mal mein Lieblingsprojekt.
 email: staeheli@3dimensional.ch
 phone: 044 422 44 26
