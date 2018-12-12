@@ -4,10 +4,10 @@ position: 20
 draft: false
 robotsExclude: false
 title: Rahel Stäheli
-function: 'Projektleiterin, Holztechnikerin HF'
+function: 'Projektleiterin, Holztechnikerin HF Schreinerei und Innenausbau'
 quote: >-
   Wenn es wie am Schnürchen läuft und sich am Ende alle zufrieden über das
-  Erreichte freuen, dann ist es einmal mehr ein Lieblingsprojekt.
+  Erreichte freuen, dann ist es für mich das Lieblingsprojekt.
 email: staeheli@3dimensional.ch
 phone: 044 422 44 26
 image: 'https://ucarecdn.com/af36c519-4674-463c-9d80-c960542ba309/'
