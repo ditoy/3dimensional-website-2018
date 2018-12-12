@@ -14,5 +14,6 @@ imageAlt: ''
 teaser: Neugestaltung der Bürowelt für den eHealth Dienstleister Bluecare
 projectpictures:
   - 'https://ucarecdn.com/041844dc-7e5b-47dc-9d42-4387a3784c71/'
+  - 'https://ucarecdn.com/66b2a15a-0cdb-46c1-b631-3de41e87384d/'
 ---
 Mit unserem Gestaltungskonzept für die Sitzungszimmer, Büros und die Kantine von Bluecare heben wir die spezifischen Qualitäten jeden Raumes für den Komfort und das Wohlbefinden der Mitarbeiter und Besucher hervor und lassen zugleich jeden Raum einen Beitrag zur Identität der Bürowelt des Unternehmens leisten.
