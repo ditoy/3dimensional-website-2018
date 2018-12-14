@@ -4,7 +4,7 @@ position: 20
 draft: false
 robotsExclude: false
 title: Daniel von Orelli
-function: 'Innenausbaugestalter, Projektleiter'
+function: 'Schreiner-Innenausbaugestalter HF, Projektleiter'
 quote: >-
   Nach einem Projekt voll neuer Herausforderungen und konstruktiver Lösungen mit
   dem zufriedenen Kunden vor dem fertigen Produkt zu stehen — that's it!
