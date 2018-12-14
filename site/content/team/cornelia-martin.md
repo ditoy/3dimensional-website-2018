@@ -6,8 +6,8 @@ robotsExclude: false
 title: Cornelia Martin
 function: Administration & Finanzen
 quote: >-
-  Ich mag es, wenn in hektischen Zeiten am Abend alles geschafft ist und ich
-  müde nach Hause gehe.
+  Ich bin zufrieden, wenn in hektischen Zeiten am Abend alles geschafft ist und
+  ich müde nach Hause gehe.
 email: martin@3dimensional.ch
 phone: +41 44 422 44 19
 image: 'https://ucarecdn.com/ef98d5ee-5ea5-4033-b1ef-18beac3882cb/'
