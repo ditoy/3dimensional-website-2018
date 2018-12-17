@@ -12,4 +12,4 @@ email: michel@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/199dbef6-5809-4a7f-8b28-8bfd2e3b50a2/'
 ---
-Nach der Lehre hat sich Laura Michel bei Hauser & Partner die Sporen abverdient. Seither sind die vielfältigen Herausforderungen bei der Realisierung anspruchsvoller Produktionen im Atelier genau ihr Ding. Sie braucht Abwechslung und Kreativität, wie eine Snwoboarderin den Schnee. Da wir gerade beim Thema sind: Snowboarden liebt sie natürlich auch. Und steht sie nicht gerade in Laax auf dem Board, rockt sie den Dancefloor. Oder zeigt den Pfaderinnen wie man Knöpfe in Seile macht — und wie man sie wieder löst.
+Nach der Lehre hat sich Laura Michel bei Hauser & Partner die Sporen abverdient. Seither sind die vielfältigen Herausforderungen bei der Realisierung anspruchsvoller Produktionen im Atelier genau ihr Ding. Sie braucht Abwechslung und Kreativität, wie eine Snwoboarderin den Schnee. Da wir gerade beim Thema sind: Snowboarden liebt sie natürlich auch. Und steht sie gerade einmal nicht in Laax auf dem Board, rockt sie den Dancefloor. Oder zeigt den Pfaderinnen wie man Knöpfe in Seile macht — und wie man sie wieder löst.
