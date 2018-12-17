@@ -5,9 +5,39 @@ draft: false
 robotsExclude: false
 title: Laura Michel
 function: Dekorationsgestalterin
-quote: Lorem ipsum dolor sit amet.
+quote: >-
+  Ich mag es, wenn Ideen umgesetzt werden und sich am fertigen Produkt zeigt,
+  was man mit den Händen alles erschaffen kann.
 email: michel@3dimensional.ch
-phone: 044 422 44 25
+phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/199dbef6-5809-4a7f-8b28-8bfd2e3b50a2/'
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Nach der Lehre hat sich Laura Michel bei Hauser & Partner die Sporen abverdient. Seither sind die vielfältigen Herausforderungen bei der Realisierung anspruchsvoller Produktionen im Atelier genau ihr Ding. Sie braucht Abwechslung und Kreativität, wie eine Snwoboarderin den Schnee. Da wir gerade beim Thema sind: Snowboarden liebt sie natürlich auch. Und steht sie nicht gerade in Laax auf dem Board, rockt sie den Dancefloor. Oder zeigt den Pfaderinnen wie man Knöpfe in Seile macht — und wie man sie wieder löst.
+
+
+
+
+
+
+
+
+
+Ihre Saisonstelle in Laax gab ihr reichlich Gelegenheit dazu.
+
+
+
+
+
+
+
+Dass sie sich zur Tanzlehrerin ausbildet, passt ins Bild
+
+
+
+
+
+und ist so etwas wie die logische Fortsetzung 
+
+
+
+Ihr langjähriges Engagement für die Pfadi und eine Tanzcrew kommt seit kurzem
