@@ -10,6 +10,7 @@ implementation: true
 activities:
   - Messegestaltung
   - Eventgestaltung
+  - Promotionsfläche
 image: 'https://ucarecdn.com/5fc59f47-cf53-44e3-b191-6ff083e2b3db/'
 teaser: >-
   Optimo Tour — Einführungskampagne für nachhaltigen CO₂ reduzierten Zement von
