@@ -10,6 +10,7 @@ implementation: false
 activities:
   - Bürodesign
   - Innenarchitektur
+  - Leuchtendesign
 image: 'https://ucarecdn.com/ae0e29db-658e-4b52-b523-8165f8aa5edf/'
 imageAlt: ''
 teaser: Neugestaltung der Bürowelt für den eHealth Dienstleister Bluecare
