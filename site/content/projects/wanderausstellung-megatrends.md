@@ -10,6 +10,7 @@ implementation: true
 activities:
   - Ausstellungsgestaltung
   - Messegestaltung
+  - Point-of-Information
 image: 'https://ucarecdn.com/a98ceca3-e532-4606-92ed-3f4ac6ff2978/-/preview/'
 imageAlt: ''
 teaser: >-
