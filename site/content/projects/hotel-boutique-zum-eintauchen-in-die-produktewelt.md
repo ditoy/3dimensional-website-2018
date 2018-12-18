@@ -11,6 +11,7 @@ activities:
   - Shopdesign
   - Point-of-Sale
   - Display
+  - Innenarchitektur
 image: 'https://ucarecdn.com/d5801d58-6928-4d03-8719-4edcdf2ac7f7/'
 teaser: >-
   Im Grand Resort Bad Ragaz bietet La Prairie zusätzlich zum Spa-Erlebnis nun
