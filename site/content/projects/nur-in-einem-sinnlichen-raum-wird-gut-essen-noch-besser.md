@@ -7,6 +7,10 @@ Year: '2017'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Leuchtendesign
+  - Beschriftung
+  - Innenarchitektur
 image: 'https://ucarecdn.com/2a4e7cc8-49ca-49b1-8698-f2d260186b6a/'
 imageAlt: ''
 teaser: >-
