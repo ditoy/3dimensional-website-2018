@@ -7,6 +7,8 @@ Year: '2011'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Leuchtendesign
 image: 'https://ucarecdn.com/a3d0befc-f8d7-48ce-ac1f-8a1c2779cb26/'
 imageAlt: ''
 teaser: Umsetzung der Kronleuchter in den Tresorräumen der Neue Aargauer Bank AG
