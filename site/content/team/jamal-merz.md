@@ -5,9 +5,25 @@ draft: false
 robotsExclude: false
 title: Jamal Merz
 function: Schreiner
-quote: Lorem ipsum dolor sit amet.
+quote: >-
+  Die Zusammenarbeit und Möglichkeit voneinander zu lernen ist es, was mich an
+  unserem multidisziplinären Team im Atelier am meisten freut.
 email: merz@3dimensional.ch
-phone: 044 422 44 25
+phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/df90d5e9-c7ad-4625-af7f-d82add3e3423/'
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Jedes Projekt hat auch soziale Aspekte. Spätestens seit Jamal Merz die Jugendlichen in der Schreinerei des Jugendheim Schenkung Dapples als Schreiner beim Erlernen des Handwerks begleitete, ist ihm diese Seite seines Metiers bewusst geworden. Zunächst im kreativen Atelier von CG-Raum, danach bei 3dimensional, fand er Projekte, welche
+
+
+
+
+
+Seine schöpferische Praxis  CG-Raum
+
+
+
+Sie zeigt sich auch in den hergestellten Produkten selbst zeigt sie sich. 
+
+Nicht bloss 
+
+Bis heute ist sie ihm wichtig geblieben.
