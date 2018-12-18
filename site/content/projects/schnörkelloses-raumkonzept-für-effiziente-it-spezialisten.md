@@ -9,6 +9,7 @@ planning: true
 implementation: true
 activities:
   - Bürodesign
+  - Innenarchitektur
 image: 'https://ucarecdn.com/ce482996-0bb1-449a-a62a-384e1ebcc600/'
 teaser: Die neue Bürogestaltung bei CMI bietet Raum für viel Informatik Fachkompetenz
 ---
