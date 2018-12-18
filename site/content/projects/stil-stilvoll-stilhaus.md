@@ -9,8 +9,9 @@ planning: true
 implementation: true
 activities:
   - Signaletik
+  - Beschriftung
 image: 'https://ucarecdn.com/c66ba378-99f4-4fca-87e0-57d57359d893/'
 imageAlt: ''
 teaser: Mehr Stil als Stilhaus geht nicht. Und wer hat's beschriftet?
 ---
-3dimensional zeichnete für die Produktion sämtlicher Beschriftungen in und am Stilhaus Rothrist verantwortlich, entworfen wurden sie von Pikka GmbH.
+3dimensional zeichnete für die Produktion sämtlicher Beschriftungen in und am Stilhaus Rothrist verantwortlich gemäss dem Beschriftungskonzept von Pikka GmbH.
