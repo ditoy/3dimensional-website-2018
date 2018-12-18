@@ -10,6 +10,7 @@ implementation: true
 activities:
   - Display
   - Point-of-Sale
+  - Promotionsfläche
 image: 'https://ucarecdn.com/ffe1366d-c5f1-4470-8d53-942223765eae/'
 teaser: >-
   In Sachen Uhren präsentiert die Schweiz ihren Gästen am Flughafen Zürich
