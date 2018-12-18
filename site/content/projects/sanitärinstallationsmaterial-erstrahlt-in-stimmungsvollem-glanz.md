@@ -7,6 +7,8 @@ Year: '2016'
 concept: false
 planning: true
 implementation: true
+activities:
+  - Leuchtendesign
 image: 'https://ucarecdn.com/cbea6b23-45fa-4b5d-9935-a34f0da469f4/'
 imageAlt: ''
 teaser: >-
