@@ -9,6 +9,7 @@ planning: true
 implementation: true
 activities:
   - Signaletik
+  - Beschriftung
 image: 'https://ucarecdn.com/4ca15ba9-0e68-4eaa-bd81-c91f01c0b162/'
 imageAlt: ''
 teaser: >-
