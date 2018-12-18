@@ -9,6 +9,7 @@ planning: true
 implementation: true
 activities:
   - Signaletik
+  - Beschriftung
 image: 'https://ucarecdn.com/27774543-52c1-4a63-aac0-e95aa72932cb/'
 teaser: >-
   Externe Besucher, Studierende und Mitarbeiter wollen klare Zeichen, um ans
