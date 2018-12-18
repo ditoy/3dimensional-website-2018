@@ -9,6 +9,7 @@ planning: true
 implementation: true
 activities:
   - Display
+  - Point-of-Information
 image: 'https://ucarecdn.com/c9c00abd-e386-4c23-891c-51dcf47c7dc5/'
 teaser: >-
   Fünf Sterne sind eine Verpflichtung, seinen Gästen auch Punkto Lektüre nur das
