@@ -9,6 +9,7 @@ planning: true
 implementation: true
 activities:
   - Signaletik
+  - Beschriftung
 image: 'https://ucarecdn.com/450fa740-a437-432c-b917-c2b91f67bf0a/'
 teaser: >-
   Hochmoderne Räume in Neu-Oerlikon, wo urbane Gegenwart auf industrielle
