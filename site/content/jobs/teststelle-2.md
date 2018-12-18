@@ -9,7 +9,7 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen, schätzen es in einem kleinen Team zu arbeiten und möchten sich in einem spannenden Umfeld weiterentwickeln. Das trifft auf Sie zu? Dann freuen wir uns darauf Sie kennezulernen!
+Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen, schätzen es in einem kleinen Team zu arbeiten und möchten sich in einem spannenden Umfeld weiterentwickeln. Das trifft auf Sie zu? Dann freuen wir uns darauf Sie kennenzulernen!
 
 #### Das ist uns wichtig:
 
