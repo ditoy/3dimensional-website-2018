@@ -10,6 +10,7 @@ implementation: true
 activities:
   - Shopdesign
   - Point-of-Sale
+  - Innenarchitektur
 image: 'https://ucarecdn.com/57f06041-c177-473a-a50d-fd3cbba909ed/'
 imageAlt: ''
 teaser: Mit Eiweiss zur kraftstrotzenden Form für den perfekten Auftritt
