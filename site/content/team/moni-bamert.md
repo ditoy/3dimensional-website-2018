@@ -6,8 +6,8 @@ robotsExclude: false
 title: Moni Bamert
 function: 'Kundenberaterin, Projektleiterin'
 quote: >-
-  Den Moment, wenn unsere Ideen und Vorschläge in Zusammenarbeit mit dem Kunden
-  Form annehmen und wir gemeinsam ans Ziel kommen, geniesse ich am meisten.
+  Ich geniesse den Moment am meistenen, wo unsere Ideen und Vorschläge in
+  Zusammenarbeit mit dem Kunden Form annehmen und wir gemeinsam ans Ziel kommen.
 email: bamert@3dimensional.ch
 phone: +41 44 422 44 13
 image: 'https://ucarecdn.com/a41b6440-9f81-4907-a268-7591b33662d8/'
