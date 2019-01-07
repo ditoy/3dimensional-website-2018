@@ -4,7 +4,7 @@ position: 2
 draft: false
 robotsExclude: false
 title: Philipp Keusch
-function: 'Projektleiter, Schreiner-Innenausbau Gestalter HF'
+function: 'Projektleiter, Schreiner, Innenausbaugestalter HF'
 quote: >-
   Das Entwickeln und Ausprobieren, bis aus den Teilen ein ästhetisches Ganzes
   entsteht, fasziniert mich immer wieder aufs Neue.
