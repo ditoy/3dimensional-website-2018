@@ -6,7 +6,7 @@ robotsExclude: false
 title: Daniela Pellegrini
 function: Polydesignerin 3D
 quote: >-
-  Mir gefällt es, eine Idee sichtbar zu machen, wenn ich etwas 3dimensionales
+  Mich reizt es, eine Idee sichtbar zu machen, wenn ich etwas 3dimensionales
   erschaffe.
 email: pellegrini@3dimensional.ch
 phone: +41 44 422 44 25
