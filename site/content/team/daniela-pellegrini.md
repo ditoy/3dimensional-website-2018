@@ -4,10 +4,12 @@ position: 20
 draft: false
 robotsExclude: false
 title: Daniela Pellegrini
-function: Dekorationsgestalterin
-quote: Lorem ipsum dolor sit amet.
+function: Polydesignerin 3D
+quote: >-
+  Mir gefällt es, eine Idee sichtbar zu machen, wenn ich etwas 3dimensionales
+  erschaffe.
 email: pellegrini@3dimensional.ch
-phone: 044 422 44 25
+phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/60df1dfe-a9eb-4052-8e3d-a5c921335cbf/'
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Ihre Leidenschaft für Gestaltung
