@@ -4,7 +4,7 @@ position: 20
 draft: false
 robotsExclude: false
 title: Laura Michel
-function: Dekorationsgestalterin
+function: Polydesignerin 3D
 quote: >-
   Ich mag es, wenn Ideen zu fertigen Produkten werden und sich zeigt, was man
   mit den Händen alles erschaffen kann.
