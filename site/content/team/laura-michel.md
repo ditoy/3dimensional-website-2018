@@ -6,8 +6,8 @@ robotsExclude: false
 title: Laura Michel
 function: Dekorationsgestalterin
 quote: >-
-  Ich mag es, wenn Ideen umgesetzt werden und sich am fertigen Produkt zeigt,
-  was man mit den Händen alles erschaffen kann.
+  Ich mag es, wenn Ideen zu fertigen Produkten werden und sich zeigt, was man
+  mit den Händen alles erschaffen kann.
 email: michel@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/199dbef6-5809-4a7f-8b28-8bfd2e3b50a2/'
