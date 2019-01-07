@@ -6,8 +6,8 @@ robotsExclude: false
 title: Cornelia Martin
 function: Administration & Finanzen
 quote: >-
-  Ich bin zufrieden, wenn in hektischen Zeiten am Abend alle Pendenzen erledigt
-  sind, und ich müde auf dem Heimweg bin.
+  Wenn in hektischen Zeiten am Abend alle Pendenzen erledigt sind, bin ich
+  zufrieden.
 email: martin@3dimensional.ch
 phone: +41 44 422 44 19
 image: 'https://ucarecdn.com/ef98d5ee-5ea5-4033-b1ef-18beac3882cb/'
