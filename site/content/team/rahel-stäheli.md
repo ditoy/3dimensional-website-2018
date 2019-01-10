@@ -12,4 +12,4 @@ email: staeheli@3dimensional.ch
 phone: +41 44 422 44 26
 image: 'https://ucarecdn.com/af36c519-4674-463c-9d80-c960542ba309/'
 ---
-Für Rahel Stäheli ist die Welt in Bewegung — oder Bewegung die Welt. Geschult am prozessorientierten Denken der seriellen Möbelproduktion bahnte ihr die Zusatzausbildung zur Innenausbauzeichnerin den Weg in Richtung Gestaltung und führte sie zum Produktdesign. Von Ihrem Kulturinteresse lässt sie sich an die Konzerte ausgefallener Bands leiten und in den urbanen Sporthallen bleibt sie mit Yoga, Schwimmen und Tanzen in Schwung.
+Für Rahel Stäheli ist die Welt in Bewegung — oder Bewegung die Welt. Geschult am prozessorientierten Denken der seriellen Möbelproduktion bahnte ihr die Zusatzausbildung zur Innenausbauzeichnerin den Weg in Richtung Gestaltung und führte sie zum Produktdesign. Mit klarer Planung bringt sie Entwurf und Wirklichkeit zusammen und sorgt dafür, dass auch die ausgefallensten Ideen, umsetzbar werden. Von Ihrem Kulturinteresse lässt sie sich an die Konzerte angesagter Bands leiten und in den urbanen Sporthallen bleibt sie mit Yoga, Schwimmen und Tanzen in Schwung.
