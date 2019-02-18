@@ -16,7 +16,7 @@ slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
 slide5_claim: Lobortis elementum nibh tellus molestie nunc non blandit massa.
 slide5_color: white
-slide6_image: 'https://ucarecdn.com/085c07e5-897e-4bdc-bac5-a8bb9b22a126/'
+slide6_image: 'https://ucarecdn.com/de0f4b7e-eabc-4a91-884e-1b4de420980e/'
 slide6_claim: Augue lacus viverra vitae congue eu consequat. Turpis cursus in hac habitasse.
 slide6_color: white
 quote1_image: 'https://ucarecdn.com/aba04285-e172-4eaf-8918-2034eeac49f6/'
