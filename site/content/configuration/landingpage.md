@@ -1,6 +1,6 @@
 ---
 slide1_image: 'https://ucarecdn.com/dbe5c97b-d4bc-4ec3-90ce-84de49ee4c6b/'
-slide1_claim: Vulputate enim nulla aliquet porttitor lacus luctus accumsan.
+slide1_claim: Mit dem guten Auge für die wichtigen Details.
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/47caa186-690c-4984-ace3-9da2642d3269/'
 slide2_claim: >-
