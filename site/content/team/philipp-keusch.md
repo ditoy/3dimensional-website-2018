@@ -10,6 +10,6 @@ quote: >-
   entsteht, fasziniert mich immer wieder aufs Neue.
 email: keusch@3dimensional.ch
 phone: +41 44 422 44 21
-image: 'https://ucarecdn.com/478ef3c0-0011-4c57-af6b-916d244f4898/'
+image: 'https://ucarecdn.com/139d41da-c27d-4775-9ac9-0293dca70cdc/'
 ---
 Anspruchsvolle konstruktive Lösungen zu finden liegt Philipp Keusch im Blut. Vom gelernten Schreiner über den Prototypenbauer zum Modellbauer bei Sauber Petronas hat er seinen Weg zu 3dimensional gefunden. Er kennt die Bedürfnisse unserer Kunden wie kaum ein zweiter und findet für jede noch so komplexe Aufgabe eine elegante Umsetzung. Schneller als beim Konstruieren, ist er nur auf dem Velo  — auch wenn er inzwischen seine aktive Zeit als Elite-Radrennfahrer zugunsten seiner Familie beendet hat.
