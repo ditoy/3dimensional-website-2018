@@ -10,7 +10,7 @@ slide2_color: black
 slide3_image: 'https://ucarecdn.com/29d06b51-c8f8-490b-8157-8c27e62b54da/'
 slide3_claim: 'Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. '
 slide3_color: black
-slide4_image: 'https://ucarecdn.com/ba24f3cf-023d-4748-b7b6-b4222e06df01/'
+slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
