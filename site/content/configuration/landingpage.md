@@ -14,9 +14,7 @@ slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
-slide5_claim: >-
-  Vom Entwurf bis zum fertigen Produkt — mit unserer Kreativität nimmt Ihre Idee
-  sichtbar Form an.
+slide5_claim: Vom Entwurf bis zum fertigen Produkt — bei uns nimmt Ihre Idee Form an.
 slide5_color: white
 slide6_image: 'https://ucarecdn.com/de0f4b7e-eabc-4a91-884e-1b4de420980e/'
 slide6_claim: Augue lacus viverra vitae congue eu consequat. Turpis cursus in hac habitasse.
