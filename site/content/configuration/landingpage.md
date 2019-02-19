@@ -1,6 +1,6 @@
 ---
 slide1_image: 'https://ucarecdn.com/c7fc6925-ff16-4d92-93f2-79bf53bc3041/'
-slide1_claim: 'Mit einem scharfen Auge für Details, die den Unterschied ausmachen.'
+slide1_claim: 'Mit dem scharfen Auge für Details, die den Unterschied ausmachen.'
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/c880f316-2f14-4722-a34e-4b088f14b67e/'
 slide2_claim: >-
