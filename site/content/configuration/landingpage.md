@@ -7,7 +7,7 @@ slide2_claim: >-
   Lectus quam id leo in vitae. Adipiscing elit pellentesque habitant morbi
   tristique senectus.
 slide2_color: black
-slide3_image: 'https://ucarecdn.com/29d06b51-c8f8-490b-8157-8c27e62b54da/'
+slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: 'Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. '
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
