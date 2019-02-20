@@ -24,7 +24,7 @@ slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns F
 slide5_color: white
 slide6_image: 'https://ucarecdn.com/de0f4b7e-eabc-4a91-884e-1b4de420980e/'
 slide6_claim: >-
-  Die Arbeit mit Licht ist eine Handwerkskunst, die Inspiration und Erfahrung
+  Das Gestalten mit Licht ist eine Handwerkskunst, die Kreativität und Erfahrung
   verlangt.
 slide6_color: white
 quote1_image: 'https://ucarecdn.com/aba04285-e172-4eaf-8918-2034eeac49f6/'
