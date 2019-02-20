@@ -1,6 +1,6 @@
 ---
 slide1_image: 'https://ucarecdn.com/c7fc6925-ff16-4d92-93f2-79bf53bc3041/'
-slide1_claim: 'Mit dem scharfen Auge für Details, die den Unterschied ausmachen.'
+slide1_claim: 'Wir haben das scharfe Auge für Details, die den Unterschied ausmachen.'
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/c880f316-2f14-4722-a34e-4b088f14b67e/'
 slide2_claim: >-
@@ -8,7 +8,9 @@ slide2_claim: >-
   Sie uns.
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
-slide3_claim: Schöne Design Ideen erhalten durch präzise Produktion ihren starken Ausdruck.
+slide3_claim: >-
+  Schöne Design Ideen erhalten durch unsere präzise Produktion ihren starken
+  Ausdruck.
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: >-
