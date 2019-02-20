@@ -24,8 +24,8 @@ slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns F
 slide5_color: white
 slide6_image: 'https://ucarecdn.com/de0f4b7e-eabc-4a91-884e-1b4de420980e/'
 slide6_claim: >-
-  Sie haben leuchtende Ideen — wir die Kreativität und Erfahrung in der Arbeit
-  mit Licht.
+  Sie haben leuchtende Ideen — wir Kreativität und Erfahrung in der Arbeit mit
+  Licht.
 slide6_color: white
 quote1_image: 'https://ucarecdn.com/aba04285-e172-4eaf-8918-2034eeac49f6/'
 quote1: >-
