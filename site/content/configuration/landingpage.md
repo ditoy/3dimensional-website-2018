@@ -4,8 +4,8 @@ slide1_claim: 'Mit dem scharfen Auge für Details, die den Unterschied ausmachen
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/c880f316-2f14-4722-a34e-4b088f14b67e/'
 slide2_claim: >-
-  Lectus quam id leo in vitae. Adipiscing elit pellentesque habitant morbi
-  tristique senectus.
+  Wir sind Spezialisten für Signaletik und die Beschriftung von Räumen und
+  Fassaden.
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: Schöne Design Ideen erhalten durch präzise Produktion ihren starken Ausdruck.
