@@ -2,7 +2,7 @@
 slide1_image: 'https://ucarecdn.com/c7fc6925-ff16-4d92-93f2-79bf53bc3041/'
 slide1_claim: 'Wir haben das scharfe Auge für Details, die den Unterschied ausmachen.'
 slide1_color: black
-slide2_image: 'https://ucarecdn.com/c880f316-2f14-4722-a34e-4b088f14b67e/'
+slide2_image: 'https://ucarecdn.com/c57e0eab-a54b-40b2-8a1e-991bc1c10228/'
 slide2_claim: >-
   Die passende Beschriftung und Signaletik für Ihre Räume und Fassaden — fragen
   Sie uns.
