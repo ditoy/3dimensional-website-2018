@@ -1,5 +1,5 @@
 ---
-slide1_image: 'https://ucarecdn.com/c7fc6925-ff16-4d92-93f2-79bf53bc3041/'
+slide1_image: 'https://ucarecdn.com/e89e8340-9cdb-47ac-b022-d6296272c3c4/'
 slide1_claim: 'Wir haben das scharfe Auge für Details, die den Unterschied ausmachen.'
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/c57e0eab-a54b-40b2-8a1e-991bc1c10228/'
