@@ -9,16 +9,16 @@ slide2_claim: >-
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: >-
-  Schöne Design Ideen erhalten durch unsere präzise Produktion ihren starken
+  Ihren Design Ideen verleihen wir in präziser Produktion einen starken
   Ausdruck.
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: >-
-  Unsere veredelten Oberflächen strahlen in hellem Glanz — und das Auge glänzt
-  mit.
+  Für Sie lassen wir Oberflächen in hellem Glanz erstrahlen — und das Auge
+  glänzt mit.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
-slide5_claim: Vom Entwurf bis zum fertigen Produkt — bei uns nimmt Ihre Idee Form an.
+slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns Form an.
 slide5_color: white
 slide6_image: 'https://ucarecdn.com/de0f4b7e-eabc-4a91-884e-1b4de420980e/'
 slide6_claim: >-
