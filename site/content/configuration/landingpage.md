@@ -16,7 +16,7 @@ slide3_claim: >-
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: >-
-  Für Sie lassen wir Oberflächen in hellem Glanz erstrahlen — und das Auge
+  Wir lassen Oberflächen für Sie in hellem Glanz erstrahlen — und das Auge
   glänzt mit.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
