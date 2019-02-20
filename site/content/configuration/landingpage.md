@@ -6,8 +6,8 @@ slide1_claim: >-
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/c57e0eab-a54b-40b2-8a1e-991bc1c10228/'
 slide2_claim: >-
-  Die passende Beschriftung und Signaletik für Ihre Räume und Fassaden — fragen
-  Sie uns.
+  Die passende Beschriftung und Signaletik für Ihre Räume und Fassaden gestalten
+  wir.
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: >-
