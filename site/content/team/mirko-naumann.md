@@ -12,4 +12,4 @@ email: naumann@3dimensional.ch
 phone: +41 44 422 44 27
 image: 'https://ucarecdn.com/96650585-5a6a-44b8-94f3-91cfb1401f79/'
 ---
-Als Montageleiter und Schreinerei Produktionsleiter sowie als selbstständiger Unternehmer hat Mirko Naumann seine wichtige Umsetzungserfahrung im Team aufgebaut. Seit er zu 3dimensional gestossen ist, sorgt er mit Übersicht für reibungslose Zusammenarbeit in unserem Atelier und die Optimierung der Produktions Abläufe. Seinen Weitblick schärft er — über das Wasser in die Ferne schweifend — beim Segeln genauso wie in der Natur, wenn er mit Partnerin und Hund durch Wald und Wiese streift.
+Als Montageleiter und Schreinerei Produktionsleiter sowie als selbstständiger Unternehmer hat Mirko Naumann seine wichtige Umsetzungserfahrung im Team aufgebaut. Seit er zu 3dimensional gestossen ist, sorgt er mit Übersicht für reibungslose Zusammenarbeit in unseren Ateliers und die Optimierung der Produktions Abläufe. Seine Weitsicht schärft er, wenn der Blick beim Segeln über das Wasser in die Ferne schweift oder in der Natur, wo er mit Partnerin und Hund durch Wald und Wiese streift.
