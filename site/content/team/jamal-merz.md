@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21T09:03:38.018Z
 position: 20
-draft: false
+draft: true
 robotsExclude: false
 title: Jamal Merz
 function: Schreiner
