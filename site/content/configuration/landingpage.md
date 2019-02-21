@@ -4,7 +4,7 @@ slide1_claim: >-
   Wir haben das scharfe Auge für Details, die in Ihrem Projekt den Unterschied
   ausmachen.
 slide1_color: black
-slide2_image: 'https://ucarecdn.com/c57e0eab-a54b-40b2-8a1e-991bc1c10228/'
+slide2_image: 'https://ucarecdn.com/a6c12b46-d763-4513-a335-c4e208dfb589/'
 slide2_claim: >-
   Die passende Beschriftung und Signaletik für Ihre Räume und Fassaden gestalten
   wir.
