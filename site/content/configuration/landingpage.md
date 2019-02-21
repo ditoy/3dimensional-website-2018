@@ -5,9 +5,7 @@ slide1_claim: >-
   ausmachen.
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/a6c12b46-d763-4513-a335-c4e208dfb589/'
-slide2_claim: >-
-  Ob Showroom, Ausstellung oder Schaufenster — wir gestalten für Sie das
-  Display.
+slide2_claim: 'Ob Showroom, Ausstellung oder Schaufenster — wir gestalten Ihr Display.'
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: >-
