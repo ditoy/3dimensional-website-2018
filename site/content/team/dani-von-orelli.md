@@ -1,6 +1,6 @@
 ---
 date: 2018-11-21T09:05:32.416Z
-position: 20
+position: 40
 draft: false
 robotsExclude: false
 title: Daniel von Orelli
