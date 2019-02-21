@@ -1,6 +1,6 @@
 ---
 date: 2019-02-21T10:59:28.841Z
-position: 20
+position: 40
 draft: false
 robotsExclude: false
 title: Jean-Pierre Praz
