@@ -6,8 +6,8 @@ slide1_claim: >-
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/a6c12b46-d763-4513-a335-c4e208dfb589/'
 slide2_claim: >-
-  Die passende Beschriftung und Signaletik für Ihre Räume und Fassaden gestalten
-  wir.
+  Wir gestalten das Display für Ihren Showroom, Ihre Ausstellung oder Ihr
+  Schaufenster.
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: >-
