@@ -16,5 +16,6 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/d998b544-4c30-4082-9cd9-cdc3d9ffbc78/'
   - 'https://ucarecdn.com/7283e98f-1203-4fb7-8452-a01f614253d1/'
+  - 'https://ucarecdn.com/bb1f5c99-3fa0-45f4-87e2-38822e46249a/'
 ---
 Im Hörsaal und Eingangsbreich der Grosstierklink der Uni Zürich hat das Bureau Hindermann zusammen mit 3dimensional mit innenarchitektonischen Mitteln eine angenehme und lebensfrohe Lernatmosphäre geschaffen, die sich stark von der ursprünglich an diesem Ort vorgefundenen weiss gekachelten Schlachthof-Einrichtung unterscheidet. Farbig und mit feinen Bezügen zur Tierwelt präsentieren sich die Räume heute — als Beispiele seien der zum Multimediapult umfunktionierte Futterwagen und die Stalltüren bei der Reception genannt.
