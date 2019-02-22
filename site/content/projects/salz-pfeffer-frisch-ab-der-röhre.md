@@ -16,4 +16,4 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/e82cbafb-61e5-4619-bf76-005c6348a206/'
 ---
-Geberit, den Marktführer für Sanitärprodukte, kennen viele für ihre Rohre aus Kunststoff und Metall, welche meist vor dem Auge verborgen im Innern von Böden und Wänden in Gebäuden verlegt werden. Umso erstaunlicher, wenn die Rohre vom Bureau Hindermann in Zusammenarbeit mit 3dimensional für einmal ins Zentrum der Aufmerksamkeit gerückt werden, und daraus formschöne und praktische Salz- & Pfeffermühlen entstehen, die auf jedem Esstisch eine gute Figur abgeben.
+Geberit, den Marktführer für Sanitärprodukte, kennen viele für dessen Rohre aus Kunststoff und Metall, welche meist vor dem Auge verborgen im Innern von Böden und Wänden in Gebäuden verlegt werden. Umso erstaunlicher, wenn die Rohre vom Bureau Hindermann in Zusammenarbeit mit 3dimensional für einmal ins Zentrum der Aufmerksamkeit gerückt werden, und daraus formschöne und praktische Salz- & Pfeffermühlen entstehen, die auf jedem Esstisch eine gute Figur abgeben.
