@@ -17,4 +17,4 @@ projectpictures:
   - 'https://ucarecdn.com/009409a2-6c1f-4b10-90be-65b94fd76de5/'
   - 'https://ucarecdn.com/fc750faf-05e3-404a-9bc5-47e6d4d468ca/'
 ---
-Die Übersicht bewahren und Unterlagen klar strukturiert aufbewahren — dieses Treuhand-Thema hat das Bureau Hindermann leicht ironisch aufgegriffen und daraus zusammen mit 3dimensional eine Deckenleuchte kreiert, welche über dem Konferenztisch die Kerntugenden von Bühlmann & Partner sinfällig macht.
+Die Übersicht bewahren und Unterlagen klar strukturiert aufbewahren — dieses Treuhand-Thema hat das Bureau Hindermann aufgegriffen und daraus zusammen mit 3dimensional eine Deckenleuchte kreiert, welche über dem Konferenztisch die Kerntugenden von Bühlmann & Partner sinfällig macht.
