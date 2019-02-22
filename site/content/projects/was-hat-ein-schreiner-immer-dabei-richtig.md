@@ -1,5 +1,5 @@
 ---
-title: 'Was hat ein Schreiner immer dabei? Richtig, ...'
+title: Was hat ein Schreiner immer dabei? Richtig ...
 date: 2019-02-22T11:11:13.272Z
 position: 20
 draft: false
