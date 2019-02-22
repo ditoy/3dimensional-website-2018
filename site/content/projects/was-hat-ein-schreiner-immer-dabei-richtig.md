@@ -14,6 +14,6 @@ teaser: >-
   ... einen Meter. Vierundzwanzig davon und etwas Kreativität ergeben eine
   wunderbare Pendelleuchte 
 projectpictures:
-  - undefined: ''
+  - 'https://ucarecdn.com/092ed66e-1cf2-4fa2-99cb-12043f6a32f5/'
 ---
 
