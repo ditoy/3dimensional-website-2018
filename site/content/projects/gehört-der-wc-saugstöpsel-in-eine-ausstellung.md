@@ -11,8 +11,8 @@ activities:
   - Leuchtendesign
 image: 'https://ucarecdn.com/1a339823-068e-4e42-96ba-61be77ff8c95/'
 teaser: >-
-  Im Informationszentrum von Geberit, dem fortschrittlichen Sanitärtechnik
-  Unternehmen heisst es JA
+  Als Teil einer stimmungsvollen Leuchteninstallation im Informationszentrum von
+  Geberit JA!
 projectpictures:
   - undefined: ''
 ---
