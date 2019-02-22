@@ -12,7 +12,7 @@ activities:
 image: 'https://ucarecdn.com/2b3e9f67-c170-467d-a607-6283eaeb47d9/'
 teaser: >-
   Angehende Tierärzte/innen an der Universität Zürich lernen ihre tierischen
-  Klienten im Hörsaal aus der Nähe kennen
+  Klienten im Hörsaal kennen
 projectpictures:
   - 'https://ucarecdn.com/d998b544-4c30-4082-9cd9-cdc3d9ffbc78/'
   - 'https://ucarecdn.com/7283e98f-1203-4fb7-8452-a01f614253d1/'
