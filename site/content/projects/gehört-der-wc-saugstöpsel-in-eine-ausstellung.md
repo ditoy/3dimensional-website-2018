@@ -12,7 +12,7 @@ activities:
 image: 'https://ucarecdn.com/1a339823-068e-4e42-96ba-61be77ff8c95/'
 teaser: >-
   Im Informationszentrum von Geberit, dem fortschrittlichen Sanitärtechnik
-  Unternehmen heisst die Antwort "Ja"
+  Unternehmen heisst es JA
 projectpictures:
   - undefined: ''
 ---
