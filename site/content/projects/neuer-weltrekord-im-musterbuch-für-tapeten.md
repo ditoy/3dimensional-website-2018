@@ -12,8 +12,8 @@ activities:
   - Ausstellungsgestaltung
 image: 'https://ucarecdn.com/66b03253-6567-497e-992f-1665a2024d48/'
 teaser: >-
-  Noch weiss das Guinnessbuch nichts, aber bestimmt hat die Welt vorher noch nie
-  solche Tapetenmuster gesehen
+  Noch weiss das Guinnessbuch nichts davon, aber nie zuvor hat die Welt solche
+  Tapetenmuster gesehen
 projectpictures:
   - 'https://ucarecdn.com/0aaae551-7596-43e5-bc13-23121c00d093/'
   - 'https://ucarecdn.com/52846d0f-519e-40c0-a077-1e94102ea2ab/'
