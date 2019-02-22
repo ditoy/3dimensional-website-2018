@@ -1,5 +1,5 @@
 ---
-title: Ordnung geht bis unter die Decke
+title: Ordnung bis unter die Decke
 date: 2019-02-22T10:36:19.087Z
 position: 20
 draft: false
