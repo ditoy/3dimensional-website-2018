@@ -4,7 +4,7 @@ position: 40
 draft: false
 robotsExclude: false
 title: Jean-Pierre Praz
-function: 'Projektleiter, Architekt BSc, Design Kommunikation BA'
+function: 'Projektleiter, Architekt BSc, Design Vermittler BA'
 quote: >-
   Es motiviert mich, die Aussagekraft oder Attraktivität eines Orts oder
   Produkts zu steigern.
