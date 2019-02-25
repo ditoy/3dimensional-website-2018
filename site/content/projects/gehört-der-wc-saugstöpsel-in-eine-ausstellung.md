@@ -11,8 +11,8 @@ activities:
   - Leuchtendesign
 image: 'https://ucarecdn.com/1a339823-068e-4e42-96ba-61be77ff8c95/'
 teaser: >-
-  Als Teil einer stimmungsvollen Leuchteninstallation im Informationszentrum von
-  Geberit JA!
+  In einer stimmungsvollen Leuchteninstallation im Informationszentrum von
+  Geberit eindeutig JA!
 projectpictures:
   - 'https://ucarecdn.com/28eea509-09fa-4a42-9537-2ccad6054d01/'
 ---
