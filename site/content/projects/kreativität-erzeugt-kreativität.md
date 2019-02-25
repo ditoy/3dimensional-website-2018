@@ -12,8 +12,8 @@ activities:
   - Innenarchitektur
 image: 'https://ucarecdn.com/f6d47350-6143-4d1c-a13c-7e5a304c9160/'
 teaser: >-
-  Ideen — wertvollstes Gut einer Marken- und Designagentur. Im kreativen
-  Interieur sprudeln sie frischer
+  Ideen — wertvollstes Gut einer Markenagentur. Im kreativen Interieur sprudeln
+  sie frischer
 projectpictures:
   - undefined: ''
 ---
