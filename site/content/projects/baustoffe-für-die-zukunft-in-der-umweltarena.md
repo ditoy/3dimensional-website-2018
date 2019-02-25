@@ -17,7 +17,7 @@ teaser: >-
   Holcim
 projectpictures:
   - 'https://ucarecdn.com/45035618-787c-483a-b7b6-00f63ecb82d1/'
-  - 'https://ucarecdn.com/491714c5-1158-489c-a44e-5fc7d54538f3/'
+  - 'https://ucarecdn.com/b9b8a1b4-8b63-4486-9b0c-a6114f775962/'
   - 'https://ucarecdn.com/a849bf5f-95af-4eb9-adf7-c4e4afc9cfb3/'
   - 'https://ucarecdn.com/b9eea0aa-f7ec-4bcf-b838-ed4f042f55a3/'
 ---
