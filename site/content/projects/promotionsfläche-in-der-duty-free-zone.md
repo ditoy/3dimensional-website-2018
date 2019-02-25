@@ -17,7 +17,7 @@ teaser: >-
   Exzellenz
 projectpictures:
   - 'https://ucarecdn.com/218e31bf-cae8-4768-873d-9129d32004ff/'
-  - 'https://ucarecdn.com/e5422f57-f728-4de8-b804-4cf39b209737/'
+  - 'https://ucarecdn.com/47f4f9df-ba6b-4d17-a6a6-23183182a9ac/'
   - 'https://ucarecdn.com/c9e255ec-92e8-46b5-bed1-f85eca31875d/'
   - 'https://ucarecdn.com/58536060-7f33-4d95-bd6c-3d99db53cf1d/'
 ---
