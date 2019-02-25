@@ -17,4 +17,4 @@ teaser: >-
 projectpictures:
   - undefined: ''
 ---
-
+Ob Brainstorming oder Kundenmeeting — um den neuen Arbeitsstehtisch und im Schein der schimmernden Hightech Pendelleuchte — die Ideen sind einfach noch frischer und knackiger. Die Pikka GmbH Marken- und Designagentur hat für die Gestaltung und Umsetzung ihrer Büroräumlichkeiten auf das Gespann Bureau Hindermann und 3dimensional gesetzt und sich damit eine geballte Ladung Inspiration und Kreativität ins Haus geholt.
