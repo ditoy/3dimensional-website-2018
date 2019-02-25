@@ -1,5 +1,5 @@
 ---
-title: Wie geht ein WC Saugstöpsel als edles Ausstellungs Objekt?
+title: Geht ein WC Saugstöpsel als edles Ausstellungs Objekt?
 date: 2019-02-22T16:40:50.068Z
 position: 20
 draft: false
