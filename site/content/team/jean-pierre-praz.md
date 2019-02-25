@@ -5,7 +5,9 @@ draft: false
 robotsExclude: false
 title: Jean-Pierre Praz
 function: 'Projektleiter, Architekt BSc, Design Vermittler BA'
-quote: 'Mich reizt es, Orte und Produkte aussagekräftig und attraktiv zu gestalten'
+quote: >-
+  Orte und Produkte aussagekräftig und attraktiv zu gestalten — das ist für mich
+  der Reiz am Entwerfen
 email: praz.jp@3dimensional.ch
 phone: +41 44 422 44 20
 image: 'https://ucarecdn.com/25a5c14d-c8eb-4b05-b5ec-5a1d071b122a/'
