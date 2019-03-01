@@ -503,9 +503,8 @@ const attachSlider = (slides) => {
         slides[currentSlide].classList.add('showing');
 
         const currentSlideElem = document.querySelector('.slide.showing');
-        const claim = currentSlideElem.querySelector('.claim');
 
-        if (claim.classList.contains('black')) {
+        if (currentSlideElem.classList.contains('black')) {
             if (document.body.classList.contains('white')) {
                 document.body.classList.remove('white');
             }
