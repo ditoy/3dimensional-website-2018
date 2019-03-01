@@ -212,13 +212,16 @@ window.onload = function() {
             download: false
         });
 
-        let shortcut = document.querySelector('.gallery-shortcut');
+        const shortcut = document.querySelector('.gallery-shortcut');
         if (shortcut) {
             shortcut.addEventListener('click', (e) => {
                 e.preventDefault();
-                let newEvent = document.createEvent('Events');
+                const newEvent = document.createEvent('Events');
                 newEvent.initEvent('click', true, false);
-                document.querySelector('#lightgallery span').dispatchEvent(newEvent);
+                const element = document.querySelector('#lightgallery span');
+                if (element) {
+                    element.dispatchEvent(newEvent);
+                }
                 return false;
             });
         }
