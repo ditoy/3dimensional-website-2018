@@ -78,7 +78,6 @@ body.has-hero {
     .animated-menu-icon {
       > div {
         background-color: $c-black;
-        box-shadow: 1px 1px 2px 0 rgba($c-white, 0.5);
       }
     }
   }
@@ -87,7 +86,6 @@ body.has-hero {
     .animated-menu-icon {
       > div {
         background-color: $c-white;
-        box-shadow: 1px 1px 2px 0 rgba($c-black, 0.5);
       }
     }
   }
