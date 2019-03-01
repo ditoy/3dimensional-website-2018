@@ -10,7 +10,12 @@
                 <div class="project">
                     <article role="main">
                         {{ if .Params.image }}
-                            <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="{{ .Params.imageAlt }}" title="{{ .Params.imageAlt }}" class="projectimage">
+                            <div class="text-center">
+                                <span class="gallery-shortcut">
+                                    <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="{{ .Params.imageAlt }}" title="{{ .Params.imageAlt }}" class="projectimage">
+                                    <div class="gallery-poster"><img src="./zoom.png" alt="Bild vergrössern"></div>
+                                </span>
+                            </div>
                         {{ end }}
 
                         <div class="icons bigger text-center">
@@ -49,23 +54,23 @@
 								<ul id="lightgallery">
                                   {{ if .Params.image }}
                                     <li data-responsive="#" data-src="{{ .Params.image }}-/resize/1400/">
-                                        <a href="#">
+                                        <span>
                                             <img src="{{ .Params.image }}-/scale_crop/400x300/center/" title="Projektbild">
                                             <div class="gallery-poster">
                                                 <img src="./zoom.png" alt="Bild vergrössern">
                                             </div>
-                                        </a>
+                                        </span>
                                     </li>
                                   {{ end }}
                                   {{ if .Params.projectpictures }}
                                       {{ range .Params.projectpictures }}
                                           <li data-responsive="#" data-src="{{ . }}-/resize/1400/">
-                                            <a href="#">
+                                            <span>
                                               <img src="{{ . }}-/scale_crop/400x300/center/" title="Projektbild">
                                               <div class="gallery-poster">
                                                 <img src="./zoom.png" alt="Bild vergrössern">
                                               </div>
-                                            </a>
+                                            </span>
                                           </li>
                                       {{ end }}
                                     {{ end }}

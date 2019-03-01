@@ -211,6 +211,17 @@ window.onload = function() {
             backdropDuration: 400,
             download: false
         });
+
+        let shortcut = document.querySelector('.gallery-shortcut');
+        if (shortcut) {
+            shortcut.addEventListener('click', (e) => {
+                e.preventDefault();
+                let newEvent = document.createEvent('Events');
+                newEvent.initEvent('click', true, false);
+                document.querySelector('#lightgallery span').dispatchEvent(newEvent);
+                return false;
+            });
+        }
     }
 };
 
