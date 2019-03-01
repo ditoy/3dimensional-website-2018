@@ -48,6 +48,12 @@ h2 {
   &.teaser {
     @extend h4;
     font-family: $f-regular;
+
+    @include media('>=tablet') {
+      max-width: 80%;
+      margin: 2rem auto !important;
+      text-align: center;
+    }
   }
 }
 

@@ -165,8 +165,10 @@ window.onload = function() {
 
     // random whites slides first or black slides first
     if (Math.round(Math.random()) === 1) {
+        document.body.classList.add('black');
         slides = [...blackSlides, ...whiteSlides];
     } else {
+        document.body.classList.add('white');
         slides = [...whiteSlides, ...blackSlides];
     }
 

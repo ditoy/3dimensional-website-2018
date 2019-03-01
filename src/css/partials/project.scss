@@ -90,6 +90,18 @@ body.projects {
 div.projects {
   z-index: $z-hero;
 
+  .pdr {
+    @include media('>=tablet') {
+      padding-right: 1rem;
+    }
+  }
+
+  .pdl {
+    @include media('>=tablet') {
+      padding-left: 1rem;
+    }
+  }
+
   label {
     text-transform: uppercase;
     position: relative;
