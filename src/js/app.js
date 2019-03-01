@@ -158,9 +158,20 @@ window.onload = function() {
     checkResize();
     positionToggler();
 
-    // init slide shows
-    const slides = document.querySelectorAll('#slides .slide');
+    // init slide shows: random order within black slides and within white slides
+    let slides = [];
+    const blackSlides = shuffle([...document.querySelectorAll('#slides .slide.black')]);
+    const whiteSlides = shuffle([...document.querySelectorAll('#slides .slide.white')]);
+
+    // random whites slides first or black slides first
+    if (Math.round(Math.random()) === 1) {
+        slides = [...blackSlides, ...whiteSlides];
+    } else {
+        slides = [...whiteSlides, ...blackSlides];
+    }
+
     if (slides.length > 0) {
+        slides[0].classList.add('showing');
         prepareSlides(slides);
         attachSlider(slides);
     }
@@ -246,6 +257,9 @@ if (toggler) {
         }
     };
     toggler.addEventListener('click', function() {
+        toggleNavigation();
+    });
+    menu.addEventListener('click', function() {
         toggleNavigation();
     });
 }
@@ -466,7 +480,7 @@ const prepareSlides = (slides) => {
         if (imageUrl) {
             let width = 1024;
             if (isPhone()) {
-                width = 800;
+                width = 700;
             } else if (isDesktop()) {
                 width = 1600;
             }
@@ -482,9 +496,9 @@ const prepareSlides = (slides) => {
 const attachSlider = (slides) => {
     let currentSlide = 0;
     const nextSlide = () => {
-        slides[currentSlide].className = 'slide';
+        slides[currentSlide].classList.remove('showing');
         currentSlide = (currentSlide + 1) % slides.length;
-        slides[currentSlide].className = 'slide showing';
+        slides[currentSlide].classList.add('showing');
 
         const currentSlideElem = document.querySelector('.slide.showing');
         const claim = currentSlideElem.querySelector('.claim');
@@ -600,4 +614,24 @@ const isPhone = () => {
 
 const isDesktop = () => {
     return window.screen.width > 1400 ? true : false;
+}
+
+// shuffle array (random order in array)
+function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex;
+
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
+
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+
+        // And swap it with the current element.
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+    }
+
+    return array;
 }
