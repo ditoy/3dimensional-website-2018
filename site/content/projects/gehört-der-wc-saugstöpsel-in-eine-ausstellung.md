@@ -12,7 +12,7 @@ activities:
 image: 'https://ucarecdn.com/1a339823-068e-4e42-96ba-61be77ff8c95/'
 teaser: >-
   Die stimmungsvolle Leuchteninstallation im Informationszentrum von Geberit
-  macht's vor
+  macht vor wie
 projectpictures:
   - 'https://ucarecdn.com/28eea509-09fa-4a42-9537-2ccad6054d01/'
 ---
