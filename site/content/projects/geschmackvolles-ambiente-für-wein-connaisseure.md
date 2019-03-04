@@ -12,7 +12,7 @@ activities:
 image: 'https://ucarecdn.com/c907cabf-8fd3-4746-815d-a1ade896f05e/'
 teaser: >-
   Eine aussergewöhnliche Flasche Wein geniessen — danach ab an die Decke damit.
-  So einfach war's nicht
+  So einfach geht Licht
 projectpictures:
   - 'https://ucarecdn.com/b7c4f319-d2f0-46f3-8faa-fc0253cf44ec/'
 ---
