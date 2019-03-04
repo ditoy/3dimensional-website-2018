@@ -87,7 +87,7 @@
                     <ul class="cards">
                         {{ $collection := (where .Site.Pages "Section" "projects") }}
                         {{ range first 6 ($collection.ByParam "position") }}
-                        {{ .Render "card" }}
+                            {{ .Render "card" }}
                         {{ end }}
                     </ul>
                     <div class="clear"></div>
@@ -112,7 +112,9 @@
                     <div class="cards">
                         {{ $collection := (where .Site.Pages "Section" "team") }}
                         {{ range ($collection.ByParam "position") }}
-                        {{ .Render "card" }}
+                            {{ if ne .File.TranslationBaseName "_index" }}
+                                {{ .Render "card" }}
+                            {{ end }}
                         {{ end }}
                     </div>
                     <div class="clear"></div>

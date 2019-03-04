@@ -21,7 +21,7 @@
         <div class="container">
           <div class="cards">
             {{  range (.Data.Pages.ByParam "position") }}
-            {{ .Render "card"}}
+              {{ .Render "card"}}
             {{ end }}
           </div>
           <div class="clear"></div>
