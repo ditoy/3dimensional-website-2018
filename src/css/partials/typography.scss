@@ -203,10 +203,10 @@ ul {
 }
 
 li {
-  break-before: avoid-column;
+  break-before: avoid;
 
   &.text-heading {
-    break-before: avoid-column;
+    break-before: avoid;
     font-weight: 700;
     font-size: 1.4rem;
   }

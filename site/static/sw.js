@@ -3,7 +3,7 @@
  * @see https://raw.githubusercontent.com/wildhaber/offline-first-sw/master/sw.js
  */
 
-const CACHE_VERSION = 10;
+const CACHE_VERSION = 20;
 
 const BASE_CACHE_FILES = [
     '/css/main.css',
