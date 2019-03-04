@@ -4,8 +4,18 @@ body.team {
 
 .team {
 
+	.team-member {
+		text-align: center;
+	}
+
+	.biography,
+	.contact {
+		text-align: left;
+	}
+
 	.staffimage {
-		margin-bottom: 2rem;
+		display: inline-block;
+		margin: 0 auto 2rem auto;
 	}
 
 	table {
@@ -15,12 +25,15 @@ body.team {
 		}
 		margin-bottom: 3rem;
 	}
+
 	p {
 		margin: 0;
 	}
+
 	h1 {
 		margin-bottom: 0;
 	}
+
 	h4 {
 		margin: 3rem 0;
 	}

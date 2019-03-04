@@ -29,6 +29,12 @@ body.projects {
 .card-inner,
 .project {
 
+  text-align: center;
+
+  .description {
+    text-align: left;
+  }
+
   .projectimage {
     @include media('<=phone') {
       max-width: 300px;
