@@ -194,6 +194,8 @@ cite {
 }
 
 ul {
+  break-before: auto;
+
   &.no-bullet {
     list-style: none;
     padding: 0;
@@ -201,7 +203,10 @@ ul {
 }
 
 li {
+  break-before: avoid-column;
+
   &.text-heading {
+    break-before: avoid-column;
     font-weight: 700;
     font-size: 1.4rem;
   }
