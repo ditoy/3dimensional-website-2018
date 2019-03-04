@@ -32,21 +32,24 @@ const project = {
         all: []
     },
     byActivity: {
-        'Shopdesign': [],
-        'Bürodesign': [],
-        'Rendering': [],
-        'Ausstellungsgestaltung': [],
-        'Schaufenstergestaltung': [],
-        'Eventgestaltung': [],
-        'Messegestaltung': [],
-        'Signaletik': [],
-        'Display': [],
-        'Point-of-Sale': []
+        // filled on init...
     },
     init: function(projects) {
         this.selectedProjects = projects;
         if (projects.length > 0) {
             const me = this;
+
+            // prepare array by activities
+            for (const item of projects) {
+                const activities = item.activities.trim().split(' ');
+                for (const activity of activities) {
+                    if (!me.byActivity[activity]) {
+                        me.byActivity[activity] = [];
+                    }
+                }
+            }
+
+            // fill activities array with projects
             for (const item of projects) {
                 if (item.concept) {
                     me.competence.concept.push(item);
@@ -74,18 +77,18 @@ const project = {
     getCompetenceByTag: function(tag) {
         if (tag.toLowerCase() === 'design') {
             return this.competence.concept;
-        } else if (tag.toLowerCase() === 'Planung') {
+        } else if (tag.toLowerCase() === 'planung') {
             return this.competence.planning;
-        } else if (tag.toLowerCase() === 'Produktion') {
+        } else if (tag.toLowerCase() === 'produktion') {
             return this.competence.implementation;
         }
     },
     getActivityByTag: function(tag) {
-        if (tag.toLowerCase() === 'Design') {
+        if (tag.toLowerCase() === 'design') {
             return this.activity.concept;
-        } else if (tag.toLowerCase() === 'Planung') {
+        } else if (tag.toLowerCase() === 'planung') {
             return this.activity.planning;
-        } else if (tag.toLowerCase() === 'Produktion') {
+        } else if (tag.toLowerCase() === 'produktion') {
             return this.activity.implementation;
         }
     },
@@ -404,7 +407,7 @@ function selectProjects(id, originList) {
             },
             onRemove: function() {
                 const selected = mySellect.getSelected();
-                if (selected.length == 0) {
+                if (selected.length === 0) {
                     project.init(projects);
                     populateSelect('aufgaben', project.getAvailableActivies());
                 }
