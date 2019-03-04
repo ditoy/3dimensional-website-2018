@@ -9,7 +9,9 @@
             <div class="container">
                 <article role="main" class="team-member">
                     {{ if .Params.image }}
-                        <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="Bild {{ .Title }}" class="staffimage">
+                        <div class="text-center">
+                            <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="Bild {{ .Title }}" class="staffimage">
+                        </div>
                     {{ end }}
 
                     {{ partial "link-prev-next" . }}
