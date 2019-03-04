@@ -24,14 +24,19 @@
 
     @media (min-width: 1150px) {
       position: relative;
-      left: -25px;
+      left: -30px;
     }
 
-    a,
-    img
-    {
-      padding: 0;
-      margin: 0;
+    @include media('>=tablet') {
+      img {
+        width: 180px;
+      }
+    }
+
+    @include media('>=desktop') {
+      img {
+        width: 200px;
+      }
     }
   }
 

@@ -1,87 +1,89 @@
-img,
-.img {
+.main {
+  img,
+  .img {
 
-  display: block;
-  margin: 0 auto;
-  vertical-align: middle;
-  overflow: hidden;
-
-  &:not(.icon) {
-    width: 100%;
-    max-width: 300px;
-
-    @include media('>tablet') {
-      max-width: 400px;
-    }
-
-    @include media('>desktop') {
-      max-width: 500px;
-    }
-
-    @include media('>=mega') {
-      max-width: 700px;
-    }
-  }
-
-  &.overflow {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  &.thumb {
-    width: 100%;
-    max-width: 200px;
-    height: auto;
-  }
-
-  svg {
-    display: inline-block;
-    max-width: 100% !important;
-    height: auto !important;
-    position: relative;
-    top: 0;
-    left: 0;
-
-    @include media('>=desktop') {
-      max-width: 700px;
-    }
-  }
-
-  &.fixed-width {
-    width: 100%;
-    max-width: 350px;
-    text-align: center;
+    display: block;
     margin: 0 auto;
+    vertical-align: middle;
+    overflow: hidden;
+
+    &:not(.icon) {
+      width: 100%;
+      max-width: 300px;
+
+      @include media('>tablet') {
+        max-width: 400px;
+      }
+
+      @include media('>desktop') {
+        max-width: 500px;
+      }
+
+      @include media('>=mega') {
+        max-width: 700px;
+      }
+    }
+
+    &.overflow {
+      width: 100%;
+      max-width: 100%;
+    }
+
+    &.thumb {
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+    }
+
+    svg {
+      display: inline-block;
+      max-width: 100% !important;
+      height: auto !important;
+      position: relative;
+      top: 0;
+      left: 0;
+
+      @include media('>=desktop') {
+        max-width: 700px;
+      }
+    }
+
+    &.fixed-width {
+      width: 100%;
+      max-width: 350px;
+      text-align: center;
+      margin: 0 auto;
+    }
+
+    &.round {
+      float: right;
+      margin: 0 0 2rem 2rem;
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      object-fit: cover;
+
+      @include media('>=tablet') {
+        width: 350px;
+        height: 350px;
+      }
+
+      @include media('>=desktop') {
+        width: 400px;
+        height: 400px;
+      }
+
+      @include media('>=mega') {
+        width: 500px;
+        height: 500px;
+      }
+
+      @include media('<=phone') {
+        display: block;
+        float: none;
+        margin: 2rem auto;
+      }
+    }
+
   }
-
-  &.round {
-    float: right;
-    margin: 0 0 2rem 2rem;
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    object-fit: cover;
-
-    @include media('>=tablet') {
-      width: 350px;
-      height: 350px;
-    }
-
-    @include media('>=desktop') {
-      width: 400px;
-      height: 400px;
-    }
-
-    @include media('>=mega') {
-      width: 500px;
-      height: 500px;
-    }
-
-    @include media('<=phone') {
-      display: block;
-      float: none;
-      margin: 2rem auto;
-    }
-  }
-
 }
