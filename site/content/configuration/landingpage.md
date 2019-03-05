@@ -33,7 +33,7 @@ quote2_image: 'https://ucarecdn.com/de7c2aad-f062-47a1-afa0-54d046618515/'
 quote2: >-
   Setzen Sie für die Produktion Ihrer 3dimensionalen Ideen auf unser
   interdisziplinäres Team aus erfahrenen Designern, Planern und Handwerkern.
-quote3_image: 'https://ucarecdn.com/3f42f1de-c9b5-4467-a45c-a849db8f2d93/'
+quote3_image: 'https://ucarecdn.com/4add0b2f-8bfa-4ce9-a121-455d521e7ce0/'
 quote3: >-
   Sprechen Sie mit uns über Ihre Projektidee! Wir realisieren auch
   anspruchsvolle 3dimensionale Konzepte mit höchsten ästhetischen Anforderungen.
