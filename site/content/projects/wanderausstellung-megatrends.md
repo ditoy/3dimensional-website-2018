@@ -17,8 +17,8 @@ teaser: >-
   Megatrends — Wanderausstellung zu den Themen Nachhaltigkeit, Multipolare Welt
   und Demographie
 projectpictures:
-  - 'https://ucarecdn.com/a365b88e-1cc6-41f0-90a1-a195d946858f/'
-  - 'https://ucarecdn.com/73133ce8-ddeb-41a1-a126-75ee0296eb63/'
+  - 'https://ucarecdn.com/eb0cbee8-994e-4ef1-8c46-0ff534fa39a6/'
+  - 'https://ucarecdn.com/35790bb8-c7a6-4993-a296-323e2cff613c/'
   - 'https://ucarecdn.com/eb4f9377-0caf-4ecc-9ed8-70ceb48cb36f/'
   - 'https://ucarecdn.com/f1574e43-067a-44d5-98cf-d6ff3a01d695/'
 ---
