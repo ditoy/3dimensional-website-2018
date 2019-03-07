@@ -12,7 +12,7 @@ activities:
   - Signaletik
 image: 'https://ucarecdn.com/4c895248-ad2e-4c6f-aa9d-a4362eeb933b/'
 teaser: >-
-  Langfenster und schlichte Quader - das Beschriftungskonzept greift klassisch
+  Langfenster und schlichte Quader — das Beschriftungskonzept greift klassisch
   moderne Qualitäten auf
 projectpictures:
   - undefined: ''
