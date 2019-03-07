@@ -12,8 +12,8 @@ activities:
   - Signaletik
 image: 'https://ucarecdn.com/4c895248-ad2e-4c6f-aa9d-a4362eeb933b/'
 teaser: >-
-  Fensterbänder und schlichte Quader — das Beschriftungskonzept unterstreicht
-  klassisch moderne Qualitäten
+  Fensterbänder, schlichte Quader und ein Beschriftungskonzept mit klassisch
+  modernen Qualitäten
 projectpictures:
   - undefined: ''
 ---
