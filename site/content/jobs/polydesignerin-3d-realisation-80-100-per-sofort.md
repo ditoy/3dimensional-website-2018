@@ -13,7 +13,7 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 
 #### Das ist uns wichtig:
 
-* handwerkliche Grundausbildung (SchreinerIn, PolydesignerIn 3D, ModellbauerIn)
+* abgeschlossene Ausbildung als PolydesignerIn 3D mit Schwerpunkt Realisation
 * 25 bis 35 Jahre alt
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
