@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-03-06T10:31:50.871Z
-title: PolydesignerIn 3D Realisation 80 - 100% per sofort
+title: Polydesigner/In 3D Realisation 80 - 100% per sofort
 ---
 ### Wer wir sind
 
