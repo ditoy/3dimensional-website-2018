@@ -1,6 +1,6 @@
 ---
 draft: false
-date: '2018-07-26T00:00:00+02:00'
+date: 2019-03-06T23:00:00.000Z
 title: SchreinerIn mit Werkstattverantwortung 80 - 100% per sofort
 ---
 ### Wer wir sind
