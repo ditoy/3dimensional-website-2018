@@ -1,57 +1,26 @@
 ---
-draft: true
+draft: false
 date: '2018-07-26T00:00:00+02:00'
-title: Mediamatiker/in 100%
+title: SchreinerIn mit Werkstattverantwortung 80 - 100% per sofort
 ---
-Pro Infirmis setzt sich für ein selbstständiges und selbstbestimmtes Leben behinderter Menschen ein. Als grösste Dachorganisation im Behindertenbereich erbringt sie Dienstleistungen für Betroffene und deren Angehörige. Dazu steht in allen Sprachregionen ein Netzwerk von insgesamt 50 Beratungsstellen mit rund 1‘600 Mitarbeitenden zur Verfügung.
+### Wer wir sind
 
-Die Abteilung Kommunikation ist zuständig für die externe und interne Kommunikation. Sie ist verantwortlich für die Marketingkommunikation, Medienarbeit, Kampagnen und Werbung, das Erscheinungsbild (CD/CI) sowie das Erstellen von Broschüren und Drucksachen. Ausserdem bewirtschaftet die Abteilung Kommunikation das Internet und Intranet sowie den Auftritt der Organisation in den Sozialen Medien.
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte, selbständige SchreinerIn welche mit Liebe zum Detail arbeitet.
 
-Fit in der digitalen Welt? Dann sind Sie bei uns am richtigen Ort. Wir suchen per sofort oder nach Vereinbarung eine/n Mediamatiker/in:
+### Was Sie auszeichnet
 
-## Ihr Tagesgeschäft
+Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für eine breite Palette von Aufgabenstellungen, schätzen es in einem kleinen Team zu arbeiten und möchten sich täglich in einem spannenden Umfeld weiterentwickeln. Sie übernehmen gerne Verantwortung und sind es gewohnt, mit Übersicht die Abläufe in der Schreinerei zu koordinieren. Dann freuen wir uns darauf, Sie kennenzulernen!
 
-### Fotos und Bilddatenbank
+#### Das ist uns wichtig:
 
-* Pflege und Weiterentwicklung unserer Bilddatenbank, Qualitätskontrolle der Bilder
-* Bildbearbeitung (Photoshop) und Bildaufbereitung für unsere Kommunikationskanäle
-* Organisation, Koordination und Durchführung von Fotoshootings
-* Beratung von internen Stakeholdern zur Bildauswahl, Bildverwendung und Nutzung der Bilddatenbank
+* Grundausbildung als Schreiner, Poly-/Feinmechaniker, Modellbauer, oder ähnlich
+* 25 bis 35 Jahre alt
+* umfassende Materialkenntnisse
+* Erfahrung in Unterhalt und Optimierung der Produktionseinrichtungen 
+* selbständiges, qualitativ hochwertiges Arbeitsverständnis
+* zielgerichtete, fokussierte Vorgehensweise mit Passion für relevante Details 
+* Teamplayer
+* Deutsche Muttersprache
+* Führerausweis Kategorie B
 
-### Corporate Website
-
-* Bewirtschaftung der dynamischen und barrierefreien Pro Infirmis Website und den zugehörigen Microsites (CMS Typo 3) mit technischem Schwerpunkt, in Zusammenarbeit mit der Online-Redakteurin
-* Technische und inhaltliche Weiterentwicklung der Website und der Microsites in enger Zusammenarbeit mit der Verantwortlichen digitale Marketingkommunikation
-* Umsetzung von SEO-Tasks
-* Domain- und Redirect-Management
-
-### Social Media
-
-* Bewirtschaftung der Social-Media-Kanäle mit technischem Schwerpunkt, Community Management primär für Facebook und YouTube, Umsetzung von Kommunikations-, Kampagnen- und Werbeaktivitäten, Auswertungen, (inhaltliche Unterstützung analog Website gewährleistet)
-* Aufbereitung von Videoclips und ein Flair fürs bewegte Bild
-
-### Zudem
-
-* Technische Unterstützung beim Intranet
-* Erstellen von Präsentationen
-* Umsetzungsverantwortung CD/CI
-
-### Das bringen Sie mit
-
-* Ausbildung als Mediamatiker/in
-* 2 bis 4 Jahre Berufserfahrung im digitalen Bereich in einer NPO, in der Privatwirtschaft oder einer Agentur
-* Vertiefte Anwenderkenntnisse mit Typo 3 oder vergleichbarem CMS
-* Grundlagenkenntnisse der Barrierefreiheit im Webbereich
-* Bereitschaft, sich mit der Thematik Behinderung auseinanderzusetzen
-* Begeisterung für digitale Technologien und hohes technisches Verständnis
-* Gute Projektmanagement-Kenntnisse
-* Teamfähigkeit
-* Exakte und selbständige Arbeitsweise
-
-### Wir bieten
-
-* Wir bieten attraktive Anstellungsbedingungen und gute Sozialleistungen. Der Arbeitsplatz befindet sich in Zürich-Seefeld.
-
-Auskunft zum Stellenprofil erteilt Susanne Stahel, Leiterin Kommunikation und Mittelbeschaffung sowie Mitglied der Geschäftsleitung (Tel. 058 775 20 00 oder susanne.stahel@proinfirmis.ch)
-
-Ihre vollständigen Bewerbungsunterlagen senden Sie uns bis am 20. August 2018 ausschliesslich elektronisch an: personal@proinfirmis.ch
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
