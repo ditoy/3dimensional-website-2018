@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-03-04T23:00:00.000Z
-title: 'A Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich'
+title: 'Z Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich'
 ---
 ### Wer wir sind
 
