@@ -1,6 +1,6 @@
 ---
 draft: false
-date: '2018-07-26'
+date: 2019-03-07T23:00:00.000Z
 title: 'Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich'
 ---
 ### Wer wir sind
