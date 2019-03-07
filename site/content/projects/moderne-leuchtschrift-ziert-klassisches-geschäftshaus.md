@@ -16,5 +16,6 @@ teaser: >-
   modernen Qualitäten
 projectpictures:
   - undefined: ''
+  - 'https://ucarecdn.com/d980257c-b065-402f-9449-67c5210ee7c3/'
 ---
 
