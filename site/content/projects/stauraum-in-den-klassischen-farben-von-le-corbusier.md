@@ -14,4 +14,4 @@ teaser: >-
   Ein Schaufenster für den Klassiker von Denz, heute Teil der Marke Lista Office
   LO
 ---
-Le Corbusier hätte seine Freude gehabt an dem Schaufenster. Das Bureau Hindermann erweist damit dem grossen Schweizer Architekten seine Ehre. Und auch wir von 3dimensional haben bei der Produktion des klar strukturierten Ausstellungsstücks den Spirit von Le Corbusier im Atelier gespürt.
+Le Corbusier hätte seine Freude gehabt an dem Schaufenster. Bureau Hindermann erweist damit dem grossen Schweizer Architekten seine Ehre. Und auch wir von 3dimensional haben bei der Produktion des klar strukturierten Ausstellungsstücks den Spirit von Le Corbusier im Atelier gespürt.
