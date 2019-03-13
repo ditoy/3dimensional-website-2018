@@ -17,4 +17,4 @@ projectpictures:
   - 'https://ucarecdn.com/82fd54c6-36b6-4c67-88cc-d2a3f1bc0b71/'
   - 'https://ucarecdn.com/9138240f-b744-4123-8f55-0838d5e104c7/'
 ---
-Für die traditionelle Appenzeller Schreinerei Welz hat das Bureau Hindermann in Zusammenarbeit mit 3dimensional eine überraschende Variante der klassischen Pendelleuchte realisiert. Der Doppelmeter erinnert an das traditionelle Schreiner Handwerk und ergibt repetitiv und radial angeordnet einen Schirm, der anmutige Ästhetik und kontextuelle Bezugnahme gekonnt vereint.
+Für die traditionelle Appenzeller Schreinerei Welz hat Bureau Hindermann in Zusammenarbeit mit 3dimensional eine überraschende Variante der klassischen Pendelleuchte realisiert. Der Doppelmeter erinnert an das traditionelle Schreiner Handwerk und ergibt repetitiv und radial angeordnet einen Schirm, der anmutige Ästhetik und kontextuelle Bezugnahme gekonnt vereint.
