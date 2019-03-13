@@ -15,4 +15,4 @@ teaser: >-
   Erfolg in der Immobilienwirtschaft basiert nicht zuletzt darauf, sich richtig
   zu positionieren
 ---
-Die Intershop Holding AG ist eine an der SIX Swiss Exchange kotierte Immobilien-Aktiengesellschaft mit Sitz in Zürich. Sie steht für Erfahrung und Erfolg in der Immobilienwirtschaft. Zusammen mit dem Bureau Hindermann hat 3dimensional die gesamte Beschriftung sowohl im Innen- als auch im Aussenraum des Geschäftssitzes von Intershop in Dielsdorf realisert.
+Die Intershop Holding AG ist eine an der SIX Swiss Exchange kotierte Immobilien-Aktiengesellschaft mit Sitz in Zürich. Sie steht für Erfahrung und Erfolg in der Immobilienwirtschaft. Zusammen mit Bureau Hindermann hat 3dimensional die gesamte Beschriftung sowohl im Innen- als auch im Aussenraum des Geschäftssitzes von Intershop in Dielsdorf realisert.
