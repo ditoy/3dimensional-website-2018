@@ -18,6 +18,6 @@ projectpictures:
   - 'https://ucarecdn.com/c2ab4129-07a8-4de1-b5df-118cb570ba9e/'
   - 'https://ucarecdn.com/f66647fd-3660-4ac7-badf-e69c924d8674/'
   - 'https://ucarecdn.com/58acc7ca-503d-4a24-91f3-5926ca3b8d03/'
-  - 'https://ucarecdn.com/5f29328a-d39e-4755-b99b-9fbfeeea0d08/'
+  - 'https://ucarecdn.com/99e4be6b-6677-4f44-b607-43b4cb831189/'
 ---
 Feine schwarze Lettern fliessen die weisse Fassade hinunter, davor steht die monolithisch schwarze Stele im Takt der Geschosse durch leuchtend weisse Geschäftsnamen rythmisiert. Kaum dämmert die Nacht setzt sich das Spiel der Hell-Dunkel-Kontraste fort, und von der Stele — nun weiss hinterleuchtet — hebt sich schwarze Schrift klar und prägnant ab. Die Zeichen am Gebäude erhalten ihren Lichtschein und schweben schwerelos vor dunkler Wand. 3dimensional hat zusammen mit der Marken- und Designagentur Pikka das schlichte und stimmige Beschriftungs- und Signaletikkonzept für das Geschäftshaus Bühlstrasse 1 realisiert.
