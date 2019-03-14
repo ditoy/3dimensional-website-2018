@@ -10,7 +10,7 @@ implementation: true
 activities:
   - Ausstellungsgestaltung
   - Messegestaltung
-image: 'https://ucarecdn.com/89a78c82-23c9-410e-a616-28b8f6d4b315/'
+image: 'https://ucarecdn.com/3e579fe0-6aa6-4f30-b155-90e6344e6d22/'
 imageAlt: 'Duftender Seifenluster für die Milano Design Week '
 teaser: >-
   Materialisiert aus bedruckten Kartonschachteln und einer halben Tonne
