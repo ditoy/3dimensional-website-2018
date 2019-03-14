@@ -14,7 +14,8 @@ teaser: >-
   Im Treuhandunternehmen ist Ordnung das A & O — auch die Deckenleuchten machen
   da keine Ausnahme
 projectpictures:
-  - 'https://ucarecdn.com/009409a2-6c1f-4b10-90be-65b94fd76de5/'
-  - 'https://ucarecdn.com/fc750faf-05e3-404a-9bc5-47e6d4d468ca/'
+  - 'https://ucarecdn.com/eb9a26d9-dce2-4da0-bf60-90500212b354/'
+  - 'https://ucarecdn.com/882d8789-e8a4-4c84-8905-42bd088f37bc/'
+  - 'https://ucarecdn.com/18653fdf-fa0b-441c-9d95-83e35a415004/'
 ---
 Die Übersicht bewahren und Unterlagen klar strukturiert ablegen — dieses Treuhänder-Thema hat Bureau Hindermann aufgegriffen und daraus zusammen mit 3dimensional eine Deckenleuchte kreiert, welche über dem Konferenztisch eine der Kernkompetenzen von Bühlmann & Partner sinnfällig macht.
