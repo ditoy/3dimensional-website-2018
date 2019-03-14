@@ -11,7 +11,6 @@ image: 'https://ucarecdn.com/24317bf9-aad5-4640-8113-ec695a535563/'
 imageAlt: ''
 teaser: Realisierung der Leuchten in den neugestalteten Büroräumlichkeiten bei jobs.ch
 projectpictures:
-  - 'https://ucarecdn.com/78683690-e2a5-40fa-aec2-46fbb930c0b8/'
   - 'https://ucarecdn.com/c3b92e53-2dd6-43a3-8628-a44996343cd7/'
   - 'https://ucarecdn.com/cc32d52d-4d51-4767-b8e0-d20379c14a20/'
   - 'https://ucarecdn.com/5f3e762b-20c4-4add-9878-1490722c6a06/'
