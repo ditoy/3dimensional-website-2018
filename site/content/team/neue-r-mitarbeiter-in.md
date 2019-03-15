@@ -1,7 +1,7 @@
 ---
 date: 2019-03-15T11:54:27.736Z
 position: 40
-draft: true
+draft: false
 robotsExclude: false
 title: Neue/r Mitarbeiter/in
 function: Mitarbeiter/in
