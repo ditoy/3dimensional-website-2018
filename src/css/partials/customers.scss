@@ -5,7 +5,7 @@
   text-align: left;
   column-count: 1;
   column-gap: 3.8rem;
-  
+
   @include media(">phone") {
     column-count: 2;
   }
