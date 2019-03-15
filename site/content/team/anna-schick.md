@@ -1,6 +1,6 @@
 ---
 date: 2019-03-15T11:51:51.054Z
-position: 20
+position: 40
 draft: false
 robotsExclude: false
 title: Anna Schick
