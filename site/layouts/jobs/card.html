@@ -1,6 +1,12 @@
 <div class="job-wrapper" id="{{ .UniqueID }}">
     <article class="summary">
         <h2>{{ .Title }}</h2>
+        <div class="more" data-target="{{ .UniqueID }}">
+            Mehr anzeigen ▼
+        </div>
+        <div class="less" data-target="{{ .UniqueID }}">
+            Weniger anzeigen ▲
+        </div>
         <div class="job">
             {{ if .Params.image }}
             <div class="featuredimageWrapper">
@@ -12,12 +18,6 @@
                         {{ .Content }}
                     </div>
                 </div>
-        </div>
-        <div class="more" data-target="{{ .UniqueID }}">
-            Mehr anzeigen ▼
-        </div>
-        <div class="less" data-target="{{ .UniqueID }}">
-            Weniger anzeigen ▲
         </div>
     </article>
 </div>

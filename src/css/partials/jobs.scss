@@ -6,6 +6,7 @@ body.jobs {
 
   h2 {
     font-size: 2.0rem;
+    margin-bottom: 0.8rem;
   }
 
   h3 {
@@ -26,6 +27,13 @@ body.jobs {
         max-height: none;
         overflow: visible;
         transition: $tr-scope $tr-speed $tr-ease;
+        margin-bottom: 3rem;
+
+        .col-12 {
+          background-color: $c-white;
+          padding-left: 3vw;
+          padding-right: 3vw;
+        }
       }
 
       .more {
