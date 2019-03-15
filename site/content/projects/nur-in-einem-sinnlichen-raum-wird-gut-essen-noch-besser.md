@@ -16,5 +16,10 @@ imageAlt: ''
 teaser: >-
   Bekannte Materialien neu interpretiert erzeugen eine spielerische Themenwelt
   nahe dem Träumerischen
+projectpictures:
+  - 'https://ucarecdn.com/67c98689-428d-43fd-b03a-cb9550aa3947/'
+  - 'https://ucarecdn.com/3ce47802-de6d-4c2a-b400-58fdedb5f38b/'
+  - 'https://ucarecdn.com/b029bf31-29e7-474b-ad0f-dfccae8d58d9/'
+  - 'https://ucarecdn.com/057265b7-b212-4ec6-8bf2-8375db726ae5/'
 ---
 Offene Räume, frische Farbakzente und spielerische Elemente aus Sanitärinstallationssystemen hauchen der Cafeteria im Informationszentrum von Geberit eine neue Sinnlichkeit ein. Raumkonzept und Design hat Bureau Hindermann kreiert, umgesetzt und installiert wurden die Leuchten durch 3dimensional.
