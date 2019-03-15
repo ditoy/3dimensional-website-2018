@@ -15,7 +15,7 @@ teaser: >-
   So einfach geht Licht
 projectpictures:
   - 'https://ucarecdn.com/b7c4f319-d2f0-46f3-8faa-fc0253cf44ec/'
-  - 'https://ucarecdn.com/7545d403-9e6a-4fdd-ace9-08f0ce9d8a37/'
+  - 'https://ucarecdn.com/7af9f7c5-1cd4-4e75-a77c-b0b4426a18f2/'
   - 'https://ucarecdn.com/977afc28-4634-4fcb-9e03-a287910f03b6/'
   - 'https://ucarecdn.com/254522db-d2c3-4776-b2c2-b088400af337/'
 ---
