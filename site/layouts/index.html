@@ -140,15 +140,15 @@
                     {{ $alfa := (slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z") }}
                     {{ $collection := sort (where .Site.Pages "Section" "customers") ".File.LogicalName" }}
                     {{ range $alfa }}
-                    <ul class="no-bullet">
-                        {{ $current := . }}
-                        <li class="text-heading">{{ $current }}</li>
-                        {{ range $collection }}
-                        {{ if eq (lower (substr .Params.title 0 1)) (lower $current) }}
-                        <li>{{ .Params.title }}</li>
-                        {{ end }}
-                        {{ end }}
-                    </ul>
+                        <ul class="no-bullet">
+                            {{ $current := . }}
+                            <li class="text-heading">{{ $current }}</li>
+                            {{ range $collection }}
+                            {{ if eq (lower (substr .Params.title 0 1)) (lower $current) }}
+                            <li>{{ .Params.title }}</li>
+                            {{ end }}
+                            {{ end }}
+                        </ul>
                     {{ end }}
                 </article>
             </div>
