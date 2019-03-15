@@ -15,5 +15,8 @@ teaser: >-
   So einfach geht Licht
 projectpictures:
   - 'https://ucarecdn.com/b7c4f319-d2f0-46f3-8faa-fc0253cf44ec/'
+  - 'https://ucarecdn.com/7545d403-9e6a-4fdd-ace9-08f0ce9d8a37/'
+  - 'https://ucarecdn.com/977afc28-4634-4fcb-9e03-a287910f03b6/'
+  - 'https://ucarecdn.com/254522db-d2c3-4776-b2c2-b088400af337/'
 ---
 Die Staatskellerei Zürich produziert seit über 150 Jahren an aussergewöhnlicher Lage in Rheinau Weine, die regelmässig Auszeichnungen gewinnen. Im Interieur des historischen Klosterkellers hängt über dem fünf Meter langen Tisch aus massiver Eiche ein imposanter Flaschenluster aus achtzehn explosionsartig angeordneten Magnumflaschen, die einen dynamischen Kronleuchter bilden. Hier trifft sich, wer gediegen einen Wein degustieren will im Bewusstsein, dass Gottfried Keller als Staatsschreiber 1862 den Grundstein für diesen besonderen Genuss legte. Bureau Hindermann hat zusammen mit 3dimensional dem Ort sein stilvolles Ambiente zurückgegeben.
