@@ -8,6 +8,6 @@ function: Polydesignerin 3D
 quote: Lorem ipsum dolor sit amet.
 email: schick@3dimensional.ch
 phone: +41 44 422 44 25
-image: 'https://ucarecdn.com/da107f59-a15d-4179-b8bf-228ba2f5bd7d/'
+image: 'https://ucarecdn.com/fe5b0cb9-43ce-489b-82e2-ef0373a6134f/'
 ---
 Lorem ipsum dolor sit amet.
