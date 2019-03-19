@@ -10,6 +10,6 @@ quote: >-
   3dimensionales zu erschaffen.
 email: pellegrini@3dimensional.ch
 phone: +41 44 422 44 25
-image: 'https://ucarecdn.com/58637645-8d87-44f4-ae04-0a68fe5df647/'
+image: 'https://ucarecdn.com/bb92c848-7146-4138-8cd5-7ca81c43c503/'
 ---
 In ihrer langjährigen Laufbahn als Polydesignerin 3D realisierte Daniela Pellegrini unzählige kreative Ideen bei Globus Zürich und freischaffend für diverse Kunden. Seit ihrem Schritt zu 3dimensional blüht ihre Leidenschaft für Gestaltung in unseren Ateliers auf. Mit demselben Elan engagiert sie sich für die Zukunft ihres Berufs als Prüfungsexpertin Polydesigner 3D und bewertet die Leistungen des Nachwuchses. Für ihr Schaffen inspiriert sie sich auf Flohmärkten ebenso wie beim Töpfern, analog Fotografieren, Yoga oder im Kino — ihrem zweiten Wohnzimmer.
