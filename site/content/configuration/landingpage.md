@@ -1,5 +1,5 @@
 ---
-slide1_image: 'https://ucarecdn.com/7c9317c1-830c-4810-b25d-aac7cf44efd6/'
+slide1_image: 'https://ucarecdn.com/8f887464-6482-4654-b5b9-8aeb1a96c4ee/'
 slide1_claim: >-
   Wir haben das scharfe Auge für Details, die in Ihrem Projekt den Unterschied
   ausmachen.
