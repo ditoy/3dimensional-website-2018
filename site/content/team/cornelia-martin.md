@@ -10,6 +10,6 @@ quote: >-
   sich für mich richtig gut an!
 email: martin@3dimensional.ch
 phone: +41 44 422 44 19
-image: 'https://ucarecdn.com/670a734a-45b8-44f1-94ed-753aa6cd890a/'
+image: 'https://ucarecdn.com/777a7722-4387-475b-8324-0f4d4e9044ca/'
 ---
 Ihr feines Händchen für Buchhaltung und Personalwesen hat Cornelia Martin in den unterschiedlichsten Branchen perfektioniert, bevor sie bei 3dimensional die Herausforderung annahm, in einem kreativen Umfeld stets für reibungslose Administrationsprozesse zu sorgen. Ihr organisatorisches Engagement bringt sie unter einen Hut mit der Rolle als Mutter dreier Kinder, und beim Yoga und Tanzen spielt sie statt mit Zahlen zur Abwechslung mit Schrittfolgen und Bewegungen.
