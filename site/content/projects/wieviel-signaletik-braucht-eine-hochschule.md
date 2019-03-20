@@ -15,7 +15,7 @@ teaser: >-
   Externe Besucher, Studierende und Mitarbeiter wollen klare Zeichen, um ans
   Ziel zu kommen
 projectpictures:
-  - 'https://ucarecdn.com/04346531-8197-4592-a550-e1cd29ea7fe9/'
+  - 'https://ucarecdn.com/d44fdc44-e6a2-4eac-be07-0b5a9d1e9719/'
   - 'https://ucarecdn.com/8a7c53c9-81cd-42f8-b71d-1ba3fc9bb5cd/'
   - 'https://ucarecdn.com/dab24683-0d5f-48ce-b55f-96822e3460c2/'
   - 'https://ucarecdn.com/df09a288-dff2-49fb-98a8-0224daf583b4/'
