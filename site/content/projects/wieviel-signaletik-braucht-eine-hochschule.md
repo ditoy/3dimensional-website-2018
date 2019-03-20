@@ -10,7 +10,7 @@ implementation: true
 activities:
   - Signaletik
   - Beschriftung
-image: 'https://ucarecdn.com/e89a5610-f889-47cf-9f20-17678dbff175/'
+image: 'https://ucarecdn.com/aceb10a8-b470-48b4-b623-1573bceb67ab/'
 teaser: >-
   Externe Besucher, Studierende und Mitarbeiter wollen klare Zeichen, um ans
   Ziel zu kommen
