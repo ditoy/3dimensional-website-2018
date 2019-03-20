@@ -9,7 +9,7 @@ planning: true
 implementation: true
 activities:
   - Signaletik
-image: 'https://ucarecdn.com/b857ebc2-2c43-480c-ad3b-efd27e340a6c/'
+image: 'https://ucarecdn.com/c7e5b027-035d-4bed-b45a-2137bb818239/'
 teaser: >-
   Entweder man liebt Sichtbeton oder nicht. Aber frisches grün, das mögen doch
   alle gern.
