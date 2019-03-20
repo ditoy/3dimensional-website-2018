@@ -16,7 +16,6 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/'
   - 'https://ucarecdn.com/8d7302b9-508e-4bcf-b5e1-1eeabb5745c6/'
-  - 'https://ucarecdn.com/b3d98e5e-9b45-44f6-a2f2-7986ae4d66b5/'
   - 'https://ucarecdn.com/d95f8ced-cf5d-4c63-bc4f-4e0c5d1b80f4/'
   - 'https://ucarecdn.com/cf00c291-f17e-4db9-81d2-9b44988530fe/'
 ---
