@@ -17,7 +17,7 @@ projectpictures:
   - 'https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/'
   - 'https://ucarecdn.com/8d7302b9-508e-4bcf-b5e1-1eeabb5745c6/'
   - 'https://ucarecdn.com/b3d98e5e-9b45-44f6-a2f2-7986ae4d66b5/'
-  - 'https://ucarecdn.com/27831f3e-acdf-4272-b6b4-562fc95e7ab8/'
-  - 'https://ucarecdn.com/e6867e75-e872-4703-8665-ee107953ff7d/'
+  - 'https://ucarecdn.com/d95f8ced-cf5d-4c63-bc4f-4e0c5d1b80f4/'
+  - 'https://ucarecdn.com/cf00c291-f17e-4db9-81d2-9b44988530fe/'
 ---
 Auf dem Spinnerei-Areal der Blumer Söhne + Cie. AG steht das altgediente Spinnereigebäude, welches seinen Mietern eine zeitgemässe Nutzung als Geschäftsräume und ein besonderes, historisches Erlebnis bietet. Für die Beschriftung der neu ausgebauten Gebäude und Räume wurde eine ebenso klare wie kräftige Form gefunden, die 3dimensional nach dem Entwurf von Ditoy Digitalagentur umgesetzt hat.
