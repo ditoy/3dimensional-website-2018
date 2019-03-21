@@ -17,4 +17,4 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/cedb30e0-cf9f-4832-9d07-5be74df81c8d/'
 ---
-Die Intershop Holding AG ist eine an der SIX Swiss Exchange kotierte Immobilien-Aktiengesellschaft mit Sitz in Zürich. Sie steht für Erfahrung und Erfolg in der Immobilienwirtschaft. Zusammen mit Bureau Hindermann hat 3dimensional die gesamte Beschriftung sowohl im Innen- als auch im Aussenraum des Geschäftssitzes von Intershop in Dielsdorf realisert.
+Die Intershop Holding AG ist eine an der SIX Swiss Exchange kotierte Immobilien-Aktiengesellschaft mit Sitz in Zürich. Sie steht für Erfahrung und Erfolg in der Immobilienwirtschaft. Für ihr Geschäftshaus am Honywell Platz haben sie auf das Gespann Bureau Hindermann und 3dimensional gesetzt, um die gesamte Beschriftung sowohl im Innen- als auch im Aussenraum publikumswirksam zu realisieren.
