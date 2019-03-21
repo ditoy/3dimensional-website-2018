@@ -14,7 +14,7 @@ teaser: >-
   Mit dem dreirädrigen Zustellfahrzeug der Post das Verteilen gleich selber
   ausprobieren
 projectpictures:
-  - 'https://ucarecdn.com/6b94dff8-2b4b-4142-81d8-0dbd8bcc9b40/'
+  - 'https://ucarecdn.com/21c8ac20-59be-45b4-8bf5-a9d00aa4754d/'
   - 'https://ucarecdn.com/546aa4e6-f122-405c-91f7-c02414dad5b6/'
   - 'https://ucarecdn.com/f8d1c511-93ef-42a6-96bf-2a57d534abe7/'
 ---
