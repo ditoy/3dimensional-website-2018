@@ -10,13 +10,13 @@ implementation: true
 activities:
   - Leuchtwerbung
   - Signaletik
-image: 'https://ucarecdn.com/4c895248-ad2e-4c6f-aa9d-a4362eeb933b/'
+image: 'https://ucarecdn.com/128ac057-fe5c-4e8d-b5fd-5afcbe95e03e/'
 teaser: >-
   Fensterbänder, schlichte Quader und ein Beschriftungskonzept mit klassisch
   modernen Qualitäten
 projectpictures:
   - 'https://ucarecdn.com/036da656-cbca-4eba-831b-70a579b26092/'
-  - 'https://ucarecdn.com/f66647fd-3660-4ac7-badf-e69c924d8674/'
+  - 'https://ucarecdn.com/47de4559-6098-4784-9134-3f002d14296b/'
   - 'https://ucarecdn.com/58acc7ca-503d-4a24-91f3-5926ca3b8d03/'
   - 'https://ucarecdn.com/99e4be6b-6677-4f44-b607-43b4cb831189/'
 ---
