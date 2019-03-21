@@ -15,7 +15,7 @@ teaser: >-
   ausprobieren
 projectpictures:
   - 'https://ucarecdn.com/21c8ac20-59be-45b4-8bf5-a9d00aa4754d/'
-  - 'https://ucarecdn.com/546aa4e6-f122-405c-91f7-c02414dad5b6/'
-  - 'https://ucarecdn.com/f8d1c511-93ef-42a6-96bf-2a57d534abe7/'
+  - 'https://ucarecdn.com/426552f2-3ed3-47b1-a5f4-6106df74573f/'
+  - 'https://ucarecdn.com/a4648cc7-3d50-4c72-b18e-59df59a2dd01/'
 ---
 Auf dem interaktiven Simulator von Kyburz können Besucher im Verkehrshaus der Schweiz selber erleben, was es heisst, Pakete und Briefe zur richtigen Zeit am richtigen Ort abzuliefern. Nach ein paar missglückten Fahrversuchen auf dem originalen Elektrofahrzeug klappt’s mit der Zustellung und dem Punktesammeln im Spiel dann auch ganz gut. Wie von Zauberhand kommen die verschiedenen Sendungen an. 3dimensional hat zusammen mit der Digitalagentur Ditoy für Kyburz und das Verkehrshaus die Daueraustellung zum Thema Dreirad-Fahrzeuge konzipiert und umgesetzt.
