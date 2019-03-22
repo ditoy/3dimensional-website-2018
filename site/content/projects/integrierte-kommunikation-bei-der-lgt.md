@@ -14,5 +14,10 @@ imageAlt: ''
 teaser: >-
   Mit dem grossen Schaufenster am Flughafen Zürich führt LGT ihre Kampagne
   konsequent weiter
+projectpictures:
+  - 'https://ucarecdn.com/f0c78126-88f4-4128-ad34-052f1c1bf8ed/'
+  - null
+  - null
+  - null
 ---
 Durch den Einsatz bewegter Bilder auf zwei grossen Bildschirmen ergänzt durch dreidimensionale Objekte entstand ein Hingucker, welcher die Passanten zum stehen bleiben animiert und die Botschaft der LGT, einer individuellen Anlagestrategie, frisch und edel vermittelt.
