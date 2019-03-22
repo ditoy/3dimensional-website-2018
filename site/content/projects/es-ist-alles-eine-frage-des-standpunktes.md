@@ -10,14 +10,14 @@ implementation: true
 activities:
   - Signaletik
   - Beschriftung
-image: 'https://ucarecdn.com/c1e7db52-fa88-4e1a-adea-bc0178f637e1/'
+image: 'https://ucarecdn.com/7fe82094-8a73-48e4-bff7-045a9f27c781/'
 teaser: >-
   Erfolg in der Wirtschaft basiert nicht zuletzt darauf, sich richtig zu
   positionieren
 projectpictures:
-  - 'https://ucarecdn.com/45947425-cbe3-40dd-8520-6ad6a0f806b8/'
-  - 'https://ucarecdn.com/fe04d559-bd26-4393-8065-b733053feff9/'
-  - 'https://ucarecdn.com/f4aea509-92c7-4078-a72a-12305c184626/'
+  - 'https://ucarecdn.com/15f27f77-eb48-466c-b71f-fffbd1ff8186/'
+  - 'https://ucarecdn.com/d8bfb1af-2e18-433c-8c61-28ec716fc9aa/'
+  - 'https://ucarecdn.com/03d307d0-a092-47d0-b63e-43fe9b28dec7/'
   - 'https://ucarecdn.com/246e8ac6-97b0-4fae-9725-9ae849fa3f3d/'
 ---
 Für die Realisierung der publikumswirksamen Beschriftung im Innen- und Aussenraum des Geschäftshaus Honywellplatz 1 hat die Intershop Holding AG auf das Gespann Bureau Hindermann und 3dimensional gesetzt. Nur wer sich am Empfang genau beim POI hinstellt ist richtig positioniert, um zu erkennen, welche geometrische Figur sich hinter der Anamorphose verbirgt.
