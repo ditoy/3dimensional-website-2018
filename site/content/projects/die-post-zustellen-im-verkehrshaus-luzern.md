@@ -9,7 +9,7 @@ planning: true
 implementation: true
 activities:
   - Ausstellungsgestaltung
-image: 'https://ucarecdn.com/bdc044d5-73cd-4756-aeb9-b31928a6f2f2/'
+image: 'https://ucarecdn.com/c8fbbd06-92de-4b38-8458-c081cf734426/'
 teaser: >-
   Mit dem dreirädrigen Zustellfahrzeug der Post das Verteilen gleich selber
   ausprobieren
