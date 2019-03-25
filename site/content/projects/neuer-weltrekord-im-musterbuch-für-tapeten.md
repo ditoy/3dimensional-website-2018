@@ -20,4 +20,4 @@ projectpictures:
   - 'https://ucarecdn.com/9b15de12-9d57-4514-8c29-882246671be0/'
   - 'https://ucarecdn.com/1d1e416f-1d76-49b1-8e73-b52aad0c1153/'
 ---
-Die moderne Tapetenkollektion von Vescomm wurde am Designers Saturday in Form eines riesigen Musterbuches mit integrierten Pop-up Figuren präsentiert. Zwei Personen Blättern durch das Buch während sich das interessierte Publikum über die Produkte informiert. Bureau Hindermann hat in Zusammenarbeit mit 3dimensional das Musterbuch entwickelt.
+Die moderne Tapetenkollektion von Vescomm wurde am Designers Saturday in Form eines riesigen Musterbuches mit integrierten Pop-up Figuren präsentiert. Zwei Personen Blättern durch das Buch während sich das interessierte Publikum über die Produkte informiert. Bureau Hindermann hat in Zusammenarbeit mit 3dimensional das gigantische Musterbuch entwickelt.
