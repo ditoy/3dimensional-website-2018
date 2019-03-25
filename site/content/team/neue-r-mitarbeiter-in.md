@@ -5,7 +5,7 @@ draft: false
 robotsExclude: false
 title: Neue/r Mitarbeiter/in
 function: Mitarbeiter/in
-quote: Ich bin eine dynamische Person und suche eine neue Herausforderung.
+quote: Ich bin eine dynamische Fachperson und suche eine neue Herausforderung.
 email: ''
 phone: ''
 image: 'https://ucarecdn.com/a36d34cf-e9f6-4db1-bdf8-dbfaae07bcd8/'
