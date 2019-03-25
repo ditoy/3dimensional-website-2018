@@ -17,4 +17,4 @@ projectpictures:
   - 'https://ucarecdn.com/b663468a-0ce0-4a0c-8e7b-5204681fdab1/'
   - 'https://ucarecdn.com/d5a849e2-36b3-422b-aa38-5e6c3475da0a/'
 ---
-
+Das Herzstück der Stadt Zürich — die Bahnhofstrasse — geniesst als geschichtsträchtige Prachtstrasse weltweit einen exzellenten Ruf. Erstklassigkeit, Eleganz, Tradition und Qualität finden die Gäste hier an einer Strasse vereint. Für das Schaufenster von Götte Optik, dem traditionsreichen Zürcher Brillenfachgeschäft, hat 3dimensional eine Brillenauslage entworfen und realisiert, welche Locals gleichermassen anspricht wie Besucher aus Fernost.
