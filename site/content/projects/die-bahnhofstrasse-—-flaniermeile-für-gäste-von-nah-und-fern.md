@@ -10,9 +10,7 @@ implementation: true
 activities:
   - Schaufenstergestaltung
 image: 'https://ucarecdn.com/7bf4a8b5-7942-4d91-ad40-8655925a3a9a/'
-teaser: >-
-  Fernöstliche Impulse für die Brillenauslage an einer der angesagtesten
-  Shopping Adressen der Welt
+teaser: Fernöstliche Impulse an einer der angesagtesten Shopping Adressen der Welt
 projectpictures:
   - 'https://ucarecdn.com/f7c5c810-730a-425d-b40a-bf738150926f/'
   - 'https://ucarecdn.com/17f0c2e6-9295-441c-94a4-7fcdf7139618/'
