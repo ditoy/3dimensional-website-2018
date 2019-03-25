@@ -13,7 +13,7 @@ activities:
 image: 'https://ucarecdn.com/a93e42df-6cca-46cc-88ab-5b0006e2d91b/'
 teaser: >-
   Der Kulturgenuss hält während des Sommerfestivals auch beim Zürcher Optiker
-  Zwicker Einzug im Ladenlokal
+  Zwicker Einzug
 projectpictures:
   - 'https://ucarecdn.com/279e511e-0d53-47d9-8763-4e56817cb079/'
   - 'https://ucarecdn.com/cba086e6-4bbf-4ef7-8548-4f43cf8b02f0/'
