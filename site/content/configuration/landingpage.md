@@ -9,7 +9,7 @@ slide2_claim: 'Ob Showroom, Ausstellung oder Schaufenster — wir gestalten Ihr 
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: >-
-  Ihre Design Ideen produzieren wir in Präzision — Sie erhalten von uns
+  Ihre Design Ideen produzieren wir in Präzision — von uns erhalten Sie
   Swissness.
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
