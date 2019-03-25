@@ -5,8 +5,9 @@ draft: false
 robotsExclude: false
 title: Neue/r Mitarbeiter/in
 function: Mitarbeiter/in
-quote: Lorem ipsum dolor sit amet.
-phone: +41 44 422 44 25
+quote: Ich bin eine dynamische Person und suche eine neue Herausforderung.
+email: ''
+phone: ''
 image: 'https://ucarecdn.com/a36d34cf-e9f6-4db1-bdf8-dbfaae07bcd8/'
 ---
-Lorem ipsum dolor sit amet.
+Wir suchen immer wieder motivierte Mitarbeiter/innen als Schreiner/in, Polydesigner/in 3D oder im Bereich AVOR. Schauen Sie auf unserer [Job-Seite](/jobs/), ob eine passende Stelle für Sie dabei ist, oder senden Sie uns Ihre Initiativ-Bewerbung als PDF an [jobs@3dimensional.ch](< jobs@3dimensional.ch>).
