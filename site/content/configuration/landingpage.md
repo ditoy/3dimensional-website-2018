@@ -13,9 +13,7 @@ slide3_claim: >-
   Swissness.
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
-slide4_claim: >-
-  Wir lassen Oberflächen für Sie in hellem Glanz erstrahlen — und Ihr Auge
-  glänzt mit.
+slide4_claim: Sie wollen Glanz? Wir lassen es glänzen — und Ihr Auge glänzt mit.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
 slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns Form an.
