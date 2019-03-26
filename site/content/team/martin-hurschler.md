@@ -6,8 +6,8 @@ robotsExclude: false
 title: Martin Hurschler
 function: 'Inhaber & Gründer, Innenarchitekt HF'
 quote: >-
-  Jemandem ermöglichen, ein Projekt zu realisieren — diese Freude, dass etwas
-  interessantes entsteht, macht mich zufrieden. 
+  Projekte zu ermöglichen, damit interessante Ideen gemeinsam mit unseren Kunden
+  realisiert werden können  — das macht mich zufrieden. 
 email: hurschler@3dimensional.ch
 phone: +41 44 422 44 12
 image: 'https://ucarecdn.com/9a8d39f8-96ce-4f93-9e24-6d017f0ce386/'
