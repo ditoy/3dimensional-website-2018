@@ -9,7 +9,6 @@ planning: true
 implementation: true
 activities:
   - Display
-  - Shopdesign
   - Wandgestaltung
 image: 'https://ucarecdn.com/6a5311ce-8dc6-4baa-bc8b-c538642fdf13/'
 teaser: ' Die sprichwörtliche Präzision in den grossen Massstab übersetzt'
