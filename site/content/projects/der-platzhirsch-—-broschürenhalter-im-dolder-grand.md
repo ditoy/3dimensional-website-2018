@@ -1,5 +1,6 @@
 ---
 title: Der Platzhirsch — Broschürenhalter im Dolder Grand
+projectNumber: '15.2194'
 date: 2018-10-17T13:07:39.076Z
 position: 20
 draft: false
@@ -10,7 +11,7 @@ implementation: true
 activities:
   - Display
   - Point-of-Information
-image: 'https://ucarecdn.com/c9c00abd-e386-4c23-891c-51dcf47c7dc5/'
+image: 'https://ucarecdn.com/0ccf2bc8-68e8-4a57-b159-541843ae5b6d/'
 teaser: >-
   Fünf Sterne sind eine Verpflichtung, seinen Gästen auch Punkto Lektüre nur das
   Beste zu bieten
