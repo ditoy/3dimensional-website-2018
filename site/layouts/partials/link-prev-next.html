@@ -1,22 +1,53 @@
 <div class="nav-prev-next">
-    {{ $mysection := ($.Site.GetPage "section" .Section).Pages }}
-    {{ if .NextInSection }}
-        <a href="{{ .NextInSection.Permalink }}" class="nowrap nav-prev" aria-label="Zum vorherigen Eintrag">
+    {{ $currentSection := (($.Site.GetPage "section" .Section).Pages.ByParam "position") }}
+
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ $.Scratch.Set "currentPosition" 0 }}
+
+    {{/* calculate current position in array */}}
+    {{ range $currentSection }}
+        {{ if eq $.Permalink .Permalink }}
+            {{ $.Scratch.Set "currentPosition" ($.Scratch.Get "counter") }}
+        {{ end }}
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{ end }}
+
+
+    {{/* get Permalink for element before and after current position in array */}}
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ range $currentSection }}
+        {{/* next is at current position + 1 */}}
+        {{ if eq ($.Scratch.Get "counter") (add ($.Scratch.Get "currentPosition") 1) }}
+            {{ $.Scratch.Set "next" .Permalink }}
+        {{ end }}
+
+        {{/* prev is at current position - 1 */}}
+        {{ if eq ($.Scratch.Get "counter") (sub ($.Scratch.Get "currentPosition") 1) }}
+            {{ $.Scratch.Set "previous" .Permalink }}
+        {{ end }}
+
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{ end }}
+
+
+    {{ if $.Scratch.Get "previous" }}
+        <a href="{{ $.Scratch.Get "previous" }}" class="nowrap nav-prev" aria-label="Zum vorherigen Eintrag">
 	        <img src="/images/uploads/angle.svg" alt="Zum vorherigen Eintrag" />
 	    </a>
     {{ else }}
-        {{range last 1 $mysection }}
+        {{range last 1 $currentSection }}
             <a href="{{ .Permalink }}" class="nowrap nav-prev" aria-label="Zum vorherigen Eintrag">
 	            <img src="/images/uploads/angle.svg" alt="Zum vorherigen Eintrag" />
             </a>
         {{ end }}
     {{ end }}
-    {{ if .PrevInSection }}
-        <a href="{{ .PrevInSection.Permalink }}" class="nowrap nav-next" aria-label="Zum nächsten Eintrag">
+
+    {{ if $.Scratch.Get "next" }}
+        <a href="{{ $.Scratch.Get "next" }}" class="nowrap nav-next" aria-label="Zum nächsten Eintrag">
 	        <img src="/images/uploads/angle.svg" alt="Zum nächsten Eintrag" />
         </a>
     {{ else }}
-        {{ range first 1 $mysection }}
+        {{ range first 1 $currentSection }}
             <a href="{{ .Permalink }}" class="nowrap nav-next" aria-label="Zum nächsten Eintrag">
 	            <img src="/images/uploads/angle.svg" alt="Zum nächsten Eintrag" />
             </a>
