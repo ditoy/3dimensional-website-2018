@@ -1,5 +1,6 @@
 ---
 title: Ordnung bis unter die Decke
+projectNumber: '13.1404'
 date: 2019-02-22T10:36:19.087Z
 position: 20
 draft: false
@@ -14,7 +15,7 @@ teaser: >-
   Im Treuhandunternehmen ist Ordnung das A & O — auch die Deckenleuchten machen
   da keine Ausnahme
 projectpictures:
-  - 'https://ucarecdn.com/eb9a26d9-dce2-4da0-bf60-90500212b354/'
+  - 'https://ucarecdn.com/4183d339-e41b-4e88-8131-51405afd9469/'
   - 'https://ucarecdn.com/882d8789-e8a4-4c84-8905-42bd088f37bc/'
   - 'https://ucarecdn.com/18653fdf-fa0b-441c-9d95-83e35a415004/'
   - 'https://ucarecdn.com/ae9b1105-4ae6-47c7-a449-5bf18af811ef/'
