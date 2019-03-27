@@ -1,5 +1,6 @@
 ---
 title: Urbanes Wohnen und Arbeiten in Zürich Nord
+projectNumber: '15.2246'
 date: 2018-10-17T12:15:42.913Z
 position: 20
 draft: false
@@ -11,7 +12,7 @@ activities:
   - Signaletik
   - Beschriftung
   - Wandgestaltung
-image: 'https://ucarecdn.com/450fa740-a437-432c-b917-c2b91f67bf0a/'
+image: 'https://ucarecdn.com/eba7a607-993b-470b-82b9-0cce0491c72b/'
 teaser: >-
   Hochmoderne Räume in Neu-Oerlikon, wo urbane Gegenwart auf industrielle
   Vergangenheit trifft
