@@ -22,7 +22,7 @@
 
 
                     {{ if .Params.quote }}
-                    <h2 class="teaser text-center">" {{ .Params.quote }} "</h2>
+                        <h2 class="teaser text-center">"{{ .Params.quote }}"</h2>
                     {{ end }}
 
                     <div class="biography">
@@ -31,14 +31,14 @@
 
                     <div class="contact">
                         {{ if .Params.email }}
-                        <a href="mailto:{{ .Params.email }}" rel="noopener" class="nowrap"><br/>
-                            {{ .Params.email }}</a>
+                            <a href="mailto:{{ .Params.email }}" rel="noopener" class="nowrap"><br/>
+                                {{ .Params.email }}</a>
                         {{ end }}
                         <br/>
                         {{ if .Params.phone }}
-                        <a href="tel:{{ .Params.phone }}" rel="noopener" class="nowrap">
-                            {{ .Params.phone }}</a>
-                        {{ end }}
+                            <a href="tel:{{ .Params.phone }}" rel="noopener" class="nowrap">
+                                {{ .Params.phone }}</a>
+                            {{ end }}
                         <br/>
                     </div>
                 </article>
