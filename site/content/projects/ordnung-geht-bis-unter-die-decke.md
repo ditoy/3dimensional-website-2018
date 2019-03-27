@@ -15,7 +15,7 @@ teaser: >-
   Im Treuhandunternehmen ist Ordnung das A & O — auch die Deckenleuchten machen
   da keine Ausnahme
 projectpictures:
-  - 'https://ucarecdn.com/4183d339-e41b-4e88-8131-51405afd9469/'
+  - 'https://ucarecdn.com/f5ebcfa0-0d64-4263-9ebc-a3323b1b6442/'
   - 'https://ucarecdn.com/882d8789-e8a4-4c84-8905-42bd088f37bc/'
   - 'https://ucarecdn.com/18653fdf-fa0b-441c-9d95-83e35a415004/'
   - 'https://ucarecdn.com/ae9b1105-4ae6-47c7-a449-5bf18af811ef/'
