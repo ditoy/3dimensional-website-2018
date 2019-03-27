@@ -26,12 +26,22 @@
 @import "partials/reset";
 
 /* import vendors */
+
 // sellect.js
 @import "vendors/sellect";
+
 // lightbox.js
-@import "../../node_modules/lightgallery.js/src/css/lg-fb-comment-box";
-@import "../../node_modules/lightgallery.js/src/css/lg-transitions";
-@import "../../node_modules/lightgallery.js/src/css/lightgallery";
+$zindex-outer: 9950;
+$zindex-progressbar: 9983;
+$zindex-controls: 9980;
+$zindex-toolbar: 9982;
+$zindex-subhtml: 9980;
+$zindex-thumbnail: 9980;
+$zindex-pager: 9980;
+$zindex-playbutton: 9980;
+$zindex-item: 9960;
+$zindex-backdrop: 9940;
+@import "../../node_modules/lightgallery.js/src/sass/lightgallery";
 
 /* import partials */
 @import "partials/main";
