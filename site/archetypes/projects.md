@@ -8,13 +8,14 @@ image:          ""
 imageAlt:       ""
 year:           2018
 customerName:   "Kunde"
-customerUrl:    "Kundenwebsite"       
+customerUrl:    "Kundenwebsite"
 concept:        false
 planning:       false
 implementation: false
 activities:     ""
 pictures:       []
 teaser:         ""
+projectNumber:  ""
 ---
 kurzer Teaser des Projekts
 <!--more-->
