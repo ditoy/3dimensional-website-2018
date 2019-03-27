@@ -74,6 +74,27 @@ $lg-icon-bg: rgba(0, 0, 0, 0.45);
   }
 }
 
+.lg-prev,
+.lg-next {
+  img {
+    display: block;
+    width: 22px;
+    height: 22px;
+    margin: 4px;
+  }
+
+  &:before,
+  &:after {
+    display: none;
+  }
+}
+
+.lg-prev {
+  img {
+    transform: rotate(180deg);
+  }
+}
+
 /* import partials */
 @import "partials/main";
 @import "partials/grid";

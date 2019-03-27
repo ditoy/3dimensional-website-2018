@@ -212,7 +212,9 @@ window.onload = function() {
             cssEasing: 'cubic-bezier(0.15, 1.05, 0.9, 1)',
             speed: 800,
             backdropDuration: 400,
-            download: false
+            download: false,
+            nextHtml: "<img src=\"/images/uploads/angle-white.svg\" alt=\"Zum nächsten Bild\" />",
+            prevHtml: "<img src=\"/images/uploads/angle-white.svg\" alt=\"Zum nächsten Bild\" />"
         });
 
         const shortcut = document.querySelector('.gallery-shortcut');
