@@ -1,5 +1,6 @@
 ---
 title: Messestand für den Schweizer Zementhersteller
+projectNumber: '11.949'
 date: 2018-10-15T08:37:04.066Z
 position: 20
 draft: false
@@ -9,7 +10,7 @@ planning: true
 implementation: true
 activities:
   - Messegestaltung
-image: 'https://ucarecdn.com/019b1bf2-bb46-4400-bd24-e453be6cd631/'
+image: 'https://ucarecdn.com/e09fa3a1-86d2-4cb6-ae56-a43bd5677379/'
 teaser: >-
   Die grösste Baumesse der Schweiz — die Swissbau — ist ein zentraler
   Branchentreffpunkt
