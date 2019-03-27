@@ -10,7 +10,7 @@ planning: true
 implementation: true
 activities:
   - Leuchtendesign
-image: 'https://ucarecdn.com/b3fbf3b8-dcaf-4dbd-8f7d-946c31ad6b67/'
+image: 'https://ucarecdn.com/587871bb-d36f-4803-89b0-448b29a8c5df/'
 teaser: >-
   Im Treuhandunternehmen ist Ordnung das A & O — auch die Deckenleuchten machen
   da keine Ausnahme
