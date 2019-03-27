@@ -8,7 +8,9 @@ slide2_image: 'https://ucarecdn.com/880b0df0-e4ea-4eb8-8a17-99b4f5e4280d/'
 slide2_claim: 'Ob Showroom, Ausstellung oder Schaufenster — wir gestalten Ihr Display.'
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
-slide3_claim: Ihre Design Ideen produzieren wir in Präzision — leben Sie mit uns Swissness.
+slide3_claim: >-
+  Ihre Design Ideen produzieren wir in Präzision — erleben Sie mit uns
+  Swissness.
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
 slide4_claim: Sie wollen Glanz? Wir lassen es glänzen — und Ihr Auge glänzt mit.
