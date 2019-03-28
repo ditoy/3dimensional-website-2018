@@ -1,5 +1,6 @@
 ---
 title: Moderne Leuchtschrift ziert klassisches Geschäftshaus
+projectNumber: '17.2996'
 date: 2019-03-07T13:38:19.019Z
 position: 20
 draft: false
