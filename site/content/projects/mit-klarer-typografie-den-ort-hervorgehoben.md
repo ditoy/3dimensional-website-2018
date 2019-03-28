@@ -1,5 +1,6 @@
 ---
 title: Klare Formensprache schafft räumliche Identität
+projectNumber: 08.335
 date: 2018-10-08T11:35:18.979Z
 position: 20
 draft: false
