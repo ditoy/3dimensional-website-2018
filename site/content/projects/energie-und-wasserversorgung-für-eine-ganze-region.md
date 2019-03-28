@@ -13,7 +13,7 @@ activities:
   - Innenarchitektur
 image: 'https://ucarecdn.com/52400823-36d7-44c5-a5c6-e9022a53d91c/'
 teaser: >-
-  Die Kundennähe im neuen ibw-shop ist Ausdruck einer Beziehung: Energie
+  Die Kundennähe im neuen ibw-shop ist Ausdruck einer Haltung: Energie
   persönlich.
 projectpictures:
   - 'https://ucarecdn.com/6ce9743e-aabe-4559-9934-c1713eaa38bf/'
