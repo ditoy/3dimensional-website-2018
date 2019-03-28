@@ -1,5 +1,6 @@
 ---
 title: Die Festspiele Zürich — ein Hingucker für Kulturfans
+projectNumber: '18.3207'
 date: 2019-03-25T14:03:44.464Z
 position: 20
 draft: false
@@ -12,8 +13,8 @@ activities:
   - Shopdesign
 image: 'https://ucarecdn.com/a93e42df-6cca-46cc-88ab-5b0006e2d91b/'
 teaser: >-
-  Der Kulturgenuss hält während des Sommerfestivals auch beim Zürcher Optiker
-  Zwicker Einzug
+  Der Kulturgenuss hält während des Sommerfestivals beim Zürcher Optiker Zwicker
+  Einzug
 projectpictures:
   - 'https://ucarecdn.com/279e511e-0d53-47d9-8763-4e56817cb079/'
   - 'https://ucarecdn.com/cba086e6-4bbf-4ef7-8548-4f43cf8b02f0/'
