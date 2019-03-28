@@ -1,5 +1,6 @@
 ---
 title: Wieviel Signaletik braucht eigentlich eine Hochschule?
+projectNumber: '17.2883'
 date: 2018-10-09T13:48:23.301Z
 position: 20
 draft: false
