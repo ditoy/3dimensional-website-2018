@@ -1,5 +1,6 @@
 ---
 title: Es ist alles eine Frage des Standpunktes
+projectNumber: '15.2365'
 date: 2018-09-21T12:55:43.171Z
 position: 20
 draft: false
