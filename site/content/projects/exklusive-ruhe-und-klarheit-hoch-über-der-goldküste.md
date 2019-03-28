@@ -1,5 +1,6 @@
 ---
 title: Exklusive Ruhe und Klarheit hoch über der Goldküste
+projectNumber: '11.965'
 date: 2018-09-19T08:09:55.781Z
 position: 20
 draft: false
