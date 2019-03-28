@@ -1,5 +1,6 @@
 ---
 title: 'Duftender Seifenluster an der Milano Design Week '
+projectNumber: '18.3113'
 date: '2018-09-03T11:33:19+02:00'
 position: 1
 draft: false
