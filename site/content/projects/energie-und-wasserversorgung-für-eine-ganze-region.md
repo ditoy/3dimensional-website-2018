@@ -16,6 +16,9 @@ teaser: >-
   Die Kundennähe im neuen ibw-shop ist Ausdruck einer Beziehung: Energie
   persönlich.
 projectpictures:
-  - undefined: ''
+  - 'https://ucarecdn.com/6ce9743e-aabe-4559-9934-c1713eaa38bf/'
+  - 'https://ucarecdn.com/1e6bda26-76c2-4d76-a3e3-38e7b3fd9ee5/'
+  - 'https://ucarecdn.com/707db7a9-7c2f-4355-9a4d-49ba1b99e646/'
+  - 'https://ucarecdn.com/65791afd-b5db-4853-becd-da8da8c3da21/'
 ---
 
