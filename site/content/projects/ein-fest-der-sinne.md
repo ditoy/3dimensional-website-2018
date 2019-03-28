@@ -1,5 +1,6 @@
 ---
 title: Ein Fest der Sinne
+projectNumber: '13.1448'
 date: 2018-09-20T09:47:31.817Z
 position: 20
 draft: false
@@ -20,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/a82c5d66-e6b3-4abe-bd32-0e5678df2bcb/'
   - 'https://ucarecdn.com/68a1548b-d960-4955-963a-14c396870a6a/'
 ---
-Bewegte Bilder auf den Screens, wundervolle Klänge vor dem Schaufenster, dreidimensionale Objekte als Blickfang und die Zeichnungen von Herrn Engels bilden eine harmonische Einheit im zwanzig Meter langen Schaufenster der LGT. Kleine und grosse Passanten bleiben spontan stehen, lauschen der Zauberflöte und betrachten das Schaufenster mit grossem Interesse.
+Bewegte Bilder auf den Screens, wundervolle Klänge vor dem Schaufenster, dreidimensionale Objekte als Blickfang und die Zeichnungen von Herrn Engels bilden eine harmonische Einheit im zwanzig Meter langen Schaufenster der LGT. Kleine und grosse Passanten bleiben spontan stehen, lauschen der Zauberflöte und betrachten das Schaufenster mit grossem Interesse. 3dimensional plant und produziert die wechselnde Bespielung des Schaufensters am Flughafen Zürich für den liechtensteinischen Finanzdienstleister.
