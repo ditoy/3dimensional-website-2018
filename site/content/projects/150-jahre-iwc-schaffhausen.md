@@ -1,5 +1,6 @@
 ---
 title: 150 Jahre IWC Schaffhausen
+projectNumber: '18.3299'
 date: 2018-10-16T15:21:38.679Z
 position: 20
 draft: false
