@@ -11,7 +11,7 @@ implementation: false
 activities:
   - Shopdesign
   - Innenarchitektur
-image: 'https://ucarecdn.com/cb0160da-6f56-4512-bc82-eeaf2ae8ff3a/'
+image: 'https://ucarecdn.com/52400823-36d7-44c5-a5c6-e9022a53d91c/'
 teaser: >-
   Die Kundennähe im neuen ibw-shop ist Ausdruck einer Beziehung: Energie
   persönlich.
