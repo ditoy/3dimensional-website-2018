@@ -20,4 +20,4 @@ projectpictures:
   - 'https://ucarecdn.com/617da24c-cd5d-4091-9227-ba283397d1a9/'
   - 'https://ucarecdn.com/a674022b-b07e-4a88-8f9a-5f7d2462e02f/'
 ---
-Anlässlich ihres 125-jährigen Bestehens eröffnete IWC Schaffhausen ein Museum, das die Welt einer internationalen Luxusmarke repräsentiert. Die ausgestellten Exponaten sind Teil einer Umgebung, die modern und zeitlos, luxuriös und funktional zugleich ist und dem Besucher jeden Komfort bietet. 3dimensional produziert das Display für diese einzigartige Ausstellung Schweizer Uhrmacher Geschichte.
+Anlässlich ihres 125-jährigen Bestehens eröffnete IWC Schaffhausen ein Museum, das die Welt einer internationalen Luxusmarke repräsentiert. Die ausgestellten Exponaten sind Teil einer Umgebung, die modern und zeitlos, luxuriös und funktional zugleich ist und dem Besucher jeden Komfort bietet. 3dimensional produzierte das Display für diese einzigartige Ausstellung Schweizer Uhrmacher Geschichte.
