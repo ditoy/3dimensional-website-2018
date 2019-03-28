@@ -1,5 +1,6 @@
 ---
 title: Fairtrade stärkt viele Menschen in Entwicklungsländern
+projectNumber: '16.2620'
 date: 2018-10-09T15:39:07.328Z
 position: 20
 draft: false
