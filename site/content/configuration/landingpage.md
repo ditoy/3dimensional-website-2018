@@ -11,7 +11,7 @@ slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
 slide3_claim: 'Hohe Qualität, kurze Entscheidungswege — unsere Nähe ist Ihr Vorteil.'
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
-slide4_claim: Ob Hochglanz oder Glanzvoll — wir verleihen Ihrem Auftritt Strahlkraft.
+slide4_claim: Von Hochglanz bis Glanzvoll — wir verleihen Ihrem Auftritt Strahlkraft.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
 slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns Form an.
