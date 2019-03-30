@@ -1,5 +1,5 @@
 ---
-title: Hotel-Boutique zum Eintauchen in eine faszinierende Produktewelt
+title: Hotel-Boutique zum Eintauchen in eine faszinierende Produktwelt
 projectNumber: '14.1699'
 date: 2018-10-17T13:45:23.188Z
 position: 20
