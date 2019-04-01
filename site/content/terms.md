@@ -87,7 +87,7 @@ Entdeckt 3dimensional AG später Mängel, die bei übungsgemässer Untersuchung 
    \
 11. Transport, Gefahrtragung, Haftung und Einhaltung von Kontrollvorschriften\
    \
-11 a) Der Transport der Vertragsgegenstände an den mit dem Kunden vereinbarten Ein- satzort und zurück wird durch 3dimensional AG durchgeführt oder organisiert.\
+11 a) Der Transport der Vertragsgegenstände an den mit dem Kunden vereinbarten Einsatzort und zurück wird durch 3dimensional AG durchgeführt oder organisiert.\
    \
 11 b) Die Gefahr für Verlust, Zerstörung und Beschädigung der sowie die Haftung für die Vertragsgegenstände trägt der Kunde, sobald sie ihm durch 3dimensional AG überlassen und bis sie von 3dimensional AG zurück genommen werden.\
    \
@@ -111,7 +111,7 @@ Entdeckt 3dimensional AG später Mängel, die bei übungsgemässer Untersuchung 
    \
 13 b) Der Kunde hat die Vertragsgegenstände unmittelbar bei bzw. nach der Überlassung (bzw. bei Zusammenbau oder Montage durch oder im Auftrag von 3dimensional AG unmittelbar nach Abschluss dieser Arbeiten) zu prüfen. Die sofortige Prüfungspflicht gilt auch hinsichtlich aller anderen Leistungen von 3dimensional AG. Falls der Kunde der Ansicht ist, die Vertragsgegenstände befänden sich nicht in vertragskonformem Zustand, oder eine sonstige Leistung der 3dimensional AG entspreche in irgendeiner Form nicht dem Vertrag, so ist der Kunde verpflichtet, dies sofort nach der Prüfung im obigen Sinne der 3dimensional AG unter detaillierter Angabe der Gründe schriftlich anzuzeigen.\
    \
-13 c) Unterlässt der Kunde diese Anzeige oder unterzeichnet er vorbehaltlos einen Übergabe-Rapport, so gelten Vertragsgegenstände und sonstigen Leistungen der Hau- ser & Partner AG als vorbehaltlos genehmigt. Nachträgliche Beschwerden können nicht akzeptiert werden.\
+13 c) Unterlässt der Kunde diese Anzeige oder unterzeichnet er vorbehaltlos einen Übergabe-Rapport, so gelten Vertragsgegenstände und sonstigen Leistungen der 3dimensional AG als vorbehaltlos genehmigt. Nachträgliche Beschwerden können nicht akzeptiert werden.\
    \
 13 d) Versteckte bzw. erst während der Dauer der Gebrauchsüberlassung auftretende Mängel sind für 3dimensional AG unvorhersehbar; daher wird vom Kunden ausdrücklich auf jegliche diesbezüglichen Gewährleistungsansprüche, soweit gesetzlich zulässig, verzichtet.\
    \
