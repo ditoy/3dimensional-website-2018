@@ -143,8 +143,8 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
   - die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;
   - die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzuführen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;
   - die durch Handlungen Dritter, höhere Gewalt oder Gewalteinwirkung (z.B. Unfall) verursacht werden;
-  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.
-</p>
+  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.</p>
+   \
 14 d) 3dimensional AG haftet aus Verzug nur, wenn dieser auf vorsätzliches oder grob fahrlässiges Verhalten von 3dimensional AG zurückzuführen ist.\
    \
 14 e) Allfällige Schadenersatzansprüche sind in jedem Fall betragsmässig auf den Vertragspreis beschränkt.\
