@@ -142,9 +142,9 @@ g5) wenn die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG o
 14 b) Dabei ist unerheblich, ob es sich um direkte oder indirekte bzw. unmittelbare oder mittelbare Schäden handelt. Insbesondere ist die Haftung von 3dimensional AG ausgeschlossen für Produktionsstillstand, entgangenen Gewinn, Nutzungsausfall, Nutzungsverluste, Verlust von Aufträgen, Vermögensschäden und für Verluste infolge Verzögerung oder Unterbrechung der Montage, sowie für Vertragseinbussen, Folgeschäden oder Ansprüche Dritter gegen den Kunden sowie für andere mittelbare oder unmittelbare Schäden.\
    \
 14 c) Ebenfalls insbesondere ausgeschlossen ist jegliche Haftung von 3dimensional AG für Schäden, die\
-      \
+   \   \
       c1) auf nicht ordnungs- bzw. bestimmungsgemäss Verwendung der Vertragsgegen- stände oder deren Teile zurückzuführen sind;\
-      \
+   \   \
       c2) die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;\
       \
       c3) die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzu- führen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;\
