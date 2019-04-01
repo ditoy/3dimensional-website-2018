@@ -14,9 +14,9 @@ date: '2018-07-24'
    \
 2 c) Die Annahme der Offerte von 3dimensional AG durch den Kunden kann formlos erfolgen, insbesondere auch mündlich. Mit der Offertannahme durch den Kunden kommt der Vertrag zwischen Hauser & Partner AG und dem Kunden rechtsgültig zustande und der Kunde anerkennt damit gleichzeitig auch diese AGB. Hauser & Partner AG bestätigt die Offertannahme mittels schriftlicher Auftragsbestätigung. Allfällige Unstimmigkeiten in der Auftragsbestätigung sind Hauser & Partner AG umgehend mitzuteilen. Spätere Änderungen oder Annullierungen sind nicht mehr möglich bzw. zwingend mit Kostenfolgen verbunden.\
    \
-2 a) Preisaufschläge von Dritten, die Bestandteil des Angebots sind, z.B. von Druckereien, Lieferanten etc. führen auch bei laufenden Aufträgen zu entsprechenden Preis- anpassungen. Vom Kunden nach Ausführungsbeginn gewünschte Minderleistungen führen ohne ausdrückliches schriftliches Einverständnis von Hauser & Partner AG nicht zu einer Preisreduktion.\
+2 d) Preisaufschläge von Dritten, die Bestandteil des Angebots sind, z.B. von Druckereien, Lieferanten etc. führen auch bei laufenden Aufträgen zu entsprechenden Preis- anpassungen. Vom Kunden nach Ausführungsbeginn gewünschte Minderleistungen führen ohne ausdrückliches schriftliches Einverständnis von Hauser & Partner AG nicht zu einer Preisreduktion.\
    \
-2 a) 3dimensional AG ist berechtigt, organisatorisch bedingte Mehrkosten, die auf kundenseitige Verzögerungen zurückzuführen sind, nach Aufwand in Rechnung zu stellen. 3dimensiona AG behält sich vor, Mehrkosten für Nacht- und Wochenendarbeit, die durch eine verspätete Aufragserteilung bei unverändertem Endtermin verursacht werden, nach Aufwand und branchenüblichen Ansätzen in Rechnung zu stellen.\
+2 e) 3dimensional AG ist berechtigt, organisatorisch bedingte Mehrkosten, die auf kundenseitige Verzögerungen zurückzuführen sind, nach Aufwand in Rechnung zu stellen. 3dimensiona AG behält sich vor, Mehrkosten für Nacht- und Wochenendarbeit, die durch eine verspätete Aufragserteilung bei unverändertem Endtermin verursacht werden, nach Aufwand und branchenüblichen Ansätzen in Rechnung zu stellen.\
    \
 3. Preise, Preislisten und -angaben\
    \
