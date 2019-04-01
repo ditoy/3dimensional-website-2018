@@ -6,10 +6,10 @@ robotsExclude: false
 title: Jean-Pierre Praz
 function: 'Projektleiter, Architekt BSc, Design Vermittler BA'
 quote: >-
-  Orte und Produkte aussagekräftig und attraktiv zu gestalten — das ist für mich
-  der Reiz am Entwerfen
+  Etwas an den Punkt zu bringen wo nichts fehlt und nichts stört, macht für mich
+  das Besondere am Entwerfen aus.
 email: praz.jp@3dimensional.ch
 phone: +41 44 422 44 20
 image: 'https://ucarecdn.com/25a5c14d-c8eb-4b05-b5ec-5a1d071b122a/'
 ---
-Ob digital, in der gebauten Welt oder bei der Kommunikation — Jean-Pierre Praz strebt nach grösstmöglichem Ausdruck und denkt die Benutzer und Adressaten im Entwurfsprozess von Beginn an mit. Sein Weg führte ihn über Uni, ZHdK und ETH als Teamleiter zu Crealogix und als Gleitschirmlehrer zu SkyCenter bevor er bei 3dimensional sanft landete. Der Ausgleich zu beruflich in Bewegung bleiben heisst für ihn sportlich in Bewegung bleiben — mit allem was sich lautlos und mit Muskelkraft durch die Natur rollen, gleiten, paddeln oder trampen lässt.
+Ob digital, in der gebauten Welt oder bei der Kommunikation — Jean-Pierre Praz strebt nach grösstmöglicher Präzision und denkt die Benutzer und Adressaten im Entwurfsprozess von Beginn an mit. Sein Weg führte ihn über Uni, ZHdK und ETH als Teamleiter zu Crealogix und als Gleitschirmlehrer zu SkyCenter bevor er bei 3dimensional sanft landete. Der Ausgleich zu beruflich in Bewegung bleiben heisst für ihn sportlich in Bewegung bleiben — mit allem was sich lautlos und mit Muskelkraft durch die Natur rollen, gleiten, paddeln oder trampen lässt.
