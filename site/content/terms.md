@@ -149,7 +149,7 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
    \
 14 e) Allfällige Schadenersatzansprüche sind in jedem Fall betragsmässig auf den Vertragspreis beschränkt.\
    \
-14 f) Für Handlungen oder Unterlassungen von Hilfspersonen und von 3dimensional AG beigezogenen Dritten ist, ebenfalls in jedem Fall, jegliche Haftung von 3dimensional AG ausgeschlossen.
+14 f) Für Handlungen oder Unterlassungen von Hilfspersonen und von 3dimensional AG beigezogenen Dritten ist, ebenfalls in jedem Fall, jegliche Haftung von 3dimensional AG ausgeschlossen.\
    \
 15. Lizenzen, Konzessionen, Bewilligungen und Gebühren im Zusammenhang mit den Messen, Ausstellungen, Events und dergleichen\
    \
