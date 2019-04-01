@@ -121,8 +121,7 @@ Entdeckt 3dimensional AG später Mängel, die bei übungsgemässer Untersuchung 
    \
 13 g) Der Kunde verliert sämtliche Gewährleistungs- und Schadenersatzansprüche:\
    \
--- wenn die Vertragsgegenstände oder deren Teile nicht ordnungs- bzw. bestim-
-mungsgemäss verwendet, eingesetzt oder gebraucht werden;\
+-- wenn die Vertragsgegenstände oder deren Teile nicht ordnungs- bzw. bestimmungsgemäss verwendet, eingesetzt oder gebraucht werden;\
 -- wenn ein Mangel auf falsche oder unvollständige Instruktionen, Weisungen, Informationen oder Auskunftserteilung etc. des Kunden zurückzuführen ist;\
 -- wenn der Kunde die Weisungen von 3dimensional AG in Bezug auf die Behandlung und Handhabung der Vertragsgegenstände nicht befolgt oder er
 einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;\
