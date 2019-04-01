@@ -135,18 +135,29 @@ g5) wenn die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG o
    \
 13 h) 3dimensional AG garantiert oder verspricht insbesondere keinerlei Erfolg des Kunden und/oder dem Kunden gegenüber, insbesondere auch keinerlei Erfolg kom- merzieller Natur. Jegliche diesbezügliche Haftung von 3dimensional AG ist ebenfalls ausgeschlossen.\
    \
-14. Haftungsausschluss bzw. -beschränkung
-    14 a) Jegliche Haftung von 3dimensional AG für beim Kunden oder Drittenen tstandene Sach-, Personen- und Schäden anderer Art, ist, soweit gesetzlich zulässig, ausgeschlossen.
-    14 b) Dabei ist unerheblich, ob es sich um direkte oder indirekte bzw. unmittelbare oder mittelbare Schäden handelt. Insbesondere ist die Haftung von 3dimensional AG ausgeschlossen für Produktionsstillstand, entgangenen Gewinn, Nutzungsausfall, Nutzungsverluste, Verlust von Aufträgen, Vermögensschäden und für Verluste infolge Verzögerung oder Unterbrechung der Montage, sowie für Vertragseinbussen, Folgeschäden oder Ansprüche Dritter gegen den Kunden sowie für andere mittelbare oder unmittelbare Schäden.
-    14 c) Ebenfalls insbesondere ausgeschlossen ist jegliche Haftung von 3dimensional AG für Schäden, die
-        c 1) auf nicht ordnungs- bzw. bestimmungsgemäss Verwendung der Vertragsgegen- stände oder deren Teile zurückzuführen sind;
-        c 2) die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;
-        c 3) die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzu- führen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;
-        c 4) die durch Handlungen Dritter, höhere Gewalt oder Gewalteinwirkung (z.B. Unfall) verursacht werden;
-        c 5) darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleu- ten montiert werden.
-    14 d) 3dimensional AG haftet aus Verzug nur, wenn dieser auf vorsätzliches oder grob fahrlässiges Verhalten von 3dimensional AG zurückzuführen ist.
-    14 e) Allfällige Schadenersatzansprüche sind in jedem Fall betragsmässig auf den Vertragspreis beschränkt.
-    14 f) Für Handlungen oder Unterlassungen von Hilfspersonen und von 3dimensional AG beigezogenen Dritten ist, ebenfalls in jedem Fall, jegliche Haftung von 3dimensional AG ausgeschlossen.
+14. Haftungsausschluss bzw. -beschränkung\
+   \
+14 a) Jegliche Haftung von 3dimensional AG für beim Kunden oder Drittenen tstandene Sach-, Personen- und Schäden anderer Art, ist, soweit gesetzlich zulässig, ausgeschlossen.\
+   \
+14 b) Dabei ist unerheblich, ob es sich um direkte oder indirekte bzw. unmittelbare oder mittelbare Schäden handelt. Insbesondere ist die Haftung von 3dimensional AG ausgeschlossen für Produktionsstillstand, entgangenen Gewinn, Nutzungsausfall, Nutzungsverluste, Verlust von Aufträgen, Vermögensschäden und für Verluste infolge Verzögerung oder Unterbrechung der Montage, sowie für Vertragseinbussen, Folgeschäden oder Ansprüche Dritter gegen den Kunden sowie für andere mittelbare oder unmittelbare Schäden.\
+   \
+14 c) Ebenfalls insbesondere ausgeschlossen ist jegliche Haftung von 3dimensional AG für Schäden, die\
+   \
+  - auf nicht ordnungs- bzw. bestimmungsgemäss Verwendung der Vertragsgegen- stände oder deren Teile zurückzuführen sind;\
+   \
+  - die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;\
+   \
+  - die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzu- führen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;\
+   \
+  - die durch Handlungen Dritter, höhere Gewalt oder Gewalteinwirkung (z.B. Unfall) verursacht werden;\
+   \
+  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleu- ten montiert werden.\
+   \
+14 d) 3dimensional AG haftet aus Verzug nur, wenn dieser auf vorsätzliches oder grob fahrlässiges Verhalten von 3dimensional AG zurückzuführen ist.\
+   \
+14 e) Allfällige Schadenersatzansprüche sind in jedem Fall betragsmässig auf den Vertragspreis beschränkt.\
+   \
+14 f) Für Handlungen oder Unterlassungen von Hilfspersonen und von 3dimensional AG beigezogenen Dritten ist, ebenfalls in jedem Fall, jegliche Haftung von 3dimensional AG ausgeschlossen.
    \
 15. Lizenzen, Konzessionen, Bewilligungen und Gebühren im Zusammenhang mit den Messen, Ausstellungen, Events und dergleichen\
    \
