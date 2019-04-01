@@ -14,7 +14,7 @@ date: '2018-07-24'
    \
    Die Annahme der Offerte von 3dimensional AG durch den Kunden kann formlos erfolgen, insbesondere auch mündlich. Mit der Offertannahme durch den Kunden kommt der Vertrag zwischen Hauser & Partner AG und dem Kunden rechtsgültig zustande und der Kunde anerkennt damit gleichzeitig auch diese AGB. Hauser & Partner AG bestätigt die Offertannahme mittels schriftlicher Auftragsbestätigung. Allfällige Unstimmigkeiten in der Auftragsbestätigung sind Hauser & Partner AG umgehend mitzuteilen. Spätere Änderungen oder Annullierungen sind nicht mehr möglich bzw. zwingend mit Kostenfolgen verbunden.\
    \
-   Preisaufschläge von Dritten, die Bestandteil des Angebots sind, z.B. von Druckerei- en, Lieferanten etc. führen auch bei laufenden Aufträgen zu entsprechenden Preis- anpassungen. Vom Kunden nach Ausführungsbeginn gewünschte Minderleistungen führen ohne ausdrückliches schriftliches Einverständnis von Hauser & Partner AG nicht zu einer Preisreduktion.\
+   Preisaufschläge von Dritten, die Bestandteil des Angebots sind, z.B. von Druckereien, Lieferanten etc. führen auch bei laufenden Aufträgen zu entsprechenden Preis- anpassungen. Vom Kunden nach Ausführungsbeginn gewünschte Minderleistungen führen ohne ausdrückliches schriftliches Einverständnis von Hauser & Partner AG nicht zu einer Preisreduktion.\
    \
    Hauser & Partner AG ist berechtigt, organisatorisch bedingte Mehrkosten, die auf kundenseitige Verzögerungen zurückzuführen sind, nach Aufwand in Rechnung zu stellen. Hauser & Partner AG behält sich vor, Mehrkosten für Nacht- und Wochenendarbeit, die durch eine verspätete Aufragserteilung bei unverändertem Endtermin verursacht werden, nach Aufwand und branchenüblichen Ansätzen in Rechnung zu stellen.\
    \
@@ -51,21 +51,20 @@ date: '2018-07-24'
 6 b) Fristen und Termine für die Erbringung der Leistungen, insbesondere für die Überlassung der Vertragsgegenstände, sind für 3dimensional AG nur verbindlich, wenn sie von ihr schriftlich bestätigt werden. Die Einhaltung solcher Fristen und Termine setzt die rechtzeitige Erfüllung der für die Leistungserbringung erforderlichen Dis- positionen des Kunden voraus. Insbesondere wenn der Kunde die von ihm benö- tigten behördlichen oder anderen Formalitäten nicht (rechtzeitig) eingeholt, fällige Voraus- oder Anzahlungen nicht (rechtzeitig) geleistet oder die von 3dimensional AG benötigen technischen oder anderweitigen Angaben ihr nicht (rechtzeitig) mit 3dimensional ag geteilt hat, kann kein Leistungsverzug der 3dimensional AG eintreten. Überdies verlängern sich in solchen Fällen vereinbarte Fristen und Termine für die Erbringung der Leistungen von 3dimensional AG um eine angemessene Dauer.\
    \
 7. Vollumfängliche Haftung des Kunden bei nachträglicher Annullierung
-Macht der Kunde von seinem vertraglich vereinbarten Recht zur Gebrauchsüber- lassung der Vertragsgegenstände keinen Gebrauch (Annullierung), bleibt er zur Bezahlung des vollen Vertragspreises verpflichtet, und zwar unabhängig von Annul- lierungsgrund und -zeitpunkt.\
+Macht der Kunde von seinem vertraglich vereinbarten Recht zur Gebrauchsüberlassung der Vertragsgegenstände keinen Gebrauch (Annullierung), bleibt er zur Bezahlung des vollen Vertragspreises verpflichtet, und zwar unabhängig von Annullierungsgrund und -zeitpunkt.\
    \
-7 a) Bei Annullierung eines Anlasses/Auftrages nach erfolgter Auftragsbestätigung respektive Beginn der Auftragsausführung werden folgende Kosten in Rechnung
-gestellt: Anlässe
+7 a) Bei Annullierung eines Anlasses/Auftrages nach erfolgter Auftragsbestätigung respektive Beginn der Auftragsausführung werden folgende Kosten in Rechnunggestellt: Anlässe
 Aufträge
 Bis 40 Tage vor dem Anlass: die entstandenen Kosten werden verrechnet 39–30 Tage vor dem Anlass: 30 % des Offerthonorars
 29–14 Tage vor dem Anlass: 45 % des Offerthonorars
 13–0 Tage vor dem Anlass: 100 % des Offerthonorars
-Für erteilte Aufträge, die aus irgendwelchen Gründen vom Kunden annulliert werden, werden dem Kunden die bis zum Zeitpunkt der Annul- lation erbrachten Aufwände von 3dimensional AG nach Aufwand (Zeit- aufwand nach Stundenhonorar, Lieferanten, Spesen etc.) in Rechnung gestellt.\
+Für erteilte Aufträge, die aus irgendwelchen Gründen vom Kunden annulliert werden, werden dem Kunden die bis zum Zeitpunkt der Annullation erbrachten Aufwände von 3dimensional AG nach Aufwand (Zeitaufwand nach Stundenhonorar, Lieferanten, Spesen etc.) in Rechnung gestellt.\
    \
 8. Pflichten des Kunden im Zusammenhang mit den Vertragsgegenständen\
    \
 8 a) Der Kunde ist verpflichtet, die ihm überlassenen Vertragsgegenstände bis zu deren Abbau und Rücknahme durch 3dimensional AG schonend und sorgfältig zu behandeln und vor Schaden und Diebstahl zu bewahren. Er hat stets dafür zu sorgen, dass die Vertragsgegenstände keinerlei Witterungseinflüssen ausgesetzt sind.\
    \
-8 b) Mit der Offertannahme durch den Kunden bestätigt dieser, dass er alle überlasse- nen Gegenstände zum Neuwert gegen Beschädigung und Verlust versichert hat. Der Kunde haftet vollumfänglich bei Beschädigung und/oder Verlust der Vertragsgegen- stände oder von Teilen davon bis zu deren Rücknahme durch 3dimensional AG und zwar auch dann, wenn ihn kein Verschulden trifft.\
+8 b) Mit der Offertannahme durch den Kunden bestätigt dieser, dass er alle überlassenen Gegenstände zum Neuwert gegen Beschädigung und Verlust versichert hat. Der Kunde haftet vollumfänglich bei Beschädigung und/oder Verlust der Vertragsgegen- stände oder von Teilen davon bis zu deren Rücknahme durch 3dimensional AG und zwar auch dann, wenn ihn kein Verschulden trifft.\
    \
 8 c) Für jede mehr als vertragsgemässe Abnützung ist der Kunde schadenersatzpflichtig. Jede Veränderung an Vertragsgegenständen ist untersagt. Mit den Kosten für eine entsprechende Wiederherstellung des ursprünglichen Zustandes wird der Kunde belastet.\
    \
@@ -77,8 +76,10 @@ Für erteilte Aufträge, die aus irgendwelchen Gründen vom Kunden annulliert we
    \
 9 a) Das Eigentum an allen Vertragsgegenständen verbleibt bei 3dimensional AG bzw., soweit 3dimensional AG diese von Dritten zur Weiterüberlassung an den Kunden bezieht, beim betreffenden Dritten. Der Kunde wird in keinem Fall Eigentümer der Vertragsgegenstände, ausser wenn diese Gegenstände explizit als Kaufelemente in der Auftragsbestätigung deklariert werden. In jedem Fall bleiben die Kaufelemente bis zur vollen Bezahlung im Eigentum der 3dimensional AG.\
    \
-9 b) Der Kunde darf in keiner Weise, insbesondere nicht durch Verkauf, Sicherungsübereignung, Verpfändung oder sonstige Belastung, rechtlich oder faktisch über die Vertragsgegenstände verfügen. Jegliche solche Verfügung ist 3dimensional AG gegenüber unwirksam. Die Kosten von Interventionsmassnahmen zum Schutz des Eigentums oder anderer Rechte der 3dimensional AG oder zur Behebung von aus solchen Verfügungshandlungen resultierenden Schäden werden dem Kunden in Rechnung gestellt.
-10. Rücknahme der Vertragsgegenstände
+9 b) Der Kunde darf in keiner Weise, insbesondere nicht durch Verkauf, Sicherungsübereignung, Verpfändung oder sonstige Belastung, rechtlich oder faktisch über die Vertragsgegenstände verfügen. Jegliche solche Verfügung ist 3dimensional AG gegenüber unwirksam. Die Kosten von Interventionsmassnahmen zum Schutz des Eigentums oder anderer Rechte der 3dimensional AG oder zur Behebung von aus solchen Verfügungshandlungen resultierenden Schäden werden dem Kunden in Rechnung gestellt.\
+   \
+10. Rücknahme der Vertragsgegenstände\
+   \
 10 a) Nach Rücknahme der Vertragsgegenstände wird 3dimensional AG diese prüfen und dem Kunden Mängel, für die er einzustehen hat, binnen angemessener Frist melden.
 Entdeckt 3dimensional AG später Mängel, die bei übungsgemässer Untersuchung nicht erkennbar waren, so kann er sie dem Kunden auch nachträglich noch melden.\
    \
@@ -94,7 +95,7 @@ Entdeckt 3dimensional AG später Mängel, die bei übungsgemässer Untersuchung 
    \
 11 d) Übernimmt 3dimensional AG auch den Transport von anderen als den Vertragsgegenständen, insbesondere von Gegenständen, die dem Kunden gehören (namentlich Exponate oder Kundenmaterial), ist dies 3dimensional AG zusätzlich zu vergüten. Die Gefahr für Verlust, Zerstörung und Beschädigung sowie die Haftung für und im Zusammenhang mit solche(n) Gegenstände(n) ist und verbleibt jederzeit vollumfänglich beim Kunden.\
    \
-3dimensional AG übernimmt auch keinerlei Haftung für nicht rechtzeitiges Ein- treffen solcher Gegenstände.\
+3dimensional AG übernimmt auch keinerlei Haftung für nicht rechtzeitiges Eintreffen solcher Gegenstände.\
    \
 12. Handling und Einlagerung von Kundenmaterial\
    \
@@ -128,7 +129,7 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
   - wenn der Mangel durch Gewalt- oder Dritteinwirkung (z.B. Unfall) entstanden ist;
   - wenn die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.\
    \
-13 h) 3dimensional AG garantiert oder verspricht insbesondere keinerlei Erfolg des Kunden und/oder dem Kunden gegenüber, insbesondere auch keinerlei Erfolg kom- merzieller Natur. Jegliche diesbezügliche Haftung von 3dimensional AG ist ebenfalls ausgeschlossen.\
+13 h) 3dimensional AG garantiert oder verspricht insbesondere keinerlei Erfolg des Kunden und/oder dem Kunden gegenüber, insbesondere auch keinerlei Erfolg kommerzieller Natur. Jegliche diesbezügliche Haftung von 3dimensional AG ist ebenfalls ausgeschlossen.\
    \
 14. Haftungsausschluss bzw. -beschränkung\
    \
@@ -138,11 +139,11 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
    \
 14 c) Ebenfalls insbesondere ausgeschlossen ist jegliche Haftung von 3dimensional AG für Schäden, die\
    \
-  - auf nicht ordnungs- bzw. bestimmungsgemäss Verwendung der Vertragsgegen- stände oder deren Teile zurückzuführen sind;
+  - auf nicht ordnungs- bzw. bestimmungsgemäss Verwendung der Vertragsgegenstände oder deren Teile zurückzuführen sind;
   - die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;
-  - die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzu- führen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;
+  - die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzuführen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;
   - die durch Handlungen Dritter, höhere Gewalt oder Gewalteinwirkung (z.B. Unfall) verursacht werden;
-  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleu- ten montiert werden.\
+  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.\
    \
 14 d) 3dimensional AG haftet aus Verzug nur, wenn dieser auf vorsätzliches oder grob fahrlässiges Verhalten von 3dimensional AG zurückzuführen ist.\
    \
@@ -153,7 +154,6 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
 15. Lizenzen, Konzessionen, Bewilligungen und Gebühren im Zusammenhang mit den Messen, Ausstellungen, Events und dergleichen\
    \
 15 a) Der Kunde ist selbst und auf eigene Kosten verantwortlich für die Einholung und die Bezahlung/Abgeltung aller Aufführungs- und anderer Lizenzen und/oder Immaterialgüterrechte, Konzessionen, Bewilligungen und dergleichen sowie sämtlicher Gebühren, insbesondere derjenigen von Verwertungsgesellschaften (SUISA, Pro Litteris etc.) sowie für sämtliche Abklärungen im Zusammenhang mit solchen.
-3dimensional ag\
    \
 15 b) Ebenfalls ist der Kunde selbst und auf eigene Kosten verantwortlich für die Erfüllung sämtlicher (anderen) administrativen Erfordernisse, insbesondere für allfällig erforderliche Aufenthalts- und/oder Arbeitsbewilligungen.\
    \
@@ -161,7 +161,7 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
    \
 3dimensional AG geht davon aus, dass das Urheberrecht für das vom Kunden gelieferte Erstellungs- und Ausgangsmaterial und allfällige Namensrechte im Besitz des Kunden sind und die Rechte Dritter nicht verletzt werden. Ist dies nicht der Fall, hat der Kunde 3dimensional AG für allfällige Ansprüche Dritter schadlos zu halten. Dies gilt für sämtliche Bereiche der Tätigkeit von 3dimensional AG im Rah- men des erteilten Auftrages.\
    \
-Der Kunde anerkennt ausdrücklich das geistige Eigentum, insbesondere das Urhe- berrecht von 3dimensional AG an allen im Rahmen der Zusammenarbeit von 3dimensional AG geschaffenen Kreationen, Layouts, Texten, Präsentationen, Originaldaten, Skizzen, Zwischenstadien, Dateien grafischer Programme, Datenträger, Modelle und Muster etc. Dies unabhängig davon, ob eine definitve Auftragserteilung erfolgt oder ob es sich um Gestaltungsvorschläge handelt. Mit der Bezahlung des Auftrages erfolgt keine automatische Übertragung des Urheberrechts. Das Urheberrecht beinhaltet das Nutzungsund Veränderungsrecht.\
+Der Kunde anerkennt ausdrücklich das geistige Eigentum, insbesondere das Urheberrecht von 3dimensional AG an allen im Rahmen der Zusammenarbeit von 3dimensional AG geschaffenen Kreationen, Layouts, Texten, Präsentationen, Originaldaten, Skizzen, Zwischenstadien, Dateien grafischer Programme, Datenträger, Modelle und Muster etc. Dies unabhängig davon, ob eine definitve Auftragserteilung erfolgt oder ob es sich um Gestaltungsvorschläge handelt. Mit der Bezahlung des Auftrages erfolgt keine automatische Übertragung des Urheberrechts. Das Urheberrecht beinhaltet das Nutzungsund Veränderungsrecht.\
    \
 Wird 3dimensional AG kein Auftrag erteilt, verpflichtet sich der Kunde, sämtliche ihm überlassene Unterlagen, Layouts, Texte, Präsentationen, Originaldaten, Skizzen, Zwischenstadien, Dateien grafischer Programme, Datenträger, Modelle und Muster 3dimensional AG sofort zurück zu geben.\
    \
