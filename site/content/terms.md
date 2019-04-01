@@ -127,8 +127,8 @@ mungsgemäss verwendet, eingesetzt oder gebraucht werden;
   - wenn der Kunde die Weisungen von 3dimensional AG in Bezug auf die Behandlung und Handhabung der Vertragsgegenstände nicht befolgt oder er
 einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
   - wenn der Mangel durch Gewalt- oder Dritteinwirkung (z.B. Unfall) entstanden ist;
-  - wenn die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.\
-   \
+  - wenn die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.
+
 13 h) 3dimensional AG garantiert oder verspricht insbesondere keinerlei Erfolg des Kunden und/oder dem Kunden gegenüber, insbesondere auch keinerlei Erfolg kommerzieller Natur. Jegliche diesbezügliche Haftung von 3dimensional AG ist ebenfalls ausgeschlossen.\
    \
 14. Haftungsausschluss bzw. -beschränkung\
@@ -143,8 +143,8 @@ einen Mangel bzw. Schaden auf andere Weise selbst verschuldet;
   - die auf falsche oder unvollständige Instruktionen, Weisungen, Informationen und Auskunftserteilung etc. des Kunden zurückzuführen sind;
   - die auf die Nichteinhaltung von Weisungen von 3dimensional AG zurückzuführen oder auf andere Weise vom Kunden oder einem Dritten selbst verschuldet sind;
   - die durch Handlungen Dritter, höhere Gewalt oder Gewalteinwirkung (z.B. Unfall) verursacht werden;
-  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.\
-   \
+  - darauf zurückzuführen sind, dass die Vertragsgegenstände oder deren Teile nicht durch 3dimensional AG oder von 3dimensional AG autorisierten Fachleuten montiert werden.
+
 14 d) 3dimensional AG haftet aus Verzug nur, wenn dieser auf vorsätzliches oder grob fahrlässiges Verhalten von 3dimensional AG zurückzuführen ist.\
    \
 14 e) Allfällige Schadenersatzansprüche sind in jedem Fall betragsmässig auf den Vertragspreis beschränkt.\
