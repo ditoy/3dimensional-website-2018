@@ -5,7 +5,9 @@ draft: false
 robotsExclude: false
 title: Anna Schick
 function: Polydesignerin 3D
-quote: Lorem ipsum dolor sit amet.
+quote: >-
+  Neue Herausforderungen zu meistern macht mir Spass und besonders freut mich,
+  wenn das Ergebnis beim Kunden gut ankommt.
 email: schick@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/fe5b0cb9-43ce-489b-82e2-ef0373a6134f/'
