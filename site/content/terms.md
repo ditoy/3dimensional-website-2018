@@ -6,7 +6,7 @@ date: '2018-07-24'
 
    Unsere Leistungen wie Design, Entwurf, Planung, Gestaltung, Produktion, Lieferung, Transport, Auf- und Abbau, Montage und Demontage, etc. von Objekten für Inneneinrichtungen, Ladenbau, Messen, Schaufenster, Ausstellungen, Events wie auch die von uns geleistete Beratung, Organisation, Projektleitung, etc. sowie Verträge zwischen 3dimensional AG und ihren Kunden unterliegen diesen AGB, soweit nicht ausdrücklich anderslautende schriftliche Vereinbarungen getroffen worden sind. Eigene Bestimmungen des Kunden sind nicht Vertragsbestandteil und entfalten keine Wirkung. Soweit Offerten von 3dimensional AG von diesen AGB abweichen, gelten erstere.
 
-2. Offerten von 3dimensional AG\
+2. Offerten von 3dimensional AG
 
    Die Gültigkeit unserer Offerten ist auf 30 Tage ab Erstelldatum befristet. Darüber hinaus behält sich 3dimensional AG das Recht vor, eine noch nicht angenommene Offerte jederzeit mit sofortiger Wirkung zu widerrufen.
 
@@ -20,4 +20,4 @@ date: '2018-07-24'
 
 3. Lorem ipsum dolor sit amet
 
-   Lorem ipsumaaa
+   Lorem ipsumbb
