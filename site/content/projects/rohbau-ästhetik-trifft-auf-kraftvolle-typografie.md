@@ -2,7 +2,7 @@
 title: Rohbau Ästhetik trifft auf kraftvolle Signaletik
 projectNumber: '14.1747'
 date: 2018-10-08T12:52:14.131Z
-position: 1
+position: 2
 draft: false
 Year: '2018'
 concept: false
