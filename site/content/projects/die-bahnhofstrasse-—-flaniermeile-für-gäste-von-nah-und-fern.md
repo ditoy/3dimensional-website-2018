@@ -2,7 +2,7 @@
 title: Die Bahnhofstrasse — Flaniermeile für Gäste von nah und fern
 projectNumber: '18.3255'
 date: 2019-03-25T16:27:49.827Z
-position: 20
+position: 1
 draft: false
 Year: '2019'
 concept: true
