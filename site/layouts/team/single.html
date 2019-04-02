@@ -10,7 +10,9 @@
                 <article role="main" class="team-member">
                     {{ if .Params.image }}
                         <div class="text-center">
-                            <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="Bild {{ .Title }}" class="staffimage">
+                            <div class="imagewrapper">
+                                <img src="{{ .Params.image }}-/scale_crop/800x600/center/" alt="Bild {{ .Title }}" class="staffimage">
+                            </div>
                         </div>
                     {{ end }}
 

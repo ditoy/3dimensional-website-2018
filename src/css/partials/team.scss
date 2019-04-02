@@ -8,10 +8,39 @@ body.team {
 		text-align: left;
 	}
 
+	.imagewrapper {
+		background: $c-lightgray;
+	}
+
+	.imagewrapper,
 	.staffimage {
 		display: inline-block;
 		margin: 0 auto 2rem auto;
-		max-width: 100%;
+
+		@include media('<=phone') {
+			width: 300px;
+			height: 225px;
+		}
+
+		@include media('>phone', '<=tablet') {
+			width: 300px;
+			height: 225px;
+		}
+
+		@include media('>tablet', '<=desktop') {
+			width: 400px;
+			height: 300px;
+		}
+
+		@include media('>desktop', '<=mega') {
+			width: 500px;
+			height: 375px;
+		}
+
+		@include media('>=mega') {
+			width: 700px;
+			height: 525px;
+		}
 	}
 
 	table {
