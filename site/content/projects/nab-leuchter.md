@@ -2,7 +2,7 @@
 title: Schmuckstücke im Tresorraum der Neue Aargauer Bank
 projectNumber: '11.1078'
 date: '2018-09-04T09:24:34+02:00'
-position: '2'
+position: 8
 draft: false
 Year: '2011'
 concept: false
