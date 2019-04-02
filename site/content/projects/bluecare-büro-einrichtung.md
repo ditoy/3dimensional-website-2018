@@ -2,7 +2,7 @@
 title: 'Gesundheit beginnt in Räumen, die wohlfühlen lassen'
 projectNumber: '13.1453'
 date: '2018-09-04T10:27:16+02:00'
-position: 4
+position: 1
 draft: false
 Year: '2013'
 concept: true
