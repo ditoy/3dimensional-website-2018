@@ -2,7 +2,7 @@
 title: Energie- und Wasserversorgung für eine ganze Region
 projectNumber: '17.2903'
 date: 2019-03-28T10:47:10.788Z
-position: 20
+position: 3
 draft: false
 Year: '2019'
 concept: true
