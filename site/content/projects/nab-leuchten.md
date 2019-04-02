@@ -2,7 +2,7 @@
 title: Leuchtende Produktionsideen für kreative Köpfe
 projectNumber: 09.579
 date: '2018-09-04T09:47:15+02:00'
-position: 1
+position: 6
 draft: false
 Year: '2011'
 concept: false
