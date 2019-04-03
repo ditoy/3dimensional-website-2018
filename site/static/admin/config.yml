@@ -5,6 +5,8 @@ backend:
     - admin
     - editor
 
+publish_mode: editorial_workflow
+
 display_url: https://www.3dimensional.ch
 
 media_folder: "site/static/images/uploads" # Folder where user uploaded files should go
