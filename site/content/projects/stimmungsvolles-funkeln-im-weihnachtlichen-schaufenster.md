@@ -1,18 +1,16 @@
 ---
-title: Stimmungsvolles Funkeln im weihnachtlichen Schaufenster
-projectNumber: temp
-date: 2019-04-11T08:56:58.174Z
+title: 'Stimmungsvolles Funkeln im weihnachtlichen Schaufenster '
+date: 2018-10-16T09:22:43.685Z
 position: 20
-draft: true
-Year: '2019'
+draft: false
+Year: '2016'
 concept: false
-planning: false
-implementation: false
+planning: true
+implementation: true
 activities:
-  - Ausstellungsgestaltung
-image: 'https://ucarecdn.com/b381acea-2584-41e8-9e47-a8fed57bf170/'
-teaser: temp
-projectpictures:
-  - undefined: ''
+  - Schaufenstergestaltung
+  - Display
+image: 'https://ucarecdn.com/d88adbc8-672c-431e-913a-56e40abfacd6/'
+teaser: Die Weihnachtszeit bringt nicht nur Kinderaugen zum Glitzern und Glänzen
 ---
-
+Für IWC Schaffhausen hat 3dimensional die Produktion und das Handling der weltweiten Auslieferung der Weihnachtschaufenster in alle IWC Stores übernommen. Hochglanz Oberflächen und die hochpräzise Ausführung bringen zur Weihnachtszeit in den Metropolen dieser Welt edlen Glanz in die Schaufenster des renommierten Schweizer Uhrenherstellers.
