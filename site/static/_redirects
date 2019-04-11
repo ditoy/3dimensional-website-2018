@@ -3,4 +3,35 @@
 # example:
 # /old                          /new/                       301
 #------------------------------------------------------------------------------
-
+/referenzen                     /projects/                  301
+/kontakt                        /contact/                   301
+/jobs                           /jobs/                      301
+/innenarchitektur               /                           301
+/shopdesign                     /                           301
+/Buerodesign                    /                           301
+/buerodesign                    /                           301
+/rendering                      /                           301
+/gestaltung                     /                           301
+/ausstellungsgestaltung         /                           301
+/schaufenstergestaltung         /                           301
+/eventgestaltung                /                           301
+/messegestaltung                /                           301
+/kommunikation                  /                           301
+/signaletik                     /                           301
+/display                        /                           301
+/pos                            /                           301
+/produktion                     /                           301
+/kundenauftraege                /                           301
+/produktion_realisation         /                           301
+/montage                        /                           301
+/kundenliste                    /                           301
+/team                           /team/                      301
+/martin_hurschler               /team/martin-hurschler/     301
+/philipp_keusch                 /team/philipp-keusch/       301
+/rahel_staeheli                 /team/rahel-stäheli/        301
+/cornelia_martin                /team/cornelia-martin/      301
+/mirko_naumann                  /team/mirko-naumann/        301
+/florence_felser                /team/                      301
+/daniela_pellegrini             /team/daniela-pellegrini/   301
+/jamal_merz                     /team/                      301
+/monika_bamert                  /team/moni-bamert/          301
