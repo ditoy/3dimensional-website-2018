@@ -1,0 +1,20 @@
+<svg width="145.98" height="147.98" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1,.cls-3{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{stroke:#403f3e;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px;}</style>
+  <clipPath id="clip-path">
+   <rect id="svg_1" height="137.98" width="85.98" y="2.75" x="28" class="cls-1"/>
+  </clipPath>
+ </defs>
+ <title>17DDL100 Gluehbirne</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="149.98" width="147.98" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2" class="cls-2">
+   <path id="svg_3" d="m70.83,99.03l-18.57,0c0,-14.66 -5.26,-19.25 -12.26,-28.56a38.9,38.9 0 0 1 30.83,-62.47l0.31,0a38.9,38.9 0 0 1 30.86,62.47c-7.1,9.31 -12.31,13.9 -12.31,28.56l-18.86,0z" class="cls-3"/>
+   <path id="svg_4" d="m91.28,104.25a5.16,5.16 0 0 0 -5.16,-5.16l-30.26,0a5.17,5.17 0 0 0 -5.17,5.16l0,14.31a5.06,5.06 0 0 0 0.71,2.55l0,0l8.28,14.14l0,0a5.11,5.11 0 0 0 4.5,2.69l13.58,0a5.12,5.12 0 0 0 4.51,-2.69l0,0l8.09,-13.86c0,-0.07 0.08,-0.14 0.13,-0.21l0.08,-0.15l0,0a5.19,5.19 0 0 0 0.7,-2.56l0.01,-14.22z" class="cls-3"/>
+  </g>
+ </g>
+</svg>

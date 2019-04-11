@@ -1,1 +1,16 @@
-<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129.32 129.32"><defs><style>.cls-1,.cls-3,.cls-4{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3,.cls-4{stroke:#403f3e;stroke-linecap:round;stroke-linejoin:round;}.cls-3{stroke-width:7px;}.cls-4{stroke-width:6px;}</style><clipPath id="clip-path" transform="translate(-6 -6.41)"><rect class="cls-1" x="6" y="6.41" width="129.32" height="129.32"/></clipPath></defs><title>17DDL100 Lineal</title><g class="cls-2"><rect class="cls-3" x="2.55" y="52.68" width="136.21" height="36.78" transform="translate(-35.56 64.37) rotate(-45)"/></g><path class="cls-4" d="M109.67,42.7l7.43,7.42m-29.89,15,7.43,7.42m-29.89,15,7.42,7.43m-29.88,15,7.42,7.43" transform="translate(-6 -6.41)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180.69 180.69">
+<defs>
+<style>
+.a,.b,.c{fill:none;}
+.a{stroke:#403f3e;stroke-linecap:round;stroke-linejoin:round;stroke-width:7px;}
+.c{stroke:transparent;}
+</style>
+</defs>
+<title>lineal</title>
+<rect class="a" x="20.11" y="75.2" width="136.21" height="36.78" transform="translate(-40.34 89.79) rotate(-45)"/>
+<line class="a" x1="127.23" y1="65.22" x2="134.66" y2="72.64"/>
+<line class="a" x1="104.77" y1="87.64" x2="112.2" y2="95.06"/>
+<line class="a" x1="82.31" y1="110.06" x2="89.73" y2="117.49"/>
+<line class="a" x1="59.85" y1="132.49" x2="67.27" y2="139.92"/>
+<rect class="c" x="0.5" y="0.5" width="179.69" height="179.69"/>
+</svg>
