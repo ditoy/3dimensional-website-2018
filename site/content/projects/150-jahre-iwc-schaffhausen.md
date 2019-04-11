@@ -1,18 +1,21 @@
 ---
 title: 150 Jahre IWC Schaffhausen
 projectNumber: '18.3299'
-date: 2019-04-11T08:48:15.894Z
+date: 2018-10-16T15:21:38.679Z
 position: 20
-draft: true
-Year: '2019'
+draft: false
+Year: '2018'
 concept: false
-planning: false
-implementation: false
+planning: true
+implementation: true
 activities:
-  - Ausstellungsgestaltung
-image: 'https://ucarecdn.com/90423dab-04ee-4f6d-8ec4-e2e25d31f6c2/'
-teaser: Temp
+  - Point-of-Sale
+  - Promotionsfläche
+image: 'https://ucarecdn.com/df76938f-a1ab-4212-a645-3e9963768907/'
+teaser: >-
+  Zeit ihres Bestehens hat die Manufaktur aus Schaffhausen innovative Uhren
+  produziert
 projectpictures:
-  - undefined: ''
+  - 'https://ucarecdn.com/eb187657-8dd4-409d-bc07-06057e8a2a53/'
 ---
-
+Wenn IWC am Flughafen Zürich in einer aufwändigen Produktion den interessierten Reisenden Einblick in die luxuriöse Welt einer internationalen Luxusmarke gibt, wird deutlich, welch unermüdliche Innovation diese Uhren hervorgebracht hat. Das riesige interaktive Uhrwerk, Bewegtbilder und edle Möbel legen dafür eindrücklich Zeugnis ab. 3dimensional hat für die Gesamtproduktion und Montage verantwortlich gezeichnet.
