@@ -1,19 +1,20 @@
 ---
 title: Weihnachtsbaum auf einem städtischen Platz
-projectNumber: temp
-date: 2019-04-11T09:00:00.319Z
+projectNumber: '16.2666'
+date: 2018-10-16T12:16:29.143Z
 position: 20
-draft: true
-Year: '2019'
+draft: false
+Year: '2017'
 concept: false
-planning: false
-implementation: false
+planning: true
+implementation: true
 activities:
-  - Ausstellungsgestaltung
-image: 'https://ucarecdn.com/1c0fddf4-3173-4f47-ad92-7209586402dd/'
-imageAlt: ''
-teaser: temp
+  - Display
+image: 'https://ucarecdn.com/f851e298-947f-4e1c-ab18-6a2904351182/'
+teaser: >-
+  Was gibt es Schöneres, als während der Weihnachtszeit durch die geschmückten
+  Gassen zu flanieren?
 projectpictures:
-  - undefined: ''
+  - 'https://ucarecdn.com/5884b2aa-5e9c-466f-b1cd-446513c5108f/'
 ---
-
+Zusammen mit IWC Schaffhausen hat 3dimensional den Weihnachtsbaum für den Zürcher Weinplatz gestaltet und aufgestellt. Die geschmückten Gassen der Zürcher Altstadt laden während der Weihnachtszeit als beliebtes Ziel zum Stadtbummel mit festlichem Ambiente ein.
