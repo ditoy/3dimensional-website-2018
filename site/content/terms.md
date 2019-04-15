@@ -10,7 +10,7 @@ Die nachstehenden Bedingungen regeln die Beziehungen zwischen Auftraggeber und 3
    \
 Abweichungen von den nachfolgenden Bedingungen bedürfen der Schriftform.\
    \
-Grundsätze\
+##Grundsätze\
    \
 3. Leistungen von 3dimensional AG\
    \
@@ -58,7 +58,7 @@ Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesproche
    \
 Von allen produzierten Arbeiten – darunter sind auch Nachdrucke zu verstehen – sind 3dimensional AG unaufgefordert 10 einwandfreie Belege (bei wertvollen Stücken eine angemessene Zahl) zu überlassen. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
    \
-Honorar\
+##Honorar\
    \
 14. Auftragsvorbesprechung\
    \
