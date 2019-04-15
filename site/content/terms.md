@@ -14,7 +14,7 @@ Grundsätze\
    \
 3. Leistungen von 3dimensional AG\
    \
-3dimensional AG erbringt innerhalb des Workflows eines Auftrags diverse gestalterische, organisatorische und administrative Leistungen. Ausführliche Details dazu sind im SGD-Honorarsystem ersichtlich. Für zusätzliche Leistungen, insbesondere in den Bereichen Text, Fotografie sowie Produkt- und Formgestaltung, arbeitet 3dimensional AG nach den Richtlinien der einschlägigen Berufsverbände.\
+3dimensional AG erbringt innerhalb des Workflows eines Auftrags diverse Leistungen wie Design, Entwurf, Planung, Gestaltung, Organisation, Administration, Produktion, Lieferung, Transport, Auf- und Abbau, Montage und Demontage, etc.\
    \
 4. Treuepflicht, Geschäftsgeheimnis\
    \
@@ -30,7 +30,7 @@ Grundsätzlich gehen die vereinbarten Nutzungsrechte erst mit der vollständigen
    \
 7. Widerrechtliche Nutzung\
    \
-Die widerrechtliche Nutzung eines urheberrechtlich geschützten Werks von 3dimensional AG verpflichtet die Auftraggeberin zur Zahlung einer Konventionalstrafe im Umfang von CHF 10 000.–. Die Geltendmachung eines Schadens bleibt ausdrücklich vorbehalten.\
+Die widerrechtliche Nutzung eines urheberrechtlich geschützten Werks von 3dimensional AG verpflichtet die Auftraggeberin zur Zahlung einer Konventionalstrafe. Die Geltendmachung eines Schadens bleibt ausdrücklich vorbehalten.\
    \
 8. Gewährleistung\
    \
@@ -38,25 +38,19 @@ Bei Bearbeitungen, Anpassungen oder Umgestaltungen von Werken Dritter (beispiels
    \
 9. Externe Zulieferung\
    \
-Im Rahmen des Auftrags und auf Rechnung der Auftraggeberin veranlasst 3dimensional AG Leistungen Dritter, die sie für Entwurfsarbeiten und zur Realisierung reproduktionsreifer Vorlagen benötigt. Für diese Drittarbeiten muss eine Offerte vorliegen, welche durch die Auftraggeberin vorgängig abgenommen werden muss.\
+Im Rahmen des Auftrags veranlasst 3dimensional AG nach eigenem Ermessen Leistungen Dritter, die sie für Entwurfsarbeiten, Planung und zur Realisierung benötigt.\
    \
 10. Aufbewahren von Unterlagen\
    \
 3dimensional AG ist verpflichtet, Auftragsunterlagen, Reinzeichnungen usw. für die Dauer von einem Jahr nach Fertigstellung bzw. Ablieferung an ihrem Geschäftssitz aufzubewahren. Darüber hinaus ist sie ohne anderslautende schriftliche Weisung der Auftraggeberin von der weiteren Aufbewahrung befreit. Sollen Unterlagen länger aufbewahrt werden, sind die Bedingungen separat zu vereinbaren. Bei umfangreichen Arbeiten können von 3dimensional AG die Speichermedien anteilsmässig verrechnet werden.\
    \
-11. Wettbewerbe, Konkurrenzpräsentationen\
+11. Einzelpräsentationen\
    \
-3dimensional AG beteiligt sich an:\
-a. Wettbewerben, die dem SGD Wettbewerbsreglement entsprechen,\
-b. Konkurrenzpräsentationen, die für alle Teilnehmenden gleichlautende, schriftlich niedergelegte Bedingungen aufweisen. Die Teilnehmenden müssen allen namentlich bekannt sein. Die Entschädigung muss für alle Teilnehmenden identisch sein.\
+Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesprochen.\
    \
-12. Einzelpräsentationen\
+12. Belegexemplare\
    \
-Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesprochen. Im Übrigen gelten die Bestimmungen des SGD-Honorarsystems.\
-   \
-13. Belegexemplare\
-   \
-Von allen produzierten Arbeiten – darunter sind auch Nachdrucke zu verstehen – sind 3dimensional AG unaufgefordert 10 einwandfreie Belege (bei wertvollen Stücken eine angemessene Zahl) zu überlassen. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
+Von allen produzierten Arbeiten sind 3dimensional AG Belegexemplare zu überlassen. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
    \
 Honorar\
    \
@@ -66,7 +60,7 @@ In der Regel ist die erste Besprechung für einen Gestaltungsauftrag kostenfrei.
    \
 15. Richtofferte und Honorarabrechnung\
    \
-Grundlage für die Richtofferte und die Honorarabrechnung ist das SGD-Honorarsystem. Das Honorar von 3dimensional AG richtet sich nach dem Zeitaufwand und dem individuellen Stundenansatz für die einzelnen Leistungen. Die Abgabe einer schriftlichen, individuellen Richtofferte wird in jedem Fall empfohlen. Notwendiger Mehraufwand aufgrund veränderter Vorgaben wird der Auftraggeberin von 3dimensional AG rechtzeitig bekannt gegeben und ist in der Abrechnung gesondert auszuweisen.\
+Das Honorar von 3dimensional AG richtet sich nach dem Zeitaufwand und dem individuellen Stundenansatz für die einzelnen Leistungen. Notwendiger Mehraufwand aufgrund veränderter Vorgaben wird der Auftraggeberin von 3dimensional AG rechtzeitig bekannt gegeben und wird in der Abrechnung gesondert ausgewiesen.\
    \
 16. Reduktion oder Annullierung des Auftrags\
    \
@@ -78,7 +72,7 @@ Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei
    \
 17. Abrechnung\
    \
-3dimensional AG hat die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vorzunehmen.\
+3dimensional AG nimmt die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vor.\
    \
 18. Zahlungsbestimmungen\
    \
