@@ -38,7 +38,7 @@ Bei Bearbeitungen, Anpassungen oder Umgestaltungen von Werken Dritter (beispiels
    \
 9. Externe Zulieferung\
    \
-Im Rahmen des Auftrags veranlasst 3dimensional AG nach eigenem Ermessen Leistungen Dritter, die sie für Entwurfsarbeiten, Planung und zur Realisierung benötigt.\
+Im Rahmen des Auftrags veranlasst 3dimensional AG nach eigenem Ermessen Leistungen Dritter, die sie für Entwurfsarbeiten, Planung und Realisierung benötigt.\
    \
 10. Aufbewahren von Unterlagen\
    \
@@ -54,15 +54,15 @@ Von allen produzierten Arbeiten sind 3dimensional AG Belegexemplare zu überlass
    \
 Honorar\
    \
-14. Auftragsvorbesprechung\
+13. Auftragsvorbesprechung\
    \
 In der Regel ist die erste Besprechung für einen Gestaltungsauftrag kostenfrei.\
    \
-15. Richtofferte und Honorarabrechnung\
+14. Richtofferte und Honorarabrechnung\
    \
 Das Honorar von 3dimensional AG richtet sich nach dem Zeitaufwand und dem individuellen Stundenansatz für die einzelnen Leistungen. Notwendiger Mehraufwand aufgrund veränderter Vorgaben wird der Auftraggeberin von 3dimensional AG rechtzeitig bekannt gegeben und wird in der Abrechnung gesondert ausgewiesen.\
    \
-16. Reduktion oder Annullierung des Auftrags\
+15. Reduktion oder Annullierung des Auftrags\
    \
 Wird ein erteilter Auftrag reduziert oder annulliert, hat 3dimensional AG Anrecht auf:\
 a. Verrechnung ihrer bisher geleisteten Arbeit (pro rata temporis),\
@@ -70,21 +70,21 @@ b. Verrechnung ihrer Unkosten und der Vorleistungen Dritter,\
 c. Wiedergutmachung aller sich aus der Reduktion oder Annullierung ergebenden Schäden.\
 Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei Annullierung des Auftrags anderweitig zu verwenden. Die Nutzungsrechte bleiben vollumfänglich bei 3dimensional AG.\
    \
-17. Abrechnung\
+16. Abrechnung\
    \
-3dimensional AG nimmt die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vor.\
+3dimensional AG hat die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vorzunehmen.\
    \
-18. Zahlungsbestimmungen\
+17. Zahlungsbestimmungen\
    \
 Nach Beendigung des Auftrags stellt 3dimensional AG Rechnung, welche innert 30 Tagen ohne Abzug zu bezahlen ist. Bei grossem Zeitaufwand für die Auftragserfüllung hat 3dimensional AG Anspruch auf angemessene Akontozahlungen.\
    \
 Rechtliches\
    \
-19. Anwendbares Recht\
+18. Anwendbares Recht\
    \
 Die Beziehungen zwischen Auftraggeberin und 3dimensional AG unterstehen schweizerischem Recht. Soweit die Geschäftsbedingungen von 3dimensional AG nichts Abweichendes regeln, gelten die Bestimmungen des Schweizerischen Obligationenrechts in Art. 394 ff. über den einfachen Auftrag.\
    \
-20. Gerichtsstand\
+19. Gerichtsstand\
    \
 Gerichtsstand ist der Geschäftssitz von 3dimensional AG in Wallisellen.
 
