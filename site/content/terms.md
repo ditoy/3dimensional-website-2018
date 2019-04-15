@@ -14,7 +14,7 @@ Grundsätze\
    \
 3. Leistungen von 3dimensional AG\
    \
-3dimensional AG erbringt innerhalb des Workflows eines Auftrags diverse gestalterische, organisatorische und administrative Leistungen. Ausführliche Details dazu sind im SGD-Honorarsystem ersichtlich. Für zusätzliche Leistungen, insbesondere in den Bereichen Text, Fotografie sowie Produkt- und Formgestaltung, arbeitet 3dimensional AG nach den Richtlinien der einschlägigen Berufsverbände.\
+3dimensional AG erbringt innerhalb des Workflows eines Auftrags diverse gestalterische, organisatorische und administrative Leistungen.\
    \
 4. Treuepflicht, Geschäftsgeheimnis\
    \
@@ -30,7 +30,7 @@ Grundsätzlich gehen die vereinbarten Nutzungsrechte erst mit der vollständigen
    \
 7. Widerrechtliche Nutzung\
    \
-Die widerrechtliche Nutzung eines urheberrechtlich geschützten Werks von 3dimensional AG verpflichtet die Auftraggeberin zur Zahlung einer Konventionalstrafe im Umfang von CHF 10 000.–. Die Geltendmachung eines Schadens bleibt ausdrücklich vorbehalten.\
+Die widerrechtliche Nutzung eines urheberrechtlich geschützten Werks von 3dimensional AG verpflichtet die Auftraggeberin zur Zahlung einer Konventionalstrafe. Die Geltendmachung eines Schadens bleibt ausdrücklich vorbehalten.\
    \
 8. Gewährleistung\
    \
@@ -38,7 +38,7 @@ Bei Bearbeitungen, Anpassungen oder Umgestaltungen von Werken Dritter (beispiels
    \
 9. Externe Zulieferung\
    \
-Im Rahmen des Auftrags und auf Rechnung der Auftraggeberin veranlasst 3dimensional AG Leistungen Dritter, die sie für Entwurfsarbeiten und zur Realisierung reproduktionsreifer Vorlagen benötigt. Für diese Drittarbeiten muss eine Offerte vorliegen, welche durch die Auftraggeberin vorgängig abgenommen werden muss.\
+Im Rahmen des Auftrags und auf Rechnung der Auftraggeberin veranlasst 3dimensional AG Leistungen Dritter, die sie für Entwurfsarbeiten und zur Realisierung benötigt.\
    \
 10. Aufbewahren von Unterlagen\
    \
@@ -52,11 +52,11 @@ Im Rahmen des Auftrags und auf Rechnung der Auftraggeberin veranlasst 3dimension
    \
 12. Einzelpräsentationen\
    \
-Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesprochen. Im Übrigen gelten die Bestimmungen des SGD-Honorarsystems.\
+Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesprochen.\
    \
 13. Belegexemplare\
    \
-Von allen produzierten Arbeiten – darunter sind auch Nachdrucke zu verstehen – sind 3dimensional AG unaufgefordert 10 einwandfreie Belege (bei wertvollen Stücken eine angemessene Zahl) zu überlassen. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
+Von allen produzierten Arbeiten ist 3dimensional AG berechtigt Belegexemplare aufzubewahren. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
    \
 Honorar\
    \
@@ -66,35 +66,31 @@ In der Regel ist die erste Besprechung für einen Gestaltungsauftrag kostenfrei.
    \
 15. Richtofferte und Honorarabrechnung\
    \
-Grundlage für die Richtofferte und die Honorarabrechnung ist das SGD-Honorarsystem. Das Honorar von 3dimensional AG richtet sich nach dem Zeitaufwand und dem individuellen Stundenansatz für die einzelnen Leistungen. Die Abgabe einer schriftlichen, individuellen Richtofferte wird in jedem Fall empfohlen. Notwendiger Mehraufwand aufgrund veränderter Vorgaben wird der Auftraggeberin von 3dimensional AG rechtzeitig bekannt gegeben und ist in der Abrechnung gesondert auszuweisen.\
+Das Honorar von 3dimensional AG richtet sich nach dem Zeitaufwand und dem individuellen Stundenansatz für die einzelnen Leistungen. Notwendiger Mehraufwand aufgrund veränderter Vorgaben wird der Auftraggeberin von 3dimensional AG rechtzeitig bekannt gegeben und wird in der Abrechnung in der Regel gesondert ausgewiesen.\
    \
 16. Reduktion oder Annullierung des Auftrags\
    \
-Wird ein erteilter Auftrag reduziert oder annulliert, hat 3dimensional AG Anrecht auf:<br>a. Verrechnung ihrer bisher geleisteten Arbeit (pro rata temporis),<br>b. Verrechnung ihrer Unkosten und der Vorleistungen Dritter,<br>c. Wiedergutmachung aller sich aus der Reduktion oder Annullierung ergebenden Schäden.<br>Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei Annullierung des Auftrags anderweitig zu verwenden. Die Nutzungsrechte bleiben vollumfänglich bei 3dimensional AG.\
+Wird ein erteilter Auftrag reduziert oder annulliert, hat 3dimensional AG Anrecht auf:\
+   \a. Verrechnung ihrer bisher geleisteten Arbeit (pro rata temporis),\
+   \b. Verrechnung ihrer Unkosten und der Vorleistungen Dritter,\
+   \c. Wiedergutmachung aller sich aus der Reduktion oder Annullierung ergebenden Schäden.\
+   \Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei Annullierung des Auftrags anderweitig zu verwenden. Die Nutzungsrechte bleiben vollumfänglich bei 3dimensional AG.\
    \
 17. Abrechnung\
    \
-3dimensional AG hat die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vorzunehmen.\
+3dimensional AG nimmt die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vor.\
    \
 18. Zahlungsbestimmungen\
    \
 Nach Beendigung des Auftrags stellt 3dimensional AG Rechnung, welche innert 30 Tagen ohne Abzug zu bezahlen ist. Bei grossem Zeitaufwand für die Auftragserfüllung hat 3dimensional AG Anspruch auf angemessene Akontozahlungen.\
    \
-19. Berater- und Vermittlungskommissionen\
-   \
-Berater- und Vermittlungskommissionen im Zusammenhang mit dem Einholen von Offerten, der Auftragserteilung und Rechnungskontrolle erhält grundsätzlich 3dimensional AG. Sie sind der Auftraggeberin weiterzugeben, wenn 3dimensional AG ihre Aufwendungen im Zusammenhang mit der Durchführung und Überwachung der Produktion der Auftraggeberin in Rechnung stellt.\
-   \
-20. Honorarstreitigkeiten\
-   \
-Sowohl der Auftraggeberin wie auch 3dimensional AG steht zur Überprüfung von beanstandeten Forderungen und zur Beurteilung von Honorarstreitigkeiten die Rechtsberatung SGD zur Verfügung.\
-   \
 Rechtliches\
    \
-21. Anwendbares Recht\
+19. Anwendbares Recht\
    \
 Die Beziehungen zwischen Auftraggeberin und 3dimensional AG unterstehen schweizerischem Recht. Soweit die Geschäftsbedingungen von 3dimensional AG nichts Abweichendes regeln, gelten die Bestimmungen des Schweizerischen Obligationenrechts in Art. 394 ff. über den einfachen Auftrag.\
    \
-22. Gerichtsstand\
+20. Gerichtsstand\
    \
 Gerichtsstand ist der Geschäftssitz von 3dimensional AG in Wallisellen.
 
