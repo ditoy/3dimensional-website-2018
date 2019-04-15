@@ -10,7 +10,7 @@ Die nachstehenden Bedingungen regeln die Beziehungen zwischen Auftraggeber und 3
    \
 Abweichungen von den nachfolgenden Bedingungen bedürfen der Schriftform.\
    \
-##Grundsätze\
+Grundsätze\
    \
 3. Leistungen von 3dimensional AG\
    \
@@ -58,7 +58,7 @@ Entschädigungen für Einzelpräsentationen werden vor Arbeitsbeginn abgesproche
    \
 Von allen produzierten Arbeiten – darunter sind auch Nachdrucke zu verstehen – sind 3dimensional AG unaufgefordert 10 einwandfreie Belege (bei wertvollen Stücken eine angemessene Zahl) zu überlassen. 3dimensional AG steht das Recht zu, diese Belege als Leistungsnachweis ihrer Arbeiten zu verwenden und zu veröffentlichen.\
    \
-##Honorar\
+Honorar\
    \
 14. Auftragsvorbesprechung\
    \
@@ -84,21 +84,13 @@ Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei
    \
 Nach Beendigung des Auftrags stellt 3dimensional AG Rechnung, welche innert 30 Tagen ohne Abzug zu bezahlen ist. Bei grossem Zeitaufwand für die Auftragserfüllung hat 3dimensional AG Anspruch auf angemessene Akontozahlungen.\
    \
-19. Berater- und Vermittlungskommissionen\
-   \
-Berater- und Vermittlungskommissionen im Zusammenhang mit dem Einholen von Offerten, der Auftragserteilung und Rechnungskontrolle erhält grundsätzlich 3dimensional AG. Sie sind der Auftraggeberin weiterzugeben, wenn 3dimensional AG ihre Aufwendungen im Zusammenhang mit der Durchführung und Überwachung der Produktion der Auftraggeberin in Rechnung stellt.\
-   \
-20. Honorarstreitigkeiten\
-   \
-Sowohl der Auftraggeberin wie auch 3dimensional AG steht zur Überprüfung von beanstandeten Forderungen und zur Beurteilung von Honorarstreitigkeiten die Rechtsberatung SGD zur Verfügung.\
-   \
 Rechtliches\
    \
-21. Anwendbares Recht\
+19. Anwendbares Recht\
    \
 Die Beziehungen zwischen Auftraggeberin und 3dimensional AG unterstehen schweizerischem Recht. Soweit die Geschäftsbedingungen von 3dimensional AG nichts Abweichendes regeln, gelten die Bestimmungen des Schweizerischen Obligationenrechts in Art. 394 ff. über den einfachen Auftrag.\
    \
-22. Gerichtsstand\
+20. Gerichtsstand\
    \
 Gerichtsstand ist der Geschäftssitz von 3dimensional AG in Wallisellen.
 
