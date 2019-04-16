@@ -11,10 +11,15 @@ implementation: true
 activities:
   - Signaletik
   - Beschriftung
-image: 'https://ucarecdn.com/8421bbe5-6589-49c7-ad35-7cb51b3dcd72/'
+image: 'https://ucarecdn.com/ef2c4205-60cf-48cd-a69d-bf53f092723a/'
 imageAlt: ''
 teaser: >-
   Mit unserem Besucherleitsystem gelangen die Besucher der Privatklinik Hohenegg
   entspannt ans Ziel
+projectpictures:
+  - 'https://ucarecdn.com/dc923710-2eb1-4b6d-a2c7-309f65f96e85/'
+  - 'https://ucarecdn.com/b49d858a-a0e7-47ef-8e6b-e997d3fbccee/'
+  - 'https://ucarecdn.com/3190d7bb-30cd-49d7-9d20-cae9dd2deda7/'
+  - 'https://ucarecdn.com/7679eb67-7263-4b27-9f68-35856e4580ed/'
 ---
 In Zusammenarbeit mit Ditoy GmbH gestaltete 3dimensional das Besucherleitsystem auf dem Areal der Privatklinik Hohenegg. Zurückhaltende Schlichtheit und eine ruhige Typografie erzeugen in jedem Raum eine klare Identität und lassen entspannte Orientierung in sämtlichen Gebäuden und Räumen entstehen.
