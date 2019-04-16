@@ -19,7 +19,7 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/40121b2a-083b-44dd-a15b-1e4953109144/'
   - 'https://ucarecdn.com/369ca797-ef7d-4b4b-800a-0955b9001f42/'
-  - 'https://ucarecdn.com/265bee1a-e70c-4903-bf2c-d37d84c2c20b/'
   - 'https://ucarecdn.com/43298846-74c0-453e-9138-4443e287aefa/'
+  - 'https://ucarecdn.com/615d57b9-7b4a-4f79-b9c4-6574dfe3d375/'
 ---
 Das Heim für Menschen mit Körperbehinderung der Mathilde Escher Stiftung bietet seinen Bewohnern vielfältige Arbeitsplätze und Therapien an. In der komplexen Gebäudestruktur jederzeit den richtigen Raum zu finden, ist eine Herausforderung, welche dank der Signaletik, die von 3dimensional nach dem Entwurf von Source Associates umgesetzt wurde, nun um vieles einfacher geworden ist.
