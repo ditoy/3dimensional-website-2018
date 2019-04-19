@@ -1,5 +1,5 @@
 ---
-title: Baselworld — Weltmesse für Uhren und Schmuck
+title: Baselworld – Weltmesse für Uhren und Schmuck
 projectNumber: '17.2741'
 date: 2018-10-17T08:40:46.808Z
 position: 20

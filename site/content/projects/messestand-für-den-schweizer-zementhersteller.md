@@ -12,7 +12,7 @@ activities:
   - Messegestaltung
 image: 'https://ucarecdn.com/e09fa3a1-86d2-4cb6-ae56-a43bd5677379/'
 teaser: >-
-  Die grösste Baumesse der Schweiz — die Swissbau — ist ein zentraler
+  Die grösste Baumesse der Schweiz – die Swissbau – ist ein zentraler
   Branchentreffpunkt
 projectpictures:
   - 'https://ucarecdn.com/fbfb8f6f-6624-4b0e-bcc5-c59f821e81ba/'

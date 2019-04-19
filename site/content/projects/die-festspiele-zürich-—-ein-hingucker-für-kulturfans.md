@@ -1,5 +1,5 @@
 ---
-title: Die Festspiele Zürich — ein Hingucker für Kulturfans
+title: Die Festspiele Zürich – ein Hingucker für Kulturfans
 projectNumber: '18.3207'
 date: 2019-03-25T14:03:44.464Z
 position: 20

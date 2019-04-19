@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Geschäfts Bedingungen — AGB
+title: Allgemeine Geschäfts Bedingungen – AGB
 date: '2018-07-24'
 ---
 1. Vertragsbedingungen\

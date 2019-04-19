@@ -11,7 +11,7 @@ activities:
   - Innenarchitektur
 image: 'https://ucarecdn.com/c55327fe-57bf-4e47-99f7-2f078e09f727/'
 teaser: >-
-  Hahn auf und frisches Wasser fliesst — sind wir uns gewohnt. Neu rieselt aus
+  Hahn auf und frisches Wasser fliesst – sind wir uns gewohnt. Neu rieselt aus
   dem Rohr auch Gewürz
 projectpictures:
   - 'https://ucarecdn.com/e82cbafb-61e5-4619-bf76-005c6348a206/'

@@ -21,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/4a4b40ae-74c1-4b6d-add3-da46fe5f440a/'
   - 'https://ucarecdn.com/431d5192-5542-4703-bc1a-f97e5980b52a/'
 ---
-Sei es durch den Einsatz bewegter Bilder auf grossen Screens, ergänzt durch dreidimensionale Objekte oder durch leuchtende Bilder — jedesmal entsteht im grossen Schaufenster am Flughafen Zürich von neuem ein Hingucker, welcher die Passanten zum stehen bleiben animiert. Wie bei einer guten Anlagestrategie setzt die LGT für die Schaufensterproduktion auf langjährige Partnerschaft. Seit vielen Jahren pflegt LGT und 3dimensional eine enge Zusammenarbeit, die mit jedem Schaufenster facettenreicher wird.
+Sei es durch den Einsatz bewegter Bilder auf grossen Screens, ergänzt durch dreidimensionale Objekte oder durch leuchtende Bilder – jedesmal entsteht im grossen Schaufenster am Flughafen Zürich von neuem ein Hingucker, welcher die Passanten zum stehen bleiben animiert. Wie bei einer guten Anlagestrategie setzt die LGT für die Schaufensterproduktion auf langjährige Partnerschaft. Seit vielen Jahren pflegt LGT und 3dimensional eine enge Zusammenarbeit, die mit jedem Schaufenster facettenreicher wird.

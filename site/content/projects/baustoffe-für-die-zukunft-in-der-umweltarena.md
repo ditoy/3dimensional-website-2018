@@ -14,7 +14,7 @@ activities:
   - Promotionsfläche
 image: 'https://ucarecdn.com/5fc59f47-cf53-44e3-b191-6ff083e2b3db/'
 teaser: >-
-  Optimo Tour — Einführungskampagne für nachhaltigen CO₂ reduzierten Zement von
+  Optimo Tour – Einführungskampagne für nachhaltigen CO₂ reduzierten Zement von
   Holcim
 projectpictures:
   - 'https://ucarecdn.com/45035618-787c-483a-b7b6-00f63ecb82d1/'

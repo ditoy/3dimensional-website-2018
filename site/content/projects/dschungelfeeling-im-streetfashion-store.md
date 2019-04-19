@@ -14,7 +14,7 @@ activities:
 image: 'https://ucarecdn.com/4c9eb672-c528-4bc8-b113-63d6b9c6e1eb/'
 imageAlt: ''
 teaser: >-
-  Im Tarzan Flagshipstore hängen die Kleiderbügel an Lianen — vielleicht sind es
+  Im Tarzan Flagshipstore hängen die Kleiderbügel an Lianen – vielleicht sind es
   auch Kabel, ganz sicher sind wir nicht
 projectpictures:
   - 'https://ucarecdn.com/f93f2ebb-bda1-49c4-a1e4-247dc4aff5a9/'

@@ -14,7 +14,7 @@ activities:
 image: 'https://ucarecdn.com/a98ceca3-e532-4606-92ed-3f4ac6ff2978/-/preview/'
 imageAlt: ''
 teaser: >-
-  Megatrends — Wanderausstellung zu den Themen Nachhaltigkeit, Multipolare Welt
+  Megatrends – Wanderausstellung zu den Themen Nachhaltigkeit, Multipolare Welt
   und Demographie
 projectpictures:
   - 'https://ucarecdn.com/eb0cbee8-994e-4ef1-8c46-0ff534fa39a6/'

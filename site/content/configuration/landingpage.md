@@ -5,20 +5,20 @@ slide1_claim: >-
   machen.
 slide1_color: black
 slide2_image: 'https://ucarecdn.com/880b0df0-e4ea-4eb8-8a17-99b4f5e4280d/'
-slide2_claim: 'Ob Showroom, Ausstellung oder Schaufenster — wir gestalten Ihr Display.'
+slide2_claim: 'Ob Showroom, Ausstellung oder Schaufenster – wir gestalten Ihr Display.'
 slide2_color: black
 slide3_image: 'https://ucarecdn.com/40ed3f09-071f-498e-b690-1477e6b9efa9/'
-slide3_claim: 'Hohe Qualität, kurze Entscheidungswege — unsere Nähe ist Ihr Vorteil.'
+slide3_claim: 'Hohe Qualität, kurze Entscheidungswege – unsere Nähe ist Ihr Vorteil.'
 slide3_color: black
 slide4_image: 'https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/'
-slide4_claim: Ob Hochglanz oder Glanzvoll — wir verleihen Ihrem Auftritt Strahlkraft.
+slide4_claim: Ob Hochglanz oder Glanzvoll – wir verleihen Ihrem Auftritt Strahlkraft.
 slide4_color: white
 slide5_image: 'https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/'
-slide5_claim: Vom Entwurf bis zum fertigen Produkt — Ihre Idee nimmt bei uns Form an.
+slide5_claim: Vom Entwurf bis zum fertigen Produkt – Ihre Idee nimmt bei uns Form an.
 slide5_color: white
 slide6_image: 'https://ucarecdn.com/4b7e5333-5061-4070-a756-46c62e4dee87/'
 slide6_claim: >-
-  Sie haben leuchtende Ideen — wir Kreativität und Erfahrung in der Arbeit mit
+  Sie haben leuchtende Ideen – wir Kreativität und Erfahrung in der Arbeit mit
   Licht.
 slide6_color: white
 quote1_image: 'https://ucarecdn.com/286c69f8-bdef-4d86-a5d9-9ac5fe59850a/'
