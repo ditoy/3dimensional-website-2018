@@ -72,7 +72,7 @@ Darüber hinaus hat 3dimensional AG das Recht, ihre bisher geleistete Arbeit bei
    \
 16. Abrechnung\
    \
-3dimensional AG hat die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vorzunehmen.\
+3dimensional AG nimmt die Abrechnung auf der Grundlage der Richtofferte und der erfolgten Leistungen vor.\
    \
 17. Zahlungsbestimmungen\
    \
