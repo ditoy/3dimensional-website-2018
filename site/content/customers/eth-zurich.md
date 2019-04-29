@@ -1,5 +1,5 @@
----
-title: ETH Zürich
+﻿---
+title: ETH ZÃ¼rich
 draft: false
 ---
 

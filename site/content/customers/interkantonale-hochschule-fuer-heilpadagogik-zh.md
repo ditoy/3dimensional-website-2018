@@ -1,5 +1,5 @@
----
-title:          "Interkantonale Hochschule für Heilpädagogik ZH"
+ï»¿---
+title:          "Interkantonale Hochschule fÃ¼r HeilpÃ¤dagogik ZH"
 date:           "2018-07-05"
 draft:          false
 robotsExclude:  true
