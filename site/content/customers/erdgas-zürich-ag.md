@@ -1,5 +1,5 @@
 ﻿---
-title:          "Erdgas ZÃ¼rich AG"
+title:          "Erdgas Zürich AG"
 date:           "2018-07-05"
 draft:          false
 robotsExclude:  true
