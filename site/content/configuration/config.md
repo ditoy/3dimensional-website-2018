@@ -1,7 +1,9 @@
 ---
 title: Site Configuration
 appColor: '#B6C229'
-appTitle: '3dimensional: Innenarchitektur, Gestaltung und dreidimensionale Kommunikation'
+appTitle: >-
+  3dimensional: Design, Planung, Produktion – Ihr Partner für 3dimensionale
+  Projekte mit höchsten Ansprüchen!
 appTitleShort: 3dimensional
 appPublisher: 3dimensional AG
 appDescription: >-
@@ -13,7 +15,8 @@ appDescription: >-
   flexibles Netzwerk aus eingespielten Fachexperten können wir Aufträge
   unterschiedlicher Grösse, schnell, effizient und professionell umsetzen.
 appKeywords: >-
-  3dimensional, 3 dimensional, Innenarchitektur, Gestaltung, Innenräume,
+  3dimensional, 3 dimensional, Design, Planung, Produktion, Innenarchitektur,
+  Display, Ausstellung, Schaufenster, Showraum, Retail, Gestaltung, Innenräume,
   Ladenbau, dreidimensionale Kommunikation, 3D
 appImage: images/uploads/3dimensional-hero-1.jpg
 appSitemapUrl: 'https://www.3dimensional.ch'
