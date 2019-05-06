@@ -12,7 +12,7 @@ activities:
   - Leuchtendesign
 image: 'https://ucarecdn.com/ed24bb16-9901-406a-b634-2ecd246e372c/'
 imageAlt: ''
-teaser: Die Neue Aargauer Bank hängt Schmuckstücke an die Decke
+teaser: Die Neue Aargauer Bank hängt Schmuckstücke seit neuestem an die Decke
 projectpictures:
   - 'https://ucarecdn.com/55d3514c-0d88-467a-92db-e6111fa8b836/'
   - 'https://ucarecdn.com/9029f54f-40e5-4496-a31c-eea59e0e02cd/'
