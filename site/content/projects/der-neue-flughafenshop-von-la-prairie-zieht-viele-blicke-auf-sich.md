@@ -23,4 +23,4 @@ projectpictures:
   - 'https://ucarecdn.com/467d2e4d-6e7c-4f25-922b-f300059011c5/'
   - 'https://ucarecdn.com/9a2bc483-1844-45f2-a83f-e5c0208ebd1b/'
 ---
-Eine exklusive Welt für La Prairie Switzerland auf über 60 m2 am Flughafen Zürich. Von der ersten Skizze bis zur Schlüsselübergabe haben wir das Projekt als Generalunternehmer betreut. Wir begleiten die Firma La Prairie auch bei einer Reihe weiterer Projekte von der Planung bis zur Ausführung, darunter die Gestaltung des Showrooms am Hauptsitz in Zürich, die Planung von Verkaufscountern in ganz Europa, attraktiven Verkaufsförderungsdisplays, sowie Events und Produktepräsentationen.
+Eine exklusive Welt für La Prairie Switzerland auf über 60 m² am Flughafen Zürich. Von der ersten Skizze bis zur Schlüsselübergabe haben wir das Projekt als Generalunternehmer betreut. Wir begleiten die Firma La Prairie auch bei einer Reihe weiterer Projekte von der Planung bis zur Ausführung, darunter die Gestaltung des Showrooms am Hauptsitz in Zürich, die Planung von Verkaufscountern in ganz Europa, attraktiven Verkaufsförderungsdisplays, sowie Events und Produktepräsentationen.

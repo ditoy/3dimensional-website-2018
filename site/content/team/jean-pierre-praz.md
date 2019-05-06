@@ -6,7 +6,7 @@ robotsExclude: false
 title: Jean-Pierre Praz
 function: 'Projektleiter, Architekt BSc, Design Vermittler BA'
 quote: >-
-  Etwas an den Punkt zu bringen wo nichts fehlt und nichts stört, macht für mich
+  Etwas an den Punkt zu bringen, wo nichts fehlt und nichts stört, macht für mich
   das Besondere am Entwerfen aus.
 email: praz.jp@3dimensional.ch
 phone: +41 44 422 44 20

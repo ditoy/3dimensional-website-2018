@@ -22,4 +22,4 @@ projectpictures:
   - 'https://ucarecdn.com/1c941192-0b8c-4d9e-b2ed-d76bea77cec8/'
   - 'https://ucarecdn.com/7ae433fb-456e-42ea-b492-312d3d3fb232/'
 ---
-Der Stand mit dem imposanten Lüster in Form eines hängenden Wasserwirbels wurde für den Auftritt des schweizer Armaturen Hersteller arwa an der Milano Design Week realisiert. Für die Umsetzung des sinnlichen Entwurfs von Bureau Hindermann fanden 1200 Glycerinseifen und 100 bedruckte Kartonschachteln Verwendung. Während der Wirbel das fliessende Wasser aus Armaturen und Duschbrausen verkörpert, vermittelt die Kartonwand den Besuchern Hintergründe zum Produktionsprozess der Armaturen.
+Der Stand mit dem imposanten Lüster in Form eines hängenden Wasserwirbels wurde für den Auftritt des Schweizer Armaturen Hersteller arwa an der Milano Design Week realisiert. Für die Umsetzung des sinnlichen Entwurfs von Bureau Hindermann fanden 1200 Glycerinseifen und 100 bedruckte Kartonschachteln Verwendung. Während der Wirbel das fliessende Wasser aus Armaturen und Duschbrausen verkörpert, vermittelt die Kartonwand den Besuchern Hintergründe zum Produktionsprozess der Armaturen.

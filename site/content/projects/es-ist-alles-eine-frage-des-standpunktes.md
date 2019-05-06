@@ -21,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/03d307d0-a092-47d0-b63e-43fe9b28dec7/'
   - 'https://ucarecdn.com/246e8ac6-97b0-4fae-9725-9ae849fa3f3d/'
 ---
-Für die Realisierung der publikumswirksamen Beschriftung im Innen- und Aussenraum des Geschäftshaus Honywellplatz 1 hat die Intershop Holding AG auf das Gespann Bureau Hindermann und 3dimensional gesetzt. Nur wer sich am Empfang genau beim POI hinstellt ist richtig positioniert, um zu erkennen, welche geometrische Figur sich hinter der Anamorphose verbirgt.
+Für die Realisierung der publikumswirksamen Beschriftung im Innen- und Aussenraum des Geschäftshaus Honywellplatz 1 hat die Intershop Holding AG auf das Gespann Bureau Hindermann und 3dimensional gesetzt. Nur wer sich am Empfang genau beim POI (Point of Interest) hinstellt, ist richtig positioniert, um zu erkennen, welche geometrische Figur sich hinter der Anamorphose verbirgt.

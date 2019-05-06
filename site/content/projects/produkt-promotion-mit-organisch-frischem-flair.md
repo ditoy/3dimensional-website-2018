@@ -21,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/349cfe32-4214-4fb9-90d1-52f1081645ea/'
   - 'https://ucarecdn.com/f78462cc-23bc-4bff-81fb-4d5ffb02ae02/'
 ---
-Für eine begrenzte Zeitdauer präsentiert sich die Marke BJÖRN AXÉN als Shop-in-Shop innerhalb einer grösseren Verkaufsfläche, und bietet ihren Kundinnen exklusive Stylings. Der modulare Aufbau der Präsentationsfläche ermöglich eine flexible Anpassung an verschiedene räumliche Situationen. Für Pabo Trading GmbH, welche die Marke Björn Axén in der Schweiz vertritt, begleitet 3dimensional das Projekt von der Konzeption und Umsetzung bis jeweils zum Aufbau vor Ort.
+Für eine begrenzte Zeitdauer präsentiert sich die Marke BJÖRN AXÉN als Shop-in-Shop innerhalb einer grösseren Verkaufsfläche und bietet ihren Kundinnen ein exklusives Styling. Der modulare Aufbau der Präsentationsfläche ermöglicht eine flexible Anpassung an verschiedene räumliche Situationen. Für Pabo Trading GmbH, welche die Marke Björn Axén in der Schweiz vertritt, begleitet 3dimensional das Projekt von der Konzeption über die Umsetzung bis jeweils zum Aufbau vor Ort.

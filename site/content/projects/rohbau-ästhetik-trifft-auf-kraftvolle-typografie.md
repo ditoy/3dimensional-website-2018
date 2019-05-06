@@ -12,7 +12,7 @@ activities:
   - Signaletik
 image: 'https://ucarecdn.com/8e5bf9e7-a1d0-40fc-a618-d65cd7b9efd6/'
 teaser: >-
-  Entweder man liebt Sichtbeton oder nicht. Aber frisches grün, das mögen doch
+  Entweder man liebt Sichtbeton oder nicht. Aber frisches Grün, das mögen doch
   alle gern.
 projectpictures:
   - 'https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/'

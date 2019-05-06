@@ -17,4 +17,4 @@ projectpictures:
   - 'https://ucarecdn.com/5f3e762b-20c4-4add-9878-1490722c6a06/'
   - 'https://ucarecdn.com/d0578a38-9932-491a-bbd5-b4e072aec9d7/'
 ---
-Für die flexible Leuchte "lu_dion", deren clevers Design Bureau Hindermann kreierte, entwickelten wir eine leichte Rippenstruktur mit einem feinmaschigen Überzug aus Baumwollstrick. Mittels versteckter Umlaufrollen können die Leuchten bis an die Decke hochgezogen werden. Diese flexible Lösung ermöglichte es dem Team von jobs.ch die Kantine trotz geringer Raumhöhe sowohl als Sitzungsraum wie auch als Präsentationsraum zu nutzen.
+Für die flexible Leuchte "lu_dion", deren cleveres Design Bureau Hindermann kreierte, entwickelten wir eine leichte Rippenstruktur mit einem feinmaschigen Überzug aus Baumwollstrick. Mittels versteckter Umlaufrollen können die Leuchten bis an die Decke hochgezogen werden. Diese flexible Lösung ermöglicht es dem Team von jobs.ch, die Kantine trotz geringer Raumhöhe sowohl als Sitzungsraum wie auch als Präsentationsraum zu nutzen.
