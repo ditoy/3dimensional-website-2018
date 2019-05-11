@@ -21,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/b1423472-49b1-425e-a54a-39fdd09792d2/'
   - 'https://ucarecdn.com/d3ffdb90-ad43-4ef7-bf1a-43175aff64c1/'
 ---
-Anlässlich der Festspiele Zürich legten die Veranstalter im Münsterhof einen auffällig magentafarbigen Teppich aus. Als Anreiner war es der Wunsch von Optiker Zwicker, seine Verbundenheit mit dem Anlass zu signalisieren. Mit 3dimensional als Kreativpartner brachte er den Kulturevent mit farbigen Interventionen ins Ladenlokal. Von der Idee bis zur fertigen Produktion hat 3dimensional für den Kunden im Projekt den Lead übernommen.
+Anlässlich der Festspiele Zürich legten die Veranstalter im Münsterhof einen auffällig magentafarbigen Teppich aus. Als Anrainer war es der Wunsch von Optiker Zwicker, seine Verbundenheit mit dem Anlass zu signalisieren. Mit 3dimensional als Kreativpartner brachte er den Kulturevent mit farbigen Interventionen ins Ladenlokal. Von der Idee bis zur fertigen Produktion hat 3dimensional für den Kunden im Projekt den Lead übernommen.
