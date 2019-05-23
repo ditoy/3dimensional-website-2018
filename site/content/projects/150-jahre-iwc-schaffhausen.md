@@ -18,4 +18,4 @@ teaser: >-
 projectpictures:
   - 'https://ucarecdn.com/eb187657-8dd4-409d-bc07-06057e8a2a53/'
 ---
-Wenn IWC am Flughafen Zürich in einer aufwändigen Produktion den interessierten Reisenden Einblick in die luxuriöse Welt einer internationalen Luxusmarke gibt, wird deutlich, welch unermüdliche Innovation diese Uhren hervorgebracht hat. Das riesige interaktive Uhrwerk, Bewegtbilder und edle Möbel legen dafür eindrücklich Zeugnis ab. 3dimensional hat für die Gesamtproduktion und Montage verantwortlich gezeichnet.
+Die Uhrenmanufaktur IWC hat aus Anlass des 150-jährigen Bestehens am Flughafen Zürich in einer aufwändigen Produktion den interessierten Reisenden Einblick in die luxuriöse Welt einer internationalen Luxusmarke geboten. Die Ausstellung machte auf eindrückliche Weise erlebbar, welch unermüdliche Innovation diese exquisiten Zeitmesser hervorgebracht hat. Das riesige interaktive Uhrwerk, Bewegtbilder und edles Mobiliar unterstrichen die zugleich zeitlosen wie modernen Qualitäten der edlen Uhren in den Vitrinen. Für die Gesamtproduktion und Umsetzung der Ausstellung hat 3dimensional verantwortlich gezeichnet.
