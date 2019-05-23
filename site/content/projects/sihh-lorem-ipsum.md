@@ -17,6 +17,6 @@ projectpictures:
   - 'https://ucarecdn.com/ba8015db-5d97-4d31-b8ff-c4652cf71a03/'
   - 'https://ucarecdn.com/c5703a60-eb9b-4559-a3dd-7e36834f335d/'
   - 'https://ucarecdn.com/6d514b8f-4e8b-4740-abd4-d414c3d7c169/'
-  - 'https://ucarecdn.com/f2eb611b-eafe-4e8b-8164-57b6b913981e/'
+  - 'https://ucarecdn.com/0638d08c-7577-4b78-91ac-2424e573e4a4/'
 ---
 Lorem Ipsum
