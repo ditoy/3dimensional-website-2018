@@ -21,4 +21,4 @@ projectpictures:
   - 'https://ucarecdn.com/343358a8-feb9-4a74-99a9-0a7c35f15a2d/'
   - 'https://ucarecdn.com/f1d9a4e9-6927-46e1-8108-e2912e109774/'
 ---
-Am Zürcher Film Festival stiftet IWC Schaffhausen jeweils den Preis von 100'000.- für die Produktionsförderung. Wird der Award an die Gewinner überreicht, fühlen wir uns auch bei 3dimensional geehrt — durften wir doch die begehrten Trophäen produzieren.
+Am Zürcher Film Festival stiftet IWC Schaffhausen jeweils den Preis von CHF 100'000.- für die Produktionsförderung. Der «Verein zur Filmförderung in der Schweiz» vergibt den Preis vollumfänglich an Filmprojekte zu deren Unterstützung. Wenn die Jury aus den Einreichungen die vielversprechendsten Filmproduktionen wählt und den Preis überreicht, fühlen wir uns auch bei 3dimensional geehrt — durften wir doch die begehrten Trophäen in unseren Ateliers produzieren.
