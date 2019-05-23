@@ -15,8 +15,8 @@ imageAlt: ''
 teaser: Lorem ipsum
 projectpictures:
   - 'https://ucarecdn.com/4505ad41-604e-4ddc-bdbb-883017b52917/'
-  - 'https://ucarecdn.com/220b4d1c-0c81-4ae7-9323-bc753abcd243/'
   - 'https://ucarecdn.com/a1e3f4cf-8abc-4d89-a758-438a515b1f4f/'
+  - 'https://ucarecdn.com/220b4d1c-0c81-4ae7-9323-bc753abcd243/'
   - 'https://ucarecdn.com/0af25021-9cdf-4e33-9351-253ba0159310/'
 ---
 Lorem ipsum
