@@ -12,7 +12,7 @@ activities:
   - Display
   - Wandgestaltung
 image: 'https://ucarecdn.com/6a5311ce-8dc6-4baa-bc8b-c538642fdf13/'
-teaser: 'Wer es gesehen hat weiss: Das Uhrwerk ist ein Kunstwerk'
+teaser: 'Man muss es gesehen haben um zu verstehen: Das Uhrwerk ist ein Kunstwerk'
 projectpictures:
   - 'https://ucarecdn.com/dafb9b58-ca12-4992-a625-e957aa53ca64/'
   - 'https://ucarecdn.com/73e0a4c7-74b5-4aaf-bb21-32a5caca78e3/'
