@@ -11,6 +11,6 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appTitle }}{{ end }}" />
   <meta property="og:description" content="{{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appDescription }}{{ end }}" />
-  <meta property="og:url" content="{{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appSitemapUrl }}{{ .Permalink }}{{ end }}" />
+  <meta property="og:url" content="{{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appSitemapUrl }}{{ $.Permalink }}{{ end }}" />
   <meta property="og:image" content="{{ with ($.Site.GetPage "page" "configuration/config.md") }}{{ .Params.appImage }}{{ end }}" />
 </head>
