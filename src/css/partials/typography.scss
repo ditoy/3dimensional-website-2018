@@ -206,7 +206,9 @@ li {
   break-before: avoid;
 
   &.nowrap {
-    white-space: nowrap !important;
+    span {
+      white-space: nowrap !important;
+    }
   }
 
   &.text-heading {

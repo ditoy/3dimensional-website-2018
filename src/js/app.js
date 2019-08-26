@@ -480,6 +480,24 @@ if (!!customersList) {
             }
         });
     }
+
+    const nowrapItems = customersList.querySelectorAll('li.nowrap');
+    if (!!nowrapItems) {
+        forEach(nowrapItems, (item) => {
+            var customerName = item.childNodes[0].nodeValue;
+            var customerNameParts = customerName.split(' ');
+            console.log(customerNameParts);
+            var nameParts = customerNameParts.length;
+            if (nameParts >= 3) {
+                customerName = customerNameParts.slice(0, (nameParts - 2)).join(' ');
+                customerName += ' <span>';
+                customerName += customerNameParts.slice((nameParts - 2)).join(' ');
+                customerName += '</span>';
+                item.innerHTML = customerName;
+            }
+        });
+    }
+
 }
 
 

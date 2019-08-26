@@ -13,8 +13,4 @@
   @include media(">tablet") {
     column-count: 3;
   }
-
-  li.nowrap {
-    white-space: nowrap;
-  }
 }
