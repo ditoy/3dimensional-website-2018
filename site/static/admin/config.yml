@@ -184,3 +184,4 @@ collections: # A list of collections the CMS should be able to edit
     fields:
     - { label: "Kunde", name: "title", widget: "string", tagname: "h1" }
     - { label: "Nicht auf Website publizieren", name: "draft", widget: "boolean", default: true, required: false }
+    - { label: "Zeilenumbruch verhindern", name: "forceNowrap", widget: "boolean", default: false, required: false }

@@ -143,9 +143,9 @@
                             {{ $current := . }}
                             <li class="text-heading">{{ $current }}</li>
                             {{ range $collection }}
-                            {{ if eq (lower (substr .Params.title 0 1)) (lower $current) }}
-                            <li>{{ .Params.title }}</li>
-                            {{ end }}
+                                {{ if eq (lower (substr .Params.title 0 1)) (lower $current) }}
+                                    <li{{ if .Params.forceNowrap }} class="nowrap"{{ end }}>{{ .Params.title }}</li>
+                                {{ end }}
                             {{ end }}
                         </ul>
                     {{ end }}
