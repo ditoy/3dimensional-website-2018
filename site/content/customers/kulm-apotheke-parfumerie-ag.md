@@ -1,7 +1,6 @@
-﻿---
-title:          "Kulm Apotheke & Parfümerie AG"
-date:           "2018-07-05"
-draft:          false
-robotsExclude:  true
-forceNowrap:    false
 ---
+title: Kulm Apotheke & Parfümerie AG
+draft: false
+forceNowrap: true
+---
+
