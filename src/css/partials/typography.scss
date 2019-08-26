@@ -205,6 +205,10 @@ ul {
 li {
   break-before: avoid;
 
+  &.nowrap {
+    white-space: nowrap !important;
+  }
+
   &.text-heading {
     break-before: avoid;
     font-weight: 700;
