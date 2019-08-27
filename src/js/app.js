@@ -486,7 +486,6 @@ if (!!customersList) {
         forEach(nowrapItems, (item) => {
             var customerName = item.childNodes[0].nodeValue;
             var customerNameParts = customerName.split(' ');
-            console.log(customerNameParts);
             var nameParts = customerNameParts.length;
             if (nameParts >= 3) {
                 customerName = customerNameParts.slice(0, (nameParts - 2)).join(' ');
