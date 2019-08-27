@@ -1,7 +1,6 @@
-﻿---
-title:          "Sensai / Kanebo Cosmetics Switzerland"
-date:           "2018-07-05"
-draft:          false
-robotsExclude:  true
-forceNowrap:    false
 ---
+title: Sensai / Kanebo Cosmetics Switzerland
+draft: false
+forceNowrap: true
+---
+
