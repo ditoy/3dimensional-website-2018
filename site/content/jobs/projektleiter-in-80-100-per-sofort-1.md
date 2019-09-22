@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-09-22T19:05:13.104Z
-title: Projektleiter/In 80-100% per sofort
+title: Projektleiter/In 80 - 100% per sofort
 ---
 ### Wer wir sind
 
