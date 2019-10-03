@@ -14,7 +14,7 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 ### Das ist uns wichtig
 
 * Grundausbildung als PolydesignerIn 3D, SchreinerIn oder InnenarchitektIn und darin mehrjähriger Erfahrung
-* gute EDV-Kenntnisse (VektorWorks, SektchUp, Rhino, Cinema 4D, Adobe Creative)
+* gute EDV-Kenntnisse (VectorWorks, SketchUp, Rhino, Cinema 4D, Adobe Creative Suite)
 * 25 - 40 Jahre alt
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
@@ -23,6 +23,5 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 * Teamplayer
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
-
 
 Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
