@@ -17,6 +17,9 @@ teaser: >-
   Im Ladenlokal mit Schiffs Atmosphäre fühlen sich Kids schon beim Aussuchen
   ihrer neuen Brille wohl
 projectpictures:
-  - ''
+  - 'https://ucarecdn.com/468bfb82-ffef-491d-ba56-9ccd7fd3e0f2/'
+  - 'https://ucarecdn.com/f4d4e01c-7429-4627-8487-71710616d4d3/'
+  - 'https://ucarecdn.com/4acc7853-0cb6-42c0-8cff-785902d17fb8/'
+  - 'https://ucarecdn.com/8fff1cea-18d8-4f75-a2a2-54c35575a9e1/'
 ---
 Dank kompetenter Beratung und einer entspannten Atmosphäre finden Kinder bei Sehfelder ihre Wunschbrille, mit der sie sich nicht nur wohl fühlen, sondern auch richtig gut (aus)sehen. Die Lage des traditionsreichen Optiker Geschäfts beim Stadelhofen mit Seeblick bot Inspiration zum Ausbau der Kinderabteilung in Anlehnung an das Deck eines Segelschiffs. In dieser Inszenierung macht den Kindern das Aussuchen einer Brille ganz besonders Spass. 3dimensional durfte für den Kunden das Projekt von der Idee bis zur Ausführung begleiten.
