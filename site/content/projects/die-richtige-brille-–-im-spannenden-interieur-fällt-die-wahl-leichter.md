@@ -15,7 +15,7 @@ activities:
 image: 'https://ucarecdn.com/8c3a660d-4311-43bb-8482-f949f1f5dddd/'
 teaser: >-
   Im Ladenlokal mit Schiffs Atmosphäre fühlen sich Kids schon beim Aussuchen
-  einer neuen Brille wohl
+  ihrer neuen Brille wohl
 projectpictures:
   - ''
 ---
