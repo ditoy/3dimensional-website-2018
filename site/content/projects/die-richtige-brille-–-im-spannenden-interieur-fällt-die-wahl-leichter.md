@@ -2,7 +2,7 @@
 title: Die richtige Brille – im spannenden Interieur fällt die Wahl leichter
 projectNumber: '19.3500'
 date: 2019-10-03T16:22:00.898Z
-position: 20
+position: 6
 draft: false
 Year: '2019'
 concept: true
