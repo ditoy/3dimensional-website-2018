@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2019-09-22T19:05:13.104Z
+date: 2019-03-03T23:00:00.000Z
 title: Projektleiter/In 80 - 100% per sofort
 ---
 ### Wer wir sind
@@ -13,8 +13,8 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 
 ### Das ist uns wichtig
 
-* Grundausbildung als PolydesignerIn 3D, SchreinerIn oder InnenarchitektIn und darin mehrjähriger Erfahrung
-* gute EDV-Kenntnisse (VektorWorks, SektchUp, Rhino, Cinema 4D, Adobe Creative)
+* Grundausbildung als PolydesignerIn 3D, SchreinerIn oder InnenarchitektIn und darin mehrjährige Erfahrung
+* gute EDV-Kenntnisse (Vectorworks, SketchUp, Rhino, Cinema 4D, Adobe Creative Suite)
 * 25 - 40 Jahre alt
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
@@ -23,6 +23,5 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 * Teamplayer
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
-
 
 Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
