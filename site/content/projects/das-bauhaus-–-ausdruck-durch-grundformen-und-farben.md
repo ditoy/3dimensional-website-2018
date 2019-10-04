@@ -18,4 +18,4 @@ projectpictures:
   - 'https://ucarecdn.com/52e1bc34-9dd3-414e-a125-1aee61766eda/'
   - 'https://ucarecdn.com/3924b362-7264-40aa-8a28-f600c021542f/'
 ---
-
+Das 1919 gegründete Bahaus ist bis heute Inbegriff der klassisch modernen Gestaltung in den Bereichen des Designs, der Kunst und der Architektur. Eines der am Bauhaus gelehrten gestalterischen Prinzipien war die Rückbesinnung auf Grundformen und -farben. Die Resonanz des Bauhauses hält bis heute an und übt Einfluss auf Designprodukte aus, wie die Brillenkollektion von Optiker Götte an der Bahnhofstrasse in Zürich. Grund genug für uns bei 3dimensional das Bauhaus-Thema auch im Schaufenster unseres Kunden aufzugreifen und sichtbar zu machen. Von der Idee bis zur Umsetzung hat 3dimensional für die Götte Optik AG im Projekt den Lead übernommen.
