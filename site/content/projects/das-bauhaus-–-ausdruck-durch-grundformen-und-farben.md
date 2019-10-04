@@ -13,6 +13,9 @@ teaser: >-
   Die gestalterischen Prinzipien des Bauhaus faszinieren auch im Optiker
   Schaufenster
 projectpictures:
-  - ''
+  - 'https://ucarecdn.com/b6c73bf7-d1de-43e8-875a-f39c7dc869b3/'
+  - 'https://ucarecdn.com/3a4aa55f-6809-45b9-b451-d2cb3b3a4d7b/'
+  - 'https://ucarecdn.com/52e1bc34-9dd3-414e-a125-1aee61766eda/'
+  - 'https://ucarecdn.com/3924b362-7264-40aa-8a28-f600c021542f/'
 ---
 
