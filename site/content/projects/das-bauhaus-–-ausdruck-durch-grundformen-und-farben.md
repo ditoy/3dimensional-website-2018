@@ -10,8 +10,8 @@ planning: true
 implementation: true
 image: 'https://ucarecdn.com/4823c91c-d74f-4f05-bcc7-8c2c52c17f6c/'
 teaser: >-
-  Die gestalterischen Prinzipien des Bauhaus wirken auch im Schaufenster
-  faszinierend
+  Die gestalterischen Prinzipien des Bauhaus faszinieren auch im Optiker
+  Schaufenster
 projectpictures:
   - ''
 ---
