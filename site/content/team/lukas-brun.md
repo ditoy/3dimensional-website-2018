@@ -6,8 +6,8 @@ robotsExclude: false
 title: Lukas Brun
 function: Schreiner
 quote: >-
-  Ich mag es, wenn Lösungen gefunden werden, auch wenn es unmöglich scheint –
-  und schlussendlich überzeugt das Ergebnis alle.
+  Ich mag es Lösungen zu finden, auch dann, wenn es unmöglich scheint – und
+  schlussendlich überzeugt das Ergebnis alle.
 email: brun@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/4c5901bb-23df-48c9-8a34-a00da881814c/'
