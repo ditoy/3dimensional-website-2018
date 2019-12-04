@@ -1,6 +1,6 @@
 ---
 date: 2018-11-21T08:54:19.402Z
-position: 40
+position: 45
 draft: false
 robotsExclude: false
 title: Moni Bamert
