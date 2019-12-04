@@ -8,7 +8,7 @@ function: Schreiner
 quote: >-
   Wenn wir als Team gut zusammenarbeiten und meine Ideen und Erfahrung gefragt
   sind – so macht es mir Spass, Projekte zu realisieren.
-email: markus@3dimensional.ch
+email: fischer@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/a96946d0-e376-4a0e-9b2a-268f99d7af68/'
 ---
