@@ -1,6 +1,6 @@
 ---
 date: 2018-11-21T08:42:17.587Z
-position: 40
+position: 50
 draft: false
 robotsExclude: false
 title: Rahel Stäheli
