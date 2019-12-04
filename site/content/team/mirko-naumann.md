@@ -1,6 +1,6 @@
 ---
 date: '2018-07-01'
-position: 50
+position: 60
 draft: false
 robotsExclude: false
 title: Mirko Naumann
