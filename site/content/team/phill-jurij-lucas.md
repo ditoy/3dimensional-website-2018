@@ -12,4 +12,4 @@ email: lucas@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/'
 ---
-
+Die Freude am Erschaffen von schönen und praktischen Dingen mit den Händen entdeckte Phill Lucas im Werkunterricht der Steinerschule. Die Schreinerlehre bot Gelegenheit neben dem Möbel- und Innenausbau die ganze Breite des Schreiner Handwerks kennenzulernen. Seit dem Schritt in unser Produktionsteam erweitert er sein Repertoire in der Bearbeitung von Holz um eine Vielzahl neuer Materialien. Und auch ausserhalb unserer Ateliers bleibt er vielseitig – sei es beim Fliegenfischen, Möbelbauen oder Malen und Zeichnen – mit geschickter Hand fängt er Fische und Ideen ein.
