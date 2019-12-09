@@ -6,10 +6,10 @@ robotsExclude: false
 title: Lukas Brun
 function: Schreiner
 quote: >-
-  Ich mag es Lösungen zu finden, auch dann, wenn es unmöglich scheint – und
-  schlussendlich überzeugt das Ergebnis alle.
+  Mich fasziniert es Lösungen zu finden – auch wenn es unmöglich scheint – und
+  am Schluss mit dem Ergebnis alle zu überzeugen.
 email: brun@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/4c5901bb-23df-48c9-8a34-a00da881814c/'
 ---
-Als Möbelschreiner baute Lukas Brun nach der Schreinerausbildung einen breiten Erfahrungsschatz auf. So perfektionierte er bei Embru seine Fertigkeiten im Lackieren ebenso wie beim Auffrischen von vintage Objekten als Restaurateur bei Möbel Zürich. Davon profitieren nicht nur die Kundenprojekte, die er in unseren Ateliers realisiert, sondern auch alle, die seine Faszination für alte Stahl Fahrräder teilen und eines der edlen Stahlrösser ihr Eigen nennen dürfen, die er in seiner Freizeit aufwändig und authentisch restauriert.
+Ausgebildet zum Möbelschreiner baute Lukas Brun seinen grossen Erfahrungsschatz in der Produktion und Restauration von Einrichtungen und Design Objekten auf. Sei es beim Lackieren von Oberflächen oder bei der Auffrischung von vintage Möbeln – er gibt den Dingen gerne den letzten Schliff. Davon profitieren nicht nur die Kundenprojekte, die er in unseren Ateliers realisiert, sondern auch jene, die eines seiner retro Velos erstehen, die er in seiner Freizeit edel und authentisch restauriert.
