@@ -12,4 +12,4 @@ email: brun@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/4c5901bb-23df-48c9-8a34-a00da881814c/'
 ---
-Ausgebildet zum Möbelschreiner baute Lukas Brun seinen grossen Erfahrungsschatz in der Produktion und Restauration von Einrichtungen und Design Objekten auf. Sei es beim Lackieren von Oberflächen oder bei der Auffrischung von vintage Möbeln – er gibt den Dingen gerne den letzten Schliff. Davon profitieren nicht nur die Kundenprojekte, die er in unseren Ateliers realisiert, sondern auch jene, die eines seiner retro Velos erstehen, die er in seiner Freizeit edel und authentisch restauriert.
+Ausgebildet als Möbelschreiner baute Lukas Brun seinen grossen Erfahrungsschatz in der Produktion und Restauration von Einrichtungen und Design Objekten auf. Sei es beim Lackieren von Oberflächen oder bei der Auffrischung von vintage Möbeln – er gibt den Dingen gerne den letzten Schliff. Davon profitieren nicht nur die Kundenprojekte, die er in unseren Ateliers realisiert, sondern auch jene Glücklichen, die eines seiner retro Velos erstehen, die er in seiner Freizeit authentisch und edel restauriert.
