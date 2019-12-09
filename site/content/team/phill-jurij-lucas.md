@@ -6,10 +6,10 @@ robotsExclude: false
 title: Phill-Jurij Lucas
 function: Schreiner
 quote: >-
-  Mir bedeutet es viel, mit meinen Händen Ideen umzusetzen und den Dingen eine
-  Gestalt zu geben.
+  Mir ist es wichtig, mit meinen Händen Ideen umsetzen und den Dingen eine
+  Gestalt geben zu können.
 email: lucas@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/'
 ---
-Die Freude am Erschaffen von schönen und praktischen Dingen mit den Händen entdeckte Phill Lucas im Werkunterricht der Steinerschule. Die Schreinerlehre bot Gelegenheit neben dem Möbel- und Innenausbau die ganze Breite des Schreiner Handwerks kennenzulernen. Seit dem Schritt in unser Produktionsteam erweitert er sein Repertoire in der Bearbeitung von Holz um eine Vielzahl neuer Materialien. Und auch ausserhalb unserer Ateliers mag er es vielseitig – sei es beim Fliegenfischen, Möbelbauen oder Malen und Zeichnen – mit geschickter Hand fängt er Fische und Ideen ein.
+Die Freude am Erschaffen von schönen und praktischen Dingen begleitete Phill Lucas schon immer. Mit Abschluss von Steinerschule und Schreinerlehre kam das Fachwissen hinzu. Von Möbel- bis Innenausbau – das Schreiner Handwerk ist sein Ding. Doch in seinem breiten Materialbearbeitungs Repertoire findet sich nicht nur Holz. Und so vielseitig wie es bei ihm in unseren Ateliers mit Metall, Kunststoff oder Holz zugeht, so ist es auch in seiner freien Zeit – sei es beim Fliegenfischen, Möbelbauen oder Malen und Zeichnen – mit geschickter Hand fängt er kleine Fische und grosse Ideen ein.
