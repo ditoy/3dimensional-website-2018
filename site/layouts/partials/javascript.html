@@ -41,21 +41,21 @@
         window.addEventListener('load', loadDeferredStyles);
     }
 
-    // register service worker
-    if(location.hostname !== "localhost") {
-        if('serviceWorker' in navigator) {
-            navigator.serviceWorker
-                .register('/sw.js', { scope: '/' })
-                .then(function(registration) {
-                    console.log('Service Worker Registered');
-                });
-            navigator.serviceWorker
-                .ready
-                .then(function(registration) {
-                    console.log('Service Worker Ready');
-                });
-        }
-    }
+    // // register service worker
+    // if(location.hostname !== "localhost") {
+    //     if('serviceWorker' in navigator) {
+    //         navigator.serviceWorker
+    //             .register('/sw.js', { scope: '/' })
+    //             .then(function(registration) {
+    //                 console.log('Service Worker Registered');
+    //             });
+    //         navigator.serviceWorker
+    //             .ready
+    //             .then(function(registration) {
+    //                 console.log('Service Worker Ready');
+    //             });
+    //     }
+    // }
 </script>
 <script type="text/javascript">
 /* New Relic Performance Monitor */
