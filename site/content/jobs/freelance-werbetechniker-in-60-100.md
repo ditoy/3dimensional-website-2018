@@ -15,7 +15,6 @@ Sie sind ausgewiesene Expert/In für die Bearbeitung von Folien, meistern beim A
 
 * Expert/In für die Bearbeitung von Folien
 * umfassende Kenntnisse im Bereich Polydesign 3d
-* umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
 * Teamplayer
 * Deutsche Muttersprache
