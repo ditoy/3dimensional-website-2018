@@ -9,7 +9,7 @@ Als dynamisches Unternehmen, welches in unterschiedlichen Bereichen der dreidime
 
 ### Was Sie auszeichnet
 
-Sie sind ausgewiesene Expert/In für die Bearbeitung von Folien, meistern beim Aufziehen auch anspruchsvollste Aufgaben und schätzen es, sich in einem kleinen Team und spannenden Umfeld weiterzuentwickeln. Verfügen Sie zudem über Erfahrung im Bereich Polydesign 3d und suchen als Freelancer/In eine neue Herausforderung, dann freuen wir uns sehr darauf, Sie kennenzulernen!
+Sie sind ausgewiesene Expert/In für die Bearbeitung von Folien, meistern beim Aufziehen auch anspruchsvollste Aufgaben und schätzen es, sich in einem kleinen Team und spannenden Umfeld weiterzuentwickeln. Verfügen Sie zudem über Erfahrung im Bereich Polydesign 3d und suchen als Freelancer/In eine neue Herausforderung, dann freuen wir uns sehr darauf Sie kennenzulernen!
 
 #### Das ist uns wichtig:
 
