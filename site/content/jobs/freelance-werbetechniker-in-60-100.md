@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2020-01-10T10:34:55.370Z
+date: 2019-03-04T23:00:00.000Z
 title: 'Freelance Werbetechniker/In, 60 - 100%'
 ---
 ### Wen wir suchen
