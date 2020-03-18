@@ -1,5 +1,5 @@
 ---
-title: a
+title: Der beliebteste Spion der Welt trägt eine Schweizer Uhr am Handgelenk
 projectNumber: '19.3823'
 date: 2020-03-17T16:58:16.048Z
 position: 20
@@ -13,7 +13,10 @@ activities:
   - Leuchtwerbung
   - Point-of-Sale
 image: 'https://ucarecdn.com/0e9c8f82-ebc6-45af-b1ee-9d72828afa4c/'
-teaser: b
+teaser: >-
+  Sinn für Mode, Abenteuergeist und Zuverlässigkeit zeichnen 007 aus – genauso
+  präsentiert sich der Spion den Fluggästen auch am Flughafen Zürich vor dem
+  Abflug.
 projectpictures:
   - 'https://ucarecdn.com/d8c2aa47-6e53-486f-b787-73e7567c9914/'
   - 'https://ucarecdn.com/eaeebb67-8b40-41e0-b52f-8298e2046352/'
