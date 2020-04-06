@@ -5,6 +5,9 @@ draft: true
 robotsExclude: false
 title: Helena Knupp
 function: Schreinerin
+quote: >-
+  Am liebsten setze ich meine Ideen und handwerklichen Fähigkeiten zur Umsetzung
+  anspruchsvoller Projekte ein – knifflige Spezialanfertigungen sind das Beste!
 email: knupp@3dimensional.ch
 phone: +41 44 422 44 25
 image: 'https://ucarecdn.com/f11ed4d5-a7eb-4f69-a241-f85d2d150e39/'
