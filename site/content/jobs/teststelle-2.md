@@ -1,11 +1,11 @@
 ---
 draft: false
 date: 2019-03-06T23:00:00.000Z
-title: 'Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich'
+title: Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Schreiner/Polymechaniker/Feinmechaniker, welche mit Liebe zum Detail arbeiten. 
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Freelancer- Schreiner/Polymechaniker/Feinmechaniker, welche mit Liebe zum Detail arbeiten.
 
 ### Was Sie auszeichnet
 
