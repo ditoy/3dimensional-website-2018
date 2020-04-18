@@ -5,7 +5,7 @@ title: Freelancer als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Freelancer- Schreiner/Polymechaniker/Feinmechaniker, welche mit Liebe zum Detail arbeiten.
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Freelance Schreiner/Polymechaniker/Feinmechaniker, welche mit Liebe zum Detail arbeiten.
 
 ### Was Sie auszeichnet
 
@@ -13,7 +13,7 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 
 #### Das ist uns wichtig:
 
-* Grundausbildung als Schreiner, Poly-/Feinmechaniker, Modellbauer, oder ähnlich.
+* Grundausbildung als SchreinerIn, Poly-/FeinmechanikerIn, ModellbauerIn, oder ähnlich.
 * 25 bis 35 Jahre alt
 * umfassende Materialkenntnisse
 * saubere und exakte Arbeitsweise
