@@ -9,7 +9,8 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Ihre Projekte betreuen sie vom ersten Kundenkontakt bis zur Schlussrechnung. 
+Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, sowie für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unseren Atelier-Mitarbeitern zusammen.
+Ihre Projekte betreuen sie vom Entwurf bis zur Fertigstellung. 
 
 ### Das ist uns wichtig
 
