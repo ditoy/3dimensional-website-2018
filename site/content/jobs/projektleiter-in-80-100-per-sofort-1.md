@@ -14,7 +14,7 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 ### Das ist uns wichtig
 
 * Grundausbildung als SchreinerIn, PolydesignerIn 3D, oder InnenarchitektIn und darin mehrjährige Erfahrung
-* gute EDV-Kenntnisse (Vectorworks, SketchUp, Rhino, Cinema 4D, Adobe Creative Suite)
+* sehr gute Kenntnisse in VectorWorks und SketchUp, sowie in Rhino, Cinema 4D und Adobe Creative Suite)
 * 25 - 40 Jahre alt
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
