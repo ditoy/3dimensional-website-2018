@@ -9,11 +9,11 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- oder Messebau sowie der Innenraumgestaltung. Ihre Projekte betreuen sie vom ersten Kundenkontakt bis zur Schlussrechnung.
+Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Ihre Projekte betreuen sie vom ersten Kundenkontakt bis zur Schlussrechnung. 
 
 ### Das ist uns wichtig
 
-* Grundausbildung als PolydesignerIn 3D, SchreinerIn oder InnenarchitektIn und darin mehrjährige Erfahrung
+* Grundausbildung als SchreinerIn, PolydesignerIn 3D, oder InnenarchitektIn und darin mehrjährige Erfahrung
 * gute EDV-Kenntnisse (Vectorworks, SketchUp, Rhino, Cinema 4D, Adobe Creative Suite)
 * 25 - 40 Jahre alt
 * umfassende Materialkenntnisse
