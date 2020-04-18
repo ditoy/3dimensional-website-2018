@@ -13,7 +13,7 @@ Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten
 
 ### Das ist uns wichtig
 
-* Grundausbildung als SchreinerIn, PolydesignerIn 3D, mit einer planerischen Weiterbildung, oder InnenarchitektIn mit mehrjährige Erfahrung in der Detail-Planung
+* Grundausbildung als SchreinerIn, PolydesignerIn 3D, mit einer planerischen Weiterbildung, oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail-Planung
 * sehr gute Kenntnisse in VectorWorks und SketchUp, sowie in Rhino, Cinema 4D und Adobe Creative Suite
 * Passion für Detaillösungen in der Innenarchitektur und im Möbelbau
 * umfassende Materialkenntnisse
