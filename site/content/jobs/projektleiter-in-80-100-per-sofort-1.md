@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-03-03T23:00:00.000Z
-title: "Projektleiter/In 80 - 100% "
+title: Projektleiter/In 80 - 100%
 ---
 ### Wer wir sind
 
