@@ -70,7 +70,6 @@ collections: # A list of collections the CMS should be able to edit
         - { label: "Footer Spalte 1", name: "column_1", widget: "markdown", tagname: "div" }
         - { label: "Footer Spalte 2", name: "column_2", widget: "markdown", tagname: "div" }
         - { label: "Footer Spalte 3", name: "column_3", widget: "markdown", tagname: "div" }
-
   - label: "Index-Seiten"
     name: "page_index"
     files:
@@ -92,18 +91,18 @@ collections: # A list of collections the CMS should be able to edit
         name: "team_index"
         file: "site/content/team/_index.md"
         fields:
-        - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
-        - { label: "Publikationsdatum", name: "date", widget: "datetime" }
-        - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+          - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
+          - { label: "Publikationsdatum", name: "date", widget: "datetime" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
       - label: "Index Jobs"
         name: "jobs_index"
         file: "site/content/jobs/_index.md"
         fields:
-        - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
-        - { label: "Publikationsdatum", name: "date", widget: "datetime" }
-        - { label: "offene Stellen?", name: "hasJobs", widget: "boolean" }
-        - { label: "Text mit offenen Stellen", name: "textJobs", widget: "markdown" }
-        - { label: "Text ohne Stellen", name: "textNoJobs", widget: "markdown" }
+          - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
+          - { label: "Publikationsdatum", name: "date", widget: "datetime" }
+          - { label: "offene Stellen?", name: "hasJobs", widget: "boolean" }
+          - { label: "Text mit offenen Stellen", name: "textJobs", widget: "markdown" }
+          - { label: "Text ohne Stellen", name: "textNoJobs", widget: "markdown" }
   - name: "page"
     label: "Weitere Seiten"
     folder: "site/content"
@@ -113,9 +112,8 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Titel", name: "title", widget: "string", tagname: "h1" }
       - { label: "Publikationsdatum", name: "date", widget: "datetime" }
       - { label: "Seiteninhalt", name: "body", widget: "markdown" }
-
-  - name: "project"
-    label: "Projekte"
+  - label: "Projekte"
+    name: "project"
     folder: "site/content/projects"
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
@@ -133,7 +131,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Aufgabenbereiche"
         name: "activities"
         widget: "list"
-        field: {label: "Aufgabenbereich", widget: "select", options: ['Ausstellungsgestaltung', 'Beschriftung', 'Bürodesign', 'Display', 'Eventgestaltung', 'Innenarchitektur', 'Leuchtendesign', 'Leuchtwerbung', 'Messegestaltung', 'Point-of-Information', 'Point-of-Sale', 'Promotionsfläche', 'Rendering', 'Schaufenstergestaltung', 'Shopdesign', 'Signaletik', 'Wandgestaltung']}
+        field: {label: "Aufgabenbereich", name: "activities", widget: "select", options: ['Ausstellungsgestaltung', 'Beschriftung', 'Bürodesign', 'Display', 'Eventgestaltung', 'Innenarchitektur', 'Leuchtendesign', 'Leuchtwerbung', 'Messegestaltung', 'Point-of-Information', 'Point-of-Sale', 'Promotionsfläche', 'Rendering', 'Schaufenstergestaltung', 'Shopdesign', 'Signaletik', 'Wandgestaltung']}
         required: false
       - { label: "Teaser-Bild", name: "image", widget: "image" }
       - { label: "Teaser-Bild Titel / Alt", name: "imageAlt", widget: "string", required: false }
@@ -141,10 +139,9 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Projektbilder"
         name: "projectpictures"
         widget: "list"
-        field: {label: "Bild", widget: "image", default: "", required: false }
+        field: {label: "Bild", name: "projectpictures", widget: "image", default: "", required: false }
         required: false
       - { label: "Seiteninhalt", name: "body", widget: "markdown", required: false }
-
   - name: "team"
     label: "Mitarbeiter"
     folder: "site/content/team"
@@ -162,7 +159,6 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Telefon", name: "phone", widget: "string", required: false }
       - { label: "Mitarbeiter-Bild", name: "image", widget: "file" }
       - { label: "Seiteninhalt", name: "body", widget: "markdown", required: false }
-
   - name: "job"
     label: "Jobs"
     folder: "site/content/jobs"
@@ -173,13 +169,12 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Publikationsdatum", name: "date", widget: "datetime" }
       - { label: "Stellenbezeichnung", name: "title", widget: "string", tagname: "h1" }
       - { label: "Seiteninhalt", name: "body", widget: "markdown" }
-
   - name: "customer"
     label: "Kundenliste"
     folder: "site/content/customers"
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields:
-    - { label: "Kunde", name: "title", widget: "string", tagname: "h1" }
-    - { label: "Nicht auf Website publizieren", name: "draft", widget: "boolean", default: true, required: false }
-    - { label: "Zeilenumbruch verhindern", name: "forceNowrap", widget: "boolean", default: false, required: false }
+      - { label: "Kunde", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Nicht auf Website publizieren", name: "draft", widget: "boolean", default: true, required: false }
+      - { label: "Zeilenumbruch verhindern", name: "forceNowrap", widget: "boolean", default: false, required: false }
