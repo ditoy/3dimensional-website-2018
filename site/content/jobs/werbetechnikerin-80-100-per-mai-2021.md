@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2021-03-16T22:28:42.909Z
+date: 2021-03-16T22:34:14.123Z
 title: WerbetechnikerIn 80 - 100% per Mai 2021 (befristet bis min. August 2021)
 ---
 ### Wer wir sind
