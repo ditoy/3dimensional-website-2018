@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2021-03-16T22:06:21.421Z
+date: 2021-03-16T22:28:42.909Z
 title: WerbetechnikerIn 80 - 100% per Mai 2021
 ---
 ### Wer wir sind
