@@ -1,7 +1,8 @@
 ---
 draft: false
 date: 2021-03-16T22:34:14.123Z
-title: WerbetechnikerIn 80 - 100% per Mai 2021 (befristet bis min. August 2021)
+title: WerbetechnikerIn 80 - 100% per Mai 2021 (befristet bis min. August 2021 -
+  mit Option auf Festanstellung)
 ---
 ### Wer wir sind
 
@@ -14,7 +15,7 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 ### Das ist uns wichtig
 
 * handwerkliche Grundausbildung als WerbetechnikerIn, PolydesignerIn 3D
-* Expert/In und langjährige Erfahrung im Umganng mit Folien und Folierungen
+* Expert/In und langjährige Erfahrung im Umgang mit Folien und Folierungen
 * umfassende Kenntnisse im Umgang mit Digitaldrucker und Schneideplotter
 * gute Kenntnisse in Adobe Programmen (Illustrator, Photoshop, Indesign)
 * handwerkliches Geschick
