@@ -7,7 +7,7 @@ title: Anna Job
 function: Polydesignerin 3D
 quote: Neue Herausforderungen zu meistern macht mir Spass und besonders freut es
   mich, wenn das Ergebnis beim Kunden gut ankommt.
-email: schick@3dimensional.ch
+email: job@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/fe5b0cb9-43ce-489b-82e2-ef0373a6134f/
 ---
