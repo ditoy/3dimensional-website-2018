@@ -36,7 +36,6 @@ const project = {
     },
     init: function(projects) {
         this.selectedProjects = projects;
-        console.log(projects);
         if (projects.length > 0) {
             const me = this;
 
