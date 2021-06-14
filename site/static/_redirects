@@ -25,7 +25,7 @@
 /produktion_realisation         /                           301!
 /montage                        /                           301!
 /kundenliste                    /                           301!
-/team                           /team/                      301!
+#/team                           /team/                      301!
 /martin_hurschler               /team/martin-hurschler/     301!
 /philipp_keusch                 /team/philipp-keusch/       301!
 /rahel_staeheli                 /team/rahel-stäheli/        301!
