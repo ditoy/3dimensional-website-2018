@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2021-08-03T16:10:21.158Z
-title: x
+title: SchreinerIn Freelance mit Option auf Festanstellung 80-100%
 ---
 ### Wer wir sind
 
