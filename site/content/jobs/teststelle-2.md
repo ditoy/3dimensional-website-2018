@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2021-03-16T22:35:20.508Z
 title: Freelance als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich
 ---
