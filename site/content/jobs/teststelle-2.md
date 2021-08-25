@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 date: 2021-03-16T22:35:20.508Z
-title: Freelance als Schreiner, Poly-/Feinmechaniker, Modellbauer oder ähnlich
+title: Freelance als PolymechanikerIn, FeinmechanikerIn,
+  ProduktionsmechanikerIn, ModellbauerIn oder ähnlich
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Freelance Schreiner/Polymechaniker/Feinmechaniker, welche mit Liebe zum Detail arbeiten.
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung suchen wir motivierte, selbständige Freelance Polymechaniker, Feinmechaniker, Produktionsmechaniker, Modellbauer, welche mit Liebe zum Detail arbeiten.
 
 ### Was Sie auszeichnet
 
@@ -13,8 +14,8 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 
 #### Das ist uns wichtig:
 
-* Grundausbildung als SchreinerIn, Poly-/FeinmechanikerIn, ModellbauerIn, oder ähnlich.
-* 25 bis 35 Jahre alt
+* Grundausbildung als PolymechanikerIn, FeinmechanikerIn, ProduktionsmechanikerIn, ModellbauerIn, oder ähnlich.
+* 25 bis 45 Jahre alt
 * umfassende Materialkenntnisse
 * saubere und exakte Arbeitsweise
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
@@ -22,4 +23,4 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
 
-Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
