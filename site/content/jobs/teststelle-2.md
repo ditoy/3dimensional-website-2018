@@ -2,7 +2,7 @@
 draft: false
 date: 2021-03-16T22:35:20.508Z
 title: Freelance als PolymechanikerIn, FeinmechanikerIn,
-  ProduktionsmechanikerIn, ModellbauerIn oder ähnlich
+  ProduktionsmechanikerIn, ModellbauerIn, SchreinerIn oder ähnlich
 ---
 ### Wer wir sind
 
@@ -14,7 +14,7 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 
 #### Das ist uns wichtig:
 
-* Grundausbildung als PolymechanikerIn, FeinmechanikerIn, ProduktionsmechanikerIn, ModellbauerIn, oder ähnlich.
+* Grundausbildung als PolymechanikerIn, FeinmechanikerIn, ProduktionsmechanikerIn, ModellbauerIn, SchreinerIn oder ähnlich.
 * 25 bis 45 Jahre alt
 * umfassende Materialkenntnisse
 * saubere und exakte Arbeitsweise
