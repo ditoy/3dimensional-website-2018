@@ -12,7 +12,7 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 
 Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen, schätzen es in einem kleinen Team zu arbeiten und möchten sich in einem spannenden Umfeld weiterentwickeln. Das trifft auf Sie zu? Dann freuen wir uns darauf Sie kennenzulernen!
 
-#### Das ist uns wichtig:
+### Das ist uns wichtig
 
 * Grundausbildung als PolymechanikerIn, FeinmechanikerIn, ProduktionsmechanikerIn, ModellbauerIn, SchreinerIn oder ähnlich.
 * 25 bis 45 Jahre alt
