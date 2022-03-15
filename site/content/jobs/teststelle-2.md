@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2021-03-16T22:35:20.508Z
+date: 2022-03-15T17:48:02.143Z
 title: Freelance als PolymechanikerIn, FeinmechanikerIn,
   ProduktionsmechanikerIn, ModellbauerIn, SchreinerIn oder ähnlich
 ---
