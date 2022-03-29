@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2022-03-29T15:31:22.835Z
 title: WerbetechnikerIn / PolydesignerIn 3D Realisation 80 - 100%  per sofort
 ---
@@ -9,7 +9,7 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen und schätzen es in einem kleinen Team zu arbeiten. Sie haben Erfahrung im Bedienen eines Flach- bettruckers und können diesen selbständig betreuen. Ihr Wissen im Umgang mit Folien ist gross und Sie kennen sich mit den gänigen Grafikprogrammen aus und erledigen Arbeiten auf dem Schneideplotter. Ihnen gefällt die Abwechslung und Sie möchten sich täglich in einem spannenden Umfeld weiterentwickeln. Dann freuen wir uns auf Sie!
+Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen und schätzen es in einem kleinen Team zu arbeiten. Sie haben Erfahrung im Bedienen eines Flachbettdrucker und können diesen selbständig betreuen. Ihr Wissen im Umgang mit Folien ist gross und Sie kennen sich mit den gängigen Grafikprogrammen aus und erledigen Arbeiten auf dem Schneideplotter. Ihnen gefällt die Abwechslung und Sie möchten sich täglich in einem spannenden Umfeld weiterentwickeln. Dann freuen wir uns auf Sie!
 
 ### Das ist uns wichtig
 
