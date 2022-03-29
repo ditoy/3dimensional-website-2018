@@ -19,7 +19,7 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 * gute Kenntnisse in Adobe Programmen (Illustrator, Indesign)
 * handwerkliches Geschick
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
-* TeamplayerIn
+* TeamplayerIn mit hohem Verantwortungsbewusstsein
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
 * 25 - 50 Jahre alt
