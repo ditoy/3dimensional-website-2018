@@ -10,7 +10,7 @@ Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidi
 ### Was Sie auszeichnet
 
 Mit Tatkraft verarbeiten Sie unterschiedliche Materialien und begeistern sich für verschiedene Aufgabestellungen. Sie schätzen es in einem Team von 20 Mitarbeitern aus SchreinerInnen, PolydesignerInnen und ProjektleiterInnen zu arbeiten. 
-Sie haben Erfahrung im Bedienen von CNC-Maschinen und können diese selbständig betreuen. Ihnen gefällt die Abwechslung und führen Arbeiten in in der Wekstatt, auf der Baustelle sowie auf Messeaufbauten aus. Sie möchten sich täglich in einem spannenden Umfeld weiterentwickeln? Dann freuen wir uns auf Sie!
+Sie haben Erfahrung im Bedienen von CNC-Maschinen und können diese selbständig betreuen. Ihnen gefällt die Abwechslung und Sie führen Arbeiten in der Werkstatt, auf der Baustelle sowie auf Messeaufbauten aus. Sie möchten sich täglich in einem spannenden Umfeld weiterentwickeln? Dann freuen wir uns auf Sie!
 
 ### Das ist uns wichtig
 
