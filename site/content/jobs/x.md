@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2022-03-15T17:44:38.450Z
-title: SchreinerIn 80-100% per sofort
+title: Schreiner/In 80-100% per sofort
 ---
 ### Wer wir sind
 
