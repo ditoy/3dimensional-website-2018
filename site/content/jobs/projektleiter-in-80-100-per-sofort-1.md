@@ -1,21 +1,22 @@
 ---
-draft: true
-date: 2021-03-16T22:35:08.133Z
-title: Projektleiter/In 80 - 100%
+draft: false
+date: 2022-04-07T21:09:41.460Z
+title: Projektleiter/In 80 - 100% per sofort
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte und selbständige ProjektleiterIn, welche mit viel Liebe zum Detail arbeitet.
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Kunden im In- und Auslandund, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
+
+Für unsere Planungsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte und selbständige ProjektleiterIn, welche mit viel Liebe zum Detail arbeitet.
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, wie auch für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unseren Atelier-Team zusammen.
-Ihre Projekte betreuen sie vom Entwurf bis zur Fertigstellung. 
+Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, wie auch für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unserem Werkstatt-Team zusammen. Sie haben Erfahrung in der Aufbereitung von CNC-Maschinendaten und betreuen Ihre Projekte vom Entwurf bis zur Fertigstellung. Sie können sich auch vorstellen, bei Bedarf in der Werkstatt mitzuwirken.
 
 ### Das ist uns wichtig
 
-* Grundausbildung als SchreinerIn, PolydesignerIn 3D, mit einer planerischen Weiterbildung, oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail-Planung
-* sehr gute Kenntnisse in VectorWorks und SketchUp, sowie in Rhino, Cinema 4D und Adobe Creative Suite
+* Grundausbildung als SchreinerIn oder PolydesignerIn 3D mit einer planerischen Weiterbildung oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
+* sehr gute Kenntnisse in VektorWorks, SektchUp, sowie in Rhino, Cinema 4D und Adobe Suite
 * Passion für Detaillösungen in der Innenarchitektur und im Möbelbau
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
@@ -24,6 +25,6 @@ Ihre Projekte betreuen sie vom Entwurf bis zur Fertigstellung.
 * Teamplayer
 * Deutsche Muttersprache und gute Englischkenntnisse
 * Führerausweis Kategorie B
-* 25 - 40 Jahre alt
 
-Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
+
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
