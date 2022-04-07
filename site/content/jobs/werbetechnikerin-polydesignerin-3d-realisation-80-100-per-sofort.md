@@ -5,7 +5,9 @@ title: Werbetechniker/In / Polydesigner/In 3D Realisation 80 - 100%  per sofort
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte, selbständige WerbetechnikerIn oder PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Kunden im In- und Auslandund, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
+
+Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte, selbständige WerbetechnikerIn oder PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
 
 ### Was Sie auszeichnet
 
@@ -22,6 +24,6 @@ Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für 
 * TeamplayerIn mit hohem Verantwortungsbewusstsein
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
-* 25 - 50 Jahre alt
 
-Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
+
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
