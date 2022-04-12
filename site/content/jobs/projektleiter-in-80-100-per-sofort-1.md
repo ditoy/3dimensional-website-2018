@@ -5,7 +5,8 @@ title: Projektleiter/In 80 - 100% per sofort
 ---
 ### Wer wir sind
 
-Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen Gestaltung tätig ist. Für unsere Kunden im In- und Auslandund, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
+Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen 
+Gestaltung tätig ist. Für unsere Kunden im In- und Ausland und, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
 
 Für unsere Planungsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte und selbständige ProjektleiterIn, welche mit viel Liebe zum Detail arbeitet.
 
@@ -28,5 +29,4 @@ Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannende
 * Deutsche Muttersprache und gute Englischkenntnisse
 * Führerausweis Kategorie B
 
-
-Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an <mailto:jobs@3dimensional.ch>
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
