@@ -1,5 +1,6 @@
 <script async type="application/javascript" src="app.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EGVTCL30LH"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4431771-16"></script><!-- OLD GA ID, FINALLY REMOVE -->
 <noscript id="deferred-styles">
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
 </noscript>
@@ -22,6 +23,12 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', gaId, { 'anonymize_ip': true });
+
+    // re-adding old ID until UA service ends 20220623/ditoy
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-4431771-16', { 'anonymize_ip': true });
 
     // deferred loading of stylesheets
     var loadDeferredStyles = function() {
