@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21T09:07:28.469Z
 position: 40
-draft: false
+draft: true
 robotsExclude: false
 title: Laura Michel
 function: Polydesignerin 3D
