@@ -8,6 +8,6 @@ function: IWC Visual Merchandiser
 quote: Zitat
 email: rolf.gantenbein@3dimensional.ch
 phone: +41 44 422 44 14
-image: https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/
+image: https://ucarecdn.com/348fe24e-d5fa-41b6-8838-74def6950caf/
 ---
 Mein Text.
