@@ -8,6 +8,6 @@ function: Polydesignerin 3D
 quote: Zitat
 email: samaan@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/
+image: https://ucarecdn.com/79a5af53-e52f-418e-960d-f3c08fa2763a/
 ---
 Mein Text.
