@@ -8,6 +8,6 @@ function: Schreiner
 quote: Zitat
 email: deragisch@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/
+image: https://ucarecdn.com/f306ade6-254c-4108-8836-77cdb5e0c6d6/
 ---
 Mein Text.
