@@ -8,6 +8,6 @@ function: Projektleiter
 quote: Zitat
 email: elsener@3dimensional.ch
 phone: +41 44 422 44 20
-image: https://ucarecdn.com/f300d451-0ab5-4600-8390-043587094165/
+image: https://ucarecdn.com/f26866df-eeef-411e-9435-266db67d56d7/
 ---
 Mein Text.
