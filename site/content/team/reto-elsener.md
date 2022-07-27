@@ -4,7 +4,7 @@ position: 46
 draft: true
 robotsExclude: false
 title: Reto Elsener
-function: Projektleiter
+function: Projektleiter - Teamleiter Projektleiter
 quote: Zitat
 email: elsener@3dimensional.ch
 phone: +41 44 422 44 20
