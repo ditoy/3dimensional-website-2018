@@ -2,6 +2,10 @@
 
 Website Relaunch für die 3dimensional AG basierend auf dem Hugo Static Site Generator. 
 
+Zuerst ausführen:
+
+`nvm use 8`
+
 ### Development
 
     brew install hugo
