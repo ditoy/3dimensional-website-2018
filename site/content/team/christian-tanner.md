@@ -4,7 +4,7 @@ position: 44
 draft: true
 robotsExclude: false
 title: Christian Tanner
-function: Projektleiter
+function: Projektleiter, Schreiner
 email: tanner@3dimensional.ch
 phone: +41 44 422 44 18
 image: https://ucarecdn.com/84b67451-6af1-4bc3-9670-4f63490a837d/
