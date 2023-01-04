@@ -10,4 +10,7 @@ email: deragisch@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/f306ade6-254c-4108-8836-77cdb5e0c6d6/
 ---
-Mein Text.
+Nach seinen Abenteuern in den Staaten und London hinter der Bar, auf dem Filmset und in der Kulinarik konnten wir Renzo überzeugen, sich mit seiner Schreiners-Kunst bei uns niederzulassen.
+
+Mit seinem Auge fürs Detail ist er bei uns auch genau an der richtigen Stelle.
+Ausserdem hebt er, so fit wie der Rest von uns zusammen, unsere Durchschnittsform optimal an. 
