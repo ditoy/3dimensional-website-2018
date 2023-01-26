@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2022-05-18T18:57:56.047Z
+date: 2023-01-26T16:37:45.937Z
 title: Schreiner/In 80-100% per sofort.
 ---
 ### Wer wir sind
