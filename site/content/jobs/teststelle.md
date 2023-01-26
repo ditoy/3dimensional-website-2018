@@ -1,7 +1,7 @@
 ---
 draft: true
 date: 2019-03-04T23:00:00.000Z
-title: Schreiner/In mit Werkstattverantwortung 80 - 100% per sofort
+title: Schreiner/In mit Werkstattverantwortung 80 - 100% per sofort.
 ---
 ### Wer wir sind
 
