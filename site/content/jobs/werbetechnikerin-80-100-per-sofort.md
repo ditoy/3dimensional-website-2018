@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-01-26T16:15:19.974Z
+date: 2023-01-26T16:35:21.192Z
 title: WerbetechnikerIn 80 - 100% per sofort
 ---
 ### Wer wir sind
