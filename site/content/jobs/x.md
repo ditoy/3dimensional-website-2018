@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2022-03-15T17:44:38.450Z
+date: 2023-01-26T16:37:07.525Z
 title: Schreiner/In mit CNC Erfahrung 80-100% per sofort.
 ---
 ### Wer wir sind
