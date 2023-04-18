@@ -13,7 +13,7 @@ public_folder: "./images/uploads"
 media_library:
   name: uploadcare
   config:
-    publicKey: 42a82efc029dfc05c607
+    publicKey: f0fea9816057c30bf5ca
 
 collections: # A list of collections the CMS should be able to edit
 
