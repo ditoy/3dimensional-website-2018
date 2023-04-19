@@ -3,7 +3,7 @@ slide1_image: https://ucarecdn.com/c6b16002-c28c-4852-bc7a-130d61e79e4e/
 slide1_claim: Wir haben das scharfe Auge für Details, die in Ihrem Projekt den
   Unterschied machen.
 slide1_color: black
-slide2_image: https://ucarecdn.com/4ed947fd-0084-464f-a6db-af15c20ef84a/
+slide2_image: https://ucarecdn.com/b0a98ac9-8759-4885-a796-19718f5c67df/
 slide2_claim: Ob Showroom, Ausstellung oder Schaufenster – wir gestalten Ihr Display.
 slide2_color: black
 slide3_image: https://ucarecdn.com/e024bd62-e671-4ced-8f77-d054c21e11d2/
