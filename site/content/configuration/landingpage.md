@@ -9,7 +9,7 @@ slide2_color: black
 slide3_image: https://ucarecdn.com/cd2968f8-1781-415e-a0a8-c4ef033e05f5/
 slide3_claim: Hohe Qualität, kurze Entscheidungswege – unsere Nähe ist Ihr Vorteil.
 slide3_color: black
-slide4_image: https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/
+slide4_image: https://ucarecdn.com/89d6b94f-7f11-449e-a205-3d38178e99ab/
 slide4_claim: Ob Hochglanz oder Glanzvoll – wir verleihen Ihrem Auftritt Strahlkraft.
 slide4_color: white
 slide5_image: https://ucarecdn.com/acd8afbe-31d0-40bf-ac70-c69cd72fc731/
