@@ -19,7 +19,7 @@ slide6_image: https://ucarecdn.com/9cf2907c-2a2d-4fbd-a1a3-02e499d13cfa/
 slide6_claim: Sie haben leuchtende Ideen – wir Kreativität und Erfahrung in der
   Arbeit mit Licht.
 slide6_color: white
-quote1_image: https://ucarecdn.com/f053a0cb-fc89-4f4c-aac5-6ec3c1979187/
+quote1_image: https://ucarecdn.com/8d0678b4-3552-4511-bc10-21d6eae47a7c/
 quote1: Wir verstehen uns als Partnerunternehmen für die Ideenfindung und
   Umsetzung dreidimensionaler Projekte mit höchsten Ansprüchen.
 quote2_image: https://ucarecdn.com/af37390e-9826-4948-b6a0-b7918803a3a5/
