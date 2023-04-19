@@ -22,10 +22,10 @@ slide6_color: white
 quote1_image: https://ucarecdn.com/f053a0cb-fc89-4f4c-aac5-6ec3c1979187/
 quote1: Wir verstehen uns als Partnerunternehmen für die Ideenfindung und
   Umsetzung dreidimensionaler Projekte mit höchsten Ansprüchen.
-quote2_image: https://ucarecdn.com/4d2070c9-81ab-4b81-bdf3-37bec2043caa/
+quote2_image: https://ucarecdn.com/af37390e-9826-4948-b6a0-b7918803a3a5/
 quote2: Setzen Sie für die Produktion Ihrer 3dimensionalen Ideen auf unser
   interdisziplinäres Team aus erfahrenen Designern, Planern und Handwerkern.
-quote3_image: https://ucarecdn.com/24ad3427-7ea5-4078-8b98-1de045ae756b/
+quote3_image: https://ucarecdn.com/74442b8f-7182-419e-a028-15293f685369/
 quote3: Sprechen Sie mit uns über Ihre Projektidee! Wir realisieren auch
   anspruchsvolle 3dimensionale Konzepte mit höchsten ästhetischen Anforderungen.
 ---
