@@ -15,7 +15,7 @@ slide4_color: white
 slide5_image: https://ucarecdn.com/acd8afbe-31d0-40bf-ac70-c69cd72fc731/
 slide5_claim: Vom Entwurf bis zum fertigen Produkt – Ihre Idee nimmt bei uns Form an.
 slide5_color: white
-slide6_image: https://ucarecdn.com/4b7e5333-5061-4070-a756-46c62e4dee87/
+slide6_image: https://ucarecdn.com/5962fa89-809c-4985-bd9c-8effe5aeb900/
 slide6_claim: Sie haben leuchtende Ideen – wir Kreativität und Erfahrung in der
   Arbeit mit Licht.
 slide6_color: white
