@@ -12,7 +12,7 @@ slide3_color: black
 slide4_image: https://ucarecdn.com/51139e73-104e-41bf-8ff4-56b5d57d14bf/
 slide4_claim: Ob Hochglanz oder Glanzvoll – wir verleihen Ihrem Auftritt Strahlkraft.
 slide4_color: white
-slide5_image: https://ucarecdn.com/a033f7b0-ace0-4e35-9347-21a277f65d0a/
+slide5_image: https://ucarecdn.com/3fbd17f1-f91e-4d4e-8be0-44963ba87194/
 slide5_claim: Vom Entwurf bis zum fertigen Produkt – Ihre Idee nimmt bei uns Form an.
 slide5_color: white
 slide6_image: https://ucarecdn.com/4b7e5333-5061-4070-a756-46c62e4dee87/
