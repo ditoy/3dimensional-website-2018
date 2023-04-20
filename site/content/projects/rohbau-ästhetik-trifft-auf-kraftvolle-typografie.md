@@ -1,23 +1,22 @@
 ---
 title: Rohbau Ästhetik trifft auf kraftvolle Signaletik
-projectNumber: '14.1747'
+projectNumber: "14.1747"
 date: 2018-10-08T12:52:14.131Z
 position: 2
 draft: false
-Year: '2018'
+Year: "2018"
 concept: false
 planning: true
 implementation: true
 activities:
   - Signaletik
-image: 'https://ucarecdn.com/8e5bf9e7-a1d0-40fc-a618-d65cd7b9efd6/'
-teaser: >-
-  Entweder man liebt Sichtbeton oder nicht. Aber frisches Grün, das mögen doch
-  alle gern.
+image: https://ucarecdn.com/6da56e5b-cd95-4f7f-93a4-edeeaba48217/
+teaser: Entweder man liebt Sichtbeton oder nicht. Aber frisches Grün, das mögen
+  doch alle gern.
 projectpictures:
-  - 'https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/'
-  - 'https://ucarecdn.com/8d7302b9-508e-4bcf-b5e1-1eeabb5745c6/'
-  - 'https://ucarecdn.com/d95f8ced-cf5d-4c63-bc4f-4e0c5d1b80f4/'
-  - 'https://ucarecdn.com/761cc649-005a-4f2d-854b-ba45ec98d9e3/'
+  - https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/
+  - https://ucarecdn.com/8d7302b9-508e-4bcf-b5e1-1eeabb5745c6/
+  - https://ucarecdn.com/d95f8ced-cf5d-4c63-bc4f-4e0c5d1b80f4/
+  - https://ucarecdn.com/761cc649-005a-4f2d-854b-ba45ec98d9e3/
 ---
 Auf dem Spinnerei-Areal der Blumer Söhne + Cie. AG steht das altgediente Spinnereigebäude, welches seinen Mietern eine zeitgemässe Nutzung als Geschäftsräume und ein besonderes, historisches Erlebnis bietet. Für die Beschriftung der neu ausgebauten Gebäude und Räume wurde eine ebenso klare wie kräftige Form gefunden, die 3dimensional nach dem Entwurf von Ditoy Digitalagentur umgesetzt hat.
