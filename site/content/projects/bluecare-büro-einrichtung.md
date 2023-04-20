@@ -12,13 +12,13 @@ activities:
   - Bürodesign
   - Innenarchitektur
   - Leuchtendesign
-image: https://ucarecdn.com/6974109c-fb78-492b-9dce-b93b431fb24a/
+image: https://ucarecdn.com/7ee8fb79-211c-435c-bdcf-089819272b53/
 imageAlt: ""
 teaser: Neugestaltung der Bürowelt für den eHealth Dienstleister Bluecare
 projectpictures:
-  - https://ucarecdn.com/af4cd435-1522-47a6-ab68-9e47eb9737c4/
-  - https://ucarecdn.com/92dfade0-36f9-4946-af58-48f53c497dc3/
-  - https://ucarecdn.com/85b3184b-1505-4936-adc5-575082cb2e19/
-  - https://ucarecdn.com/6710d63f-b166-4a6b-9177-3f909d7a6213/
+  - https://ucarecdn.com/04c924cf-247b-45df-a45b-3ed13f5c71aa/
+  - https://ucarecdn.com/498f6784-c8ba-4a0b-84f3-08352f3eab45/
+  - https://ucarecdn.com/9ee1a635-418e-4a2d-858f-b4554122be3f/
+  - https://ucarecdn.com/88c9198d-a31f-48d7-9384-e0c57da9cdab/
 ---
 Mit unserem Gestaltungskonzept für die Sitzungszimmer, Büros und die Kantine von Bluecare heben wir die spezifischen Qualitäten jeden Raumes für den Komfort und das Wohlbefinden der Mitarbeiter und Besucher hervor und lassen zugleich jeden Raum einen Beitrag zur Identität der Bürowelt des Unternehmens leisten.
