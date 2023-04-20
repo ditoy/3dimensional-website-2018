@@ -14,9 +14,9 @@ image: https://ucarecdn.com/6da56e5b-cd95-4f7f-93a4-edeeaba48217/
 teaser: Entweder man liebt Sichtbeton oder nicht. Aber frisches Grün, das mögen
   doch alle gern.
 projectpictures:
-  - https://ucarecdn.com/7e6cfb0d-8d3b-45fa-8843-38e74d1ed19e/
-  - https://ucarecdn.com/8d7302b9-508e-4bcf-b5e1-1eeabb5745c6/
-  - https://ucarecdn.com/d95f8ced-cf5d-4c63-bc4f-4e0c5d1b80f4/
-  - https://ucarecdn.com/761cc649-005a-4f2d-854b-ba45ec98d9e3/
+  - https://ucarecdn.com/e60d0675-7153-4464-b073-2ea1517c2226/
+  - https://ucarecdn.com/ddacb957-cf38-4cee-a126-c560d053f90e/
+  - https://ucarecdn.com/cf957f49-87a4-4fd3-8717-0201893c8ca0/
+  - https://ucarecdn.com/e01c3a30-081d-4816-a2e6-c649119625cb/
 ---
 Auf dem Spinnerei-Areal der Blumer Söhne + Cie. AG steht das altgediente Spinnereigebäude, welches seinen Mietern eine zeitgemässe Nutzung als Geschäftsräume und ein besonderes, historisches Erlebnis bietet. Für die Beschriftung der neu ausgebauten Gebäude und Räume wurde eine ebenso klare wie kräftige Form gefunden, die 3dimensional nach dem Entwurf von Ditoy Digitalagentur umgesetzt hat.
