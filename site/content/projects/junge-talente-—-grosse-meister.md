@@ -1,22 +1,22 @@
 ---
 title: Junge Talente – Grosse Meister
-projectNumber: '13.1545'
+projectNumber: "13.1545"
 date: 2018-09-19T12:37:11.268Z
 position: 20
 draft: false
-Year: '2013'
+Year: "2013"
 concept: true
 planning: true
 implementation: true
 activities:
   - Eventgestaltung
-image: 'https://ucarecdn.com/a579fadc-04ff-4583-987f-5d82b9769ad3/'
-imageAlt: ''
+image: https://ucarecdn.com/1c453202-3ceb-4615-a9a4-03d247964409/
+imageAlt: ""
 teaser: Damit junge Solisten dereinst gross rauskommen brauchen sie die richtige Bühne
 projectpictures:
-  - 'https://ucarecdn.com/e115761a-68f1-4011-bd1f-50b17eb0eb04/'
-  - 'https://ucarecdn.com/e4172305-1d32-4ed4-9a99-039d00420d69/'
-  - 'https://ucarecdn.com/98d1195a-a34d-40df-8204-7fe0e3344a4e/'
-  - 'https://ucarecdn.com/899aa235-bec7-4bd3-b06f-452391ee3213/'
+  - https://ucarecdn.com/e8282ee0-e118-4c5a-bcf1-a50356239edb/
+  - https://ucarecdn.com/f6ec3827-756d-4c40-8f87-018e8598e745/
+  - https://ucarecdn.com/d911374e-cd90-4779-8ec0-11513bd51572/
+  - https://ucarecdn.com/4f8a89f5-29d8-46df-9b4c-b16d45532814/
 ---
 Seit über 20 Jahren setzt sich die Orpheum Stiftung für sinnvolle und nachhaltige Förderung junger Solisten ein. Nebst der bemerkenswerten musikalischen Plattform werden die einzelnen Talente auf einer eigens geschaffenen Bühne im Foyer der Tonhalle Zürich näher vorgestellt. Wir von 3dimensional zeichneten für die Umsetzung sämtlicher Signaletik und die Gestaltung der Bühne verantwortlich.
