@@ -1,9 +1,10 @@
 ---
 title: Die Zukunft entsteht heute
+projectNumber: Credit Suisse Megatrends
 date: 2018-09-18T14:47:46.027Z
 position: 20
 draft: false
-Year: '2008'
+Year: "2008"
 concept: true
 planning: true
 implementation: true
@@ -11,15 +12,14 @@ activities:
   - Ausstellungsgestaltung
   - Messegestaltung
   - Point-of-Information
-image: 'https://ucarecdn.com/a98ceca3-e532-4606-92ed-3f4ac6ff2978/-/preview/'
-imageAlt: ''
-teaser: >-
-  Megatrends – Wanderausstellung zu den Themen Nachhaltigkeit, Multipolare Welt
-  und Demographie
+image: https://ucarecdn.com/9466321f-6ac8-4cd1-a842-8d71440c0f91/
+imageAlt: ""
+teaser: Megatrends – Wanderausstellung zu den Themen Nachhaltigkeit, Multipolare
+  Welt und Demographie
 projectpictures:
-  - 'https://ucarecdn.com/eb0cbee8-994e-4ef1-8c46-0ff534fa39a6/'
-  - 'https://ucarecdn.com/35790bb8-c7a6-4993-a296-323e2cff613c/'
-  - 'https://ucarecdn.com/eb4f9377-0caf-4ecc-9ed8-70ceb48cb36f/'
-  - 'https://ucarecdn.com/f1574e43-067a-44d5-98cf-d6ff3a01d695/'
+  - https://ucarecdn.com/9f59fe7c-f3fd-4c8d-b821-55adf8d4122b/
+  - https://ucarecdn.com/c7a16dfd-abfd-4312-aa07-b2ef4f6076f5/
+  - https://ucarecdn.com/809f020c-3b8d-4010-9999-2da74bd8ca43/
+  - https://ucarecdn.com/437d94be-1720-48c0-a557-ad3774262b7e/
 ---
 Für Credit Suisse entstand in Zusammenarbeit mit Source Associates AG die eindrückliche Wanderausstellung Megatrends. In die Zukunft weisende Ausstellungskörper vermitteln aufschlussreiche Informationen im Bereich Nachhaltigkeit, Multipolare Welt und Demographie. Planung und Ausführung der auskragenden und schwebenden Körper forderten von uns bodenständige Lösungen in der Gegenwart.
