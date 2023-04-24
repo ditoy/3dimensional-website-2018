@@ -14,8 +14,8 @@ image: https://ucarecdn.com/7376789f-2200-4859-b8e5-fd7a5511ebea/
 teaser: Mit dem dreirädrigen Zustellfahrzeug der Post das Verteilen gleich
   selber ausprobieren
 projectpictures:
-  - https://ucarecdn.com/21c8ac20-59be-45b4-8bf5-a9d00aa4754d/
-  - https://ucarecdn.com/426552f2-3ed3-47b1-a5f4-6106df74573f/
-  - https://ucarecdn.com/a4648cc7-3d50-4c72-b18e-59df59a2dd01/
+  - https://ucarecdn.com/e16fb4e4-1154-4d4c-a6ee-140739261fcd/
+  - https://ucarecdn.com/cffde6bc-a7c4-4e41-b8b7-aa3268d32ffd/
+  - https://ucarecdn.com/2d92a51a-4f85-420b-b9f0-677c87c5220c/
 ---
 Auf dem interaktiven Simulator von Kyburz können Besucher im Verkehrshaus der Schweiz selber erleben, was es heisst, Pakete und Briefe zur richtigen Zeit am richtigen Ort abzuliefern. Nach ein paar missglückten Fahrversuchen auf dem originalen Elektrofahrzeug klappt’s mit der Zustellung und dem Punktesammeln im Spiel dann auch ganz gut. Wie von Zauberhand kommen die verschiedenen Sendungen an. 3dimensional hat zusammen mit der Digitalagentur Ditoy für Kyburz und das Verkehrshaus die Daueraustellung zum Thema Dreirad-Fahrzeuge konzipiert und umgesetzt.
