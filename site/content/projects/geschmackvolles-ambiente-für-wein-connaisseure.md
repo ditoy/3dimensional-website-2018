@@ -14,7 +14,7 @@ image: https://ucarecdn.com/947a5f53-184c-4705-995b-8f350243939c/
 teaser: Eine aussergewöhnliche Flasche Wein geniessen – danach ab an die Decke
   damit. So einfach geht Licht
 projectpictures:
-  - https://ucarecdn.com/b7c4f319-d2f0-46f3-8faa-fc0253cf44ec/
+  - https://ucarecdn.com/df27c68f-2d15-498f-89d5-cb2b219b9c08/
   - https://ucarecdn.com/7af9f7c5-1cd4-4e75-a77c-b0b4426a18f2/
   - https://ucarecdn.com/977afc28-4634-4fcb-9e03-a287910f03b6/
   - https://ucarecdn.com/254522db-d2c3-4776-b2c2-b088400af337/
