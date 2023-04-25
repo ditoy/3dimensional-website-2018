@@ -12,9 +12,9 @@ image: https://ucarecdn.com/ae4d7c43-e6ed-40e9-aecc-08141c7cd8ec/
 teaser: Die gestalterischen Prinzipien des Bauhaus faszinieren beim Optiker im
   Schaufenster
 projectpictures:
-  - https://ucarecdn.com/b6c73bf7-d1de-43e8-875a-f39c7dc869b3/
-  - https://ucarecdn.com/3a4aa55f-6809-45b9-b451-d2cb3b3a4d7b/
-  - https://ucarecdn.com/52e1bc34-9dd3-414e-a125-1aee61766eda/
-  - https://ucarecdn.com/3924b362-7264-40aa-8a28-f600c021542f/
+  - https://ucarecdn.com/a2d1394f-b3ad-408f-8b09-be4515bfdd75/
+  - https://ucarecdn.com/8dc5d3f0-ac2e-46a5-aad9-cd78a2bc0baf/
+  - https://ucarecdn.com/f6dc0102-cc75-4b40-94ec-2359bacf52c2/
+  - https://ucarecdn.com/e6261b59-2489-40a9-8ad7-c16ba2a056fc/
 ---
 Das 1919 gegründete Bauhaus ist Inbegriff klassisch moderner Gestaltung in den Bereichen Design, Kunst und Architektur. Eines der am Bauhaus gelehrten gestalterischen Prinzipien ist die Rückbesinnung auf Grundformen und -farben. Die bis heute anhaltende Resonanz des Bauhaus zeigt sich auch im Einfluss auf aktuelle Designprodukte, wie die Brillenkollektion, welche Götte Optik an der Bahnhofstrasse in Zürich präsentiert. Für uns bei 3dimensional war das Jubiläum zum 100 jährigen Bestehen des Bauhaus Anlass genug, im Schaufenster unseres Kunden das Thema aufzugreifen und sichtbar zu machen. Von der Idee bis zur Umsetzung haben wir für die Götte Optik AG das Projekt realisiert.
