@@ -14,9 +14,9 @@ image: https://ucarecdn.com/7bdc2e96-d1e5-4fd6-8277-a1999ee35e3d/
 imageAlt: ""
 teaser: Die Neue Aargauer Bank hängt Schmuckstücke seit neuestem an die Decke
 projectpictures:
-  - https://ucarecdn.com/55d3514c-0d88-467a-92db-e6111fa8b836/
-  - https://ucarecdn.com/9029f54f-40e5-4496-a31c-eea59e0e02cd/
-  - https://ucarecdn.com/01b92992-488f-4811-9a1d-e686d0c6ff10/
-  - https://ucarecdn.com/71594dab-ff1f-42d6-b07f-91879c8ed3e7/
+  - https://ucarecdn.com/7243164f-104f-4e45-8505-b6f9f33be873/
+  - https://ucarecdn.com/12ecbddd-5271-4b7d-85ee-57fe2e97065f/
+  - https://ucarecdn.com/ac9d4a43-0574-44bb-873c-35c1adc93dd8/
+  - https://ucarecdn.com/9ad42e03-a0c4-4860-9092-1c47c1665998/
 ---
 Für einmal lagern Schmuckstücke bei der NAB nicht wie gewohnt im Schliessfach, sondern hängen mitten im Tresorraum an der Decke. Die Rede ist von den prunkvollen Kronleuchtern, welche durch Bureau Hindermann designt und bei 3dimensional geplant und umgesetzt wurden. Ihr stimmungsvolles Licht dringt durch perforierte und transluzente Folie und macht Bankgeschäfte in den Räumen der NAB für Kunden und Mitarbeiter zur angenehmen Freude.
