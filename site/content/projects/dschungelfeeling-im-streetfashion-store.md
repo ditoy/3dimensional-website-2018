@@ -16,8 +16,8 @@ imageAlt: ""
 teaser: Im Tarzan Flagshipstore hängen die Kleiderbügel an Lianen – vielleicht
   sind es auch Kabel, ganz sicher sind wir nicht
 projectpictures:
-  - https://ucarecdn.com/f93f2ebb-bda1-49c4-a1e4-247dc4aff5a9/
-  - https://ucarecdn.com/9437cf42-8932-4f2b-838a-8c7a7b98c82c/
+  - https://ucarecdn.com/ce9f6f25-05d4-487c-a22b-00e93c1c9e2d/
+  - https://ucarecdn.com/db776a21-1e64-42da-ad33-e2b7efe0de63/
   - https://ucarecdn.com/3e503209-75b3-4ebe-8a78-288fa43b580c/
   - https://ucarecdn.com/53e68db8-9283-494e-aa1e-836389fe734d/
 ---
