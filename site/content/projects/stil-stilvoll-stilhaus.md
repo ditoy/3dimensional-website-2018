@@ -15,9 +15,9 @@ image: https://ucarecdn.com/cf80d7bb-c9c5-4aea-a85d-92e1397b7698/
 imageAlt: ""
 teaser: Mehr Stil als Stilhaus geht nicht. Und wer hat's beschriftet?
 projectpictures:
-  - https://ucarecdn.com/8dd15921-32ba-4c16-8994-1ad2a4696840/
-  - https://ucarecdn.com/9190f672-f551-409a-b60f-7502b18fb22e/
-  - https://ucarecdn.com/9e5ea598-16bd-473e-92db-15c3704b1394/
-  - https://ucarecdn.com/2d6b4a07-26d5-49cb-b48e-fa884e5d9d98/
+  - https://ucarecdn.com/4c051841-9a4b-4e4f-b1f7-af0b579561d0/
+  - https://ucarecdn.com/7ca60c56-03ec-4ae3-9083-55e6d2ae0c4b/
+  - https://ucarecdn.com/3bf9958d-a5ba-45f3-97dd-b3ff55b0dc52/
+  - https://ucarecdn.com/84068c19-f75e-4c16-84d4-9de8e550df4d/
 ---
 3dimensional zeichnete für die Produktion sämtlicher Beschriftungen in und am Stilhaus Rothrist verantwortlich. Das Beschriftungskonzept dazu hat Pikka GmbH entworfen.
