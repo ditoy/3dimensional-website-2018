@@ -14,9 +14,9 @@ image: https://ucarecdn.com/0ad064ba-9d61-435d-a68d-3bb3d14508d1/
 teaser: Die Arbeit mit Licht ist eine Handwerkskunst. Eine Kunst, die
   Inspiration und Erfahrung verlangt
 projectpictures:
-  - https://ucarecdn.com/cc7c9dfb-b2ca-46eb-a918-66f60408f1bd/
-  - https://ucarecdn.com/8047f14d-776f-4d1a-8d04-106da6a9ad24/
-  - https://ucarecdn.com/54ce9a87-0d5e-4455-8598-4a309aaa6dad/
-  - https://ucarecdn.com/24ca95c6-4825-405d-b483-df0b678407a1/
+  - https://ucarecdn.com/fe36c7a3-ee76-4c33-8630-11647a0d9dae/
+  - https://ucarecdn.com/42d4fe50-676d-4d48-968f-f22a6f05dce4/
+  - https://ucarecdn.com/727de592-69b4-43f6-8574-a3a62df6cd20/
+  - https://ucarecdn.com/10d1233b-66ca-4737-9134-c14009ef270d/
 ---
 Für Neuco AG, Schweizer Marktführerin im Bereich der Gestaltung mit Licht, hat 3dimensional den Auftritt am Designers Saturday realisiert, getreu nach dem Credo von Neuco: Nicht die Quelle des Lichts ist entscheidend, sondern allein seine Wirkung. Entworfen wurde der Auftritt von Walder, Werber Werbeagentur.
