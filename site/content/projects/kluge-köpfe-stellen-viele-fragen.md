@@ -14,10 +14,10 @@ image: https://ucarecdn.com/92f7d7e4-61ce-48f2-a01e-05d1d93890ca/
 teaser: Der neue Campus Info ist die Anlaufstelle für Information und Services
   rund um die ETH Zürich
 projectpictures:
-  - https://ucarecdn.com/692ad223-4c2e-4e94-945a-23f016ee2cd9/
-  - https://ucarecdn.com/031bba6b-4f97-40ec-a5b9-1f079032652e/
-  - https://ucarecdn.com/133600cd-8a57-46f0-a965-774fe66d4d00/
-  - https://ucarecdn.com/60e5a6db-0e39-410c-ab1f-1716b3522c28/
-  - https://ucarecdn.com/f99228c3-1e73-4642-914a-9e0ea0b7df5b/
+  - https://ucarecdn.com/e89eda49-f87a-4a3d-b589-96e61c12438d/
+  - https://ucarecdn.com/364af991-74d5-4df8-bce9-03314f844845/
+  - https://ucarecdn.com/41dd547f-b46c-4498-8d68-a25563aac3ca/
+  - https://ucarecdn.com/439590fc-eeb5-4346-8d65-05237504d7f7/
+  - https://ucarecdn.com/8d00e369-7ba5-4550-9d13-549931f87889/
 ---
 Wer viel fragt, wird bekanntlich klüger. Beim Campus Info der ETH kann dies ausgiebig testen, wer Informationen mit Bezug zur ETH sucht. Damit die neue Anlaufstelle auch sicher gefunden wird, hat 3dimensional das Signaletik Konzept von Pikka GmbH sehr präzis umgesetzt.
