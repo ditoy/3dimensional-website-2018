@@ -14,9 +14,9 @@ activities:
 image: https://ucarecdn.com/f252e406-bda6-4f82-b35b-62bc4d568e37/
 teaser: Es braucht nicht viel, aber dieses wenige muss sitzen
 projectpictures:
-  - https://ucarecdn.com/dfc2bf76-b48d-4554-95fa-a14f5cc69473/
-  - https://ucarecdn.com/3d51982b-c776-4a1f-8514-0684c445361c/
-  - https://ucarecdn.com/60db6574-9755-4d70-8486-af73992adaab/
-  - https://ucarecdn.com/1f586e50-201a-49d8-8161-07280319eb4f/
+  - https://ucarecdn.com/70027913-c35b-4e45-bd37-f7b96c9fd9f6/
+  - https://ucarecdn.com/d5a357cf-d7e0-4024-a3c3-8e572bab7553/
+  - https://ucarecdn.com/24279768-369c-450d-98fd-f7433d7e514c/
+  - https://ucarecdn.com/7b9bba33-2920-41d8-ae20-b7bc4d04d05e/
 ---
 Die Beschriftung des Atelier- und Geschäftshauses von Arndt Geiger Herrmann Architekten unterstreicht eine Haltung der Sachlichkeit, welche den grösst möglichen Ausdruck mit der kleinst möglichen Zahl an Mitteln sucht. Welche dreidimensionale Figur - wenn nicht der Kubus - könnte diesen Anspruch am deutlichsten sichtbar machen?
