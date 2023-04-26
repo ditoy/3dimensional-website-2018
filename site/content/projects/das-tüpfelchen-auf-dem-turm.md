@@ -16,9 +16,9 @@ imageAlt: ""
 teaser: "Frage: An welchem Tag hat 3d den Freitag-Tower neu beschriftet? Kleiner
   Tip: Es war kein Donnerstag ;-)"
 projectpictures:
-  - https://ucarecdn.com/36e7456d-5885-4e6e-b045-238690d3fa2f/
-  - https://ucarecdn.com/cc24c5ee-23bd-485c-9072-53d40403084c/
-  - https://ucarecdn.com/5e12b3c5-d330-4d5f-b3cb-e0117e4ce96c/
-  - https://ucarecdn.com/c2f2bb1c-ec53-4c65-b60e-3e31ef00d2f6/
+  - https://ucarecdn.com/207ec012-0da2-4a75-963c-cb0e67b190d6/
+  - https://ucarecdn.com/140b1abf-f721-4413-a605-f2d67e385a66/
+  - https://ucarecdn.com/5fa2633a-d4a3-4435-9f8f-b4ca9eb0f0ee/
+  - https://ucarecdn.com/5908fd16-2d1c-4b3f-8432-56d8a76ea94f/
 ---
 3dimensional AG hat den Freitag-Tower sowohl aussen als auch innen beschriftet. Besondere Beachtung galt der gerippten Oberfläche der Überseecontainer. Die Schriften wurden passgenau auf das Relief des Untergrunds zugeschnitten und für das Re-Branding in einer eindrücklichen Umbeschriftungs-Aktion am Container appliziert.
