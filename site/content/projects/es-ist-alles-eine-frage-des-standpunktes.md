@@ -11,7 +11,7 @@ implementation: true
 activities:
   - Signaletik
   - Beschriftung
-image: https://ucarecdn.com/20232953-05bc-4e8a-9765-eb9f34be0eff/
+image: https://ucarecdn.com/379303e0-3e42-44e8-ba16-7e2ec2408233/
 teaser: Erfolg in der Wirtschaft basiert nicht zuletzt darauf, sich richtig zu
   positionieren
 projectpictures:
