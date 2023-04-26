@@ -16,9 +16,9 @@ image: https://ucarecdn.com/18d8adf7-bb59-4f16-970b-28bbf92f17c0/
 teaser: In Sachen Uhren präsentiert die Schweiz ihren Gästen am Flughafen Zürich
   Exzellenz
 projectpictures:
-  - https://ucarecdn.com/218e31bf-cae8-4768-873d-9129d32004ff/
-  - https://ucarecdn.com/47f4f9df-ba6b-4d17-a6a6-23183182a9ac/
-  - https://ucarecdn.com/c9e255ec-92e8-46b5-bed1-f85eca31875d/
-  - https://ucarecdn.com/58536060-7f33-4d95-bd6c-3d99db53cf1d/
+  - https://ucarecdn.com/0ad5502f-0cc2-46f6-a546-5aca6887efe1/
+  - https://ucarecdn.com/0dbc4a35-b1ba-48ad-9c01-8a021c88e5d0/
+  - https://ucarecdn.com/b511dd0a-1fa4-4902-94e7-0ddb41459ce3/
+  - https://ucarecdn.com/c2562897-a574-4f23-bd80-134bbc96d5a4/
 ---
 Wer am Flughafen Zürich abhebt, erlebt, warum die Schweiz weltweit als das führende Land der Uhrenproduktion gilt. Die luxuriösen Vitrinen zeigen zeitlos schöne Präzisionsuhren für qualitätsbewusste Reisende. 3dimensional setzte die anspruchsvollen Promotionen in hochwertiger Materialisierung gewohnt präzis und zuverlässig um.
