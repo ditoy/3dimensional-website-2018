@@ -16,9 +16,9 @@ imageAlt: ""
 teaser: Mit unserem Besucherleitsystem gelangen die Besucher der Privatklinik
   Hohenegg entspannt ans Ziel
 projectpictures:
-  - https://ucarecdn.com/dc923710-2eb1-4b6d-a2c7-309f65f96e85/
-  - https://ucarecdn.com/b49d858a-a0e7-47ef-8e6b-e997d3fbccee/
-  - https://ucarecdn.com/3190d7bb-30cd-49d7-9d20-cae9dd2deda7/
-  - https://ucarecdn.com/7679eb67-7263-4b27-9f68-35856e4580ed/
+  - https://ucarecdn.com/47b54422-90aa-4b65-be0c-12b15dbca558/
+  - https://ucarecdn.com/41971474-9ff3-4cc9-a1be-fd92ee05b5e5/
+  - https://ucarecdn.com/fb3957dc-f311-4b67-a9c3-66475d5483b9/
+  - https://ucarecdn.com/df47c9b9-95c9-4ec0-baba-1e121b91b0dd/
 ---
 In Zusammenarbeit mit Ditoy GmbH gestaltete 3dimensional das Besucherleitsystem auf dem Areal der Privatklinik Hohenegg. Zurückhaltende Schlichtheit und eine ruhige Typografie erzeugen in jedem Raum eine klare Identität und lassen entspannte Orientierung in sämtlichen Gebäuden und Räumen entstehen.
