@@ -16,9 +16,9 @@ image: https://ucarecdn.com/e05ab6ce-5950-4812-8ce0-abf49f75511e/
 teaser: Führende Köpfe aus der Kreativwirtschaft präsentieren ihre Sicht auf
   kommende Trends
 projectpictures:
-  - https://ucarecdn.com/56b2edd9-e210-4792-b253-64fcd05dbbed/
-  - https://ucarecdn.com/16ffe533-a08a-4bb4-9539-a2449cc7f2ff/
-  - https://ucarecdn.com/309a9465-4cf3-4355-a0f7-bb9200ad188f/
-  - https://ucarecdn.com/76574eeb-f775-4bad-b899-4160435faa87/
+  - https://ucarecdn.com/e9363c4f-59ef-4105-8c9c-b9c572e98905/
+  - https://ucarecdn.com/aacefac1-3e40-4c75-80a6-4d639b4cded1/
+  - https://ucarecdn.com/4389d7b9-6088-4ba7-a649-553224daf748/
+  - https://ucarecdn.com/e277698a-cc04-4511-93a2-8388164b673b/
 ---
 Während der Design Night präsentieren bekannte Innovatoren aus den angewandten Künsten in Vorträgen und Präsentationen die Zukunft des Designs. Zusammen mit Source Associates hat 3dimensional die räumlichen Kommunikationsmittel für den Event umgesetzt.
