@@ -16,9 +16,9 @@ image: https://ucarecdn.com/ac3f3d75-9175-4cc7-92ab-29ec39c608e2/
 teaser: Hochmoderne Räume in Neu-Oerlikon, wo urbane Gegenwart auf industrielle
   Vergangenheit trifft
 projectpictures:
-  - https://ucarecdn.com/eb7b7914-80be-4122-895e-dda781d4d1d0/
-  - https://ucarecdn.com/81fe09c6-e243-40aa-9b34-32bb96adf17a/
-  - https://ucarecdn.com/be8995bd-8ca3-43dd-9057-8bb3254895a2/
-  - https://ucarecdn.com/1107a4ef-4b44-4090-93fe-6989423b3538/
+  - https://ucarecdn.com/5c2fcee9-8892-4f72-8200-323ff75a9a5a/
+  - https://ucarecdn.com/56a384d2-efc7-4ec4-bb0b-aabec72f4f2e/
+  - https://ucarecdn.com/60b1702d-3a70-42c0-9f17-9b24094e8678/
+  - https://ucarecdn.com/41a4145d-b131-41f7-aa6e-da5d0397c4dd/
 ---
 Der Osterwalder Tower bietet auf 15 Geschossen attraktiven Wohn- und Geschäftsraum. Wohnungen, Atelier- und Ladenflächen sowie Büros bilden einen urbanen Nutzungsmix in einem Quartier, das mit seinen fünf grossen Parks auch viele Grünflächen umfasst. 3dimensional hat das Beschriftungskonzept zusammen mit Pikka GmbH sowohl für den Innen- als auch den Aussenraum des Neubaus umgesetzt.
