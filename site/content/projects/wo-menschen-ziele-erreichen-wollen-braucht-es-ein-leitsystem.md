@@ -16,9 +16,9 @@ imageAlt: ""
 teaser: Die Signaletik im Mathilde Escher Heim bringt sowohl Bewohner als auch
   Besucher an ihr Ziel
 projectpictures:
-  - https://ucarecdn.com/40121b2a-083b-44dd-a15b-1e4953109144/
-  - https://ucarecdn.com/369ca797-ef7d-4b4b-800a-0955b9001f42/
-  - https://ucarecdn.com/5846c6a8-c030-4bf6-b91c-9ddd954f2318/
-  - https://ucarecdn.com/3f3b6eb3-5f06-422e-9405-45ef6401a925/
+  - https://ucarecdn.com/23943d16-9200-4184-ab7f-ac775ed54d10/
+  - https://ucarecdn.com/328ac814-6687-4321-ba37-9ff8e47fb469/
+  - https://ucarecdn.com/6e46ae3a-4007-455a-897c-f70ab25982b1/
+  - https://ucarecdn.com/4052d429-7f06-409a-b661-f8cc47d81e63/
 ---
 Das Heim für Menschen mit Körperbehinderung der Mathilde Escher Stiftung bietet seinen Bewohnern vielfältige Arbeitsplätze und Therapien an. In der komplexen Gebäudestruktur jederzeit den richtigen Raum zu finden, ist eine Herausforderung, welche dank der Signaletik, die von 3dimensional nach dem Entwurf von Source Associates umgesetzt wurde, nun um vieles einfacher geworden ist.
