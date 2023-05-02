@@ -9,6 +9,6 @@ quote: Am meisten geniesse ich den Moment, wo unsere Ideen und Vorschläge in
   Zusammenarbeit mit dem Kunden Form annehmen und wir gemeinsam ans Ziel kommen.
 email: bamert@3dimensional.ch
 phone: +41 44 422 44 13
-image: https://ucarecdn.com/8ccd71b7-7445-4cc1-943b-7e15ac6e4601/
+image: https://ucarecdn.com/369ff466-4cce-46cd-a373-0685c541ac1d/
 ---
 Nachdem sie sich bei Jung von Matt in der 2D-Welt hat ausleben können, vollzog Moni Bamert als Team- und Projektleiterin bei Hauser & Partner den Wechsel von zwei zu drei Dimensionen und baute ihre wertvolle Erfahrung im gesamten Prozess der Visualisierung bis zur fertigen Produktion aus. Seither hat sie die dritte Dimension nicht mehr losgelassen und es war nur eine Frage der Zeit, bis ihr Weg zu 3dimensional führte. Den Kopf frei für neue Ideen erhält sie unterwegs mit ihrem Pferd in der Natur und wenn sich beim Stand Up Paddeln die untergehende Sonne auf dem Wasser spiegelt.
