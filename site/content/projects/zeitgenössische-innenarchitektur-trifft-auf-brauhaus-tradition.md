@@ -18,6 +18,6 @@ projectpictures:
   - https://ucarecdn.com/2bfa1911-f7c1-4392-95dd-0d9a364b637b/
   - https://ucarecdn.com/243cc8fc-8bda-4d6c-9f9c-f8da9938d683/
   - https://ucarecdn.com/8f0555dc-ae4a-4071-b0ee-dac046c1b287/
-  - https://ucarecdn.com/97512a29-f95f-4338-998e-a3e95e1ea2b1/
+  - https://ucarecdn.com/fc02948c-98be-4f4d-8367-063fcd6b19b3/
 ---
 Für die Schützengarten Brauerei hat colette lang interior das Brauerei-Restaurant "Sternen" mit Bar in Heerbrugg als Neubau konzipiert. 3dimensional zeichnete im Projekt verantwortlich für die Beschriftung der Räume.
