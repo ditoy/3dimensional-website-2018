@@ -17,6 +17,5 @@ projectpictures:
   - https://ucarecdn.com/f57e164a-958a-44ab-94b8-ebeb6ee8add6/
   - https://ucarecdn.com/001f3d1a-b71d-416d-a362-bc474ae24200/
   - https://ucarecdn.com/baa06843-7f5b-4c45-9967-685ba765c12c/
-  - https://ucarecdn.com/247fff17-ef39-498d-bc16-32c3256ad4cf/
 ---
 Auch Dank der Produkte des fortschrittlichen Sanitärtechnik Unternehmens Geberit verliert der Saugstöpsel mehr und mehr seinen angestammten Platz im Haushalt. Als augenzwinkernde Referenz zur Sanitär Produktwelt erfüllt er dennoch auch heute bestens seinen Zweck. Zusammen mit dem mundgeblasenen Glas gerät er gar zum Schmuckstück, wenn nicht zum heimlichen Star der Ausstellung. Bureau Hindermann zusammen mit 3dimensional hat dieses Kleinod der Lichtkunst kreiert.
