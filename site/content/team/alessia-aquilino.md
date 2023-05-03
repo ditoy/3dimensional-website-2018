@@ -5,10 +5,14 @@ draft: true
 robotsExclude: false
 title: Alessia Aquilino
 function: Werbetechnikerin EFZ
+quote: Solange ich in einem tollen Team Schönes realisieren kann, macht mir die
+  Arbeit immer Spass.
 email: aquilino@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/84b67451-6af1-4bc3-9670-4f63490a837d/
+image: https://ucarecdn.com/dfafebf8-bd22-4d29-9b25-1bfe1ece5bb6/
 ---
-Oft reichen ein paar Zeilen nicht aus, eine Person zu beschreiben.
-Hier könnte das der Fall sein. 
-Oder wir suchen einfach noch nach der richtigen Formulierung.
+Alessia stösst von Frontwork zu uns, wo sie auch ihre Ausbildung absolvierte.
+
+Mit ihrem trainierten Auge für Farbe und Form hat sie bei uns einen rennenden Start in die Arbeitswelt hingelegt. 
+
+Von einer leidenschaftlichen Fussballerin darf man aber wahrscheinlich auch nichts anderes erwarten.
