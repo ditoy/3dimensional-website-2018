@@ -5,10 +5,12 @@ draft: true
 robotsExclude: false
 title: Christian Tanner
 function: Projektleiter, Schreiner
+quote: Wenn aus verschiedensten Materialien und Prozessen eine elegante Lösung
+  zu einem komplexen Problem entsteht, wird mir nie langweilig.
 email: tanner@3dimensional.ch
 phone: +41 44 422 44 18
-image: https://ucarecdn.com/84b67451-6af1-4bc3-9670-4f63490a837d/
+image: https://ucarecdn.com/68d65e17-c127-42f1-8dd7-dc70ca225160/
 ---
-Oft reichen ein paar Zeilen nicht aus, eine Person zu beschreiben.
-Hier könnte das der Fall sein. 
-Oder wir suchen einfach noch nach der richtigen Formulierung.
+Nach seiner Ausbildung zum Möbelschreiner hat Christian ein Film-Stipendium ergattert. Als freiberuflicher Kameramann hat er Imagefilme, Werbungen und Musikvideos gedreht und gleichzeitig bei Dunedin-Arts sein Gespür für Lichtgestaltung als Visualisierer in die digitale Welt übersetzt.  
+
+Und wenn er mal nicht plant, filmt oder schreinert, spielt Christian Brettspiele.
