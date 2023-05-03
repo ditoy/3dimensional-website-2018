@@ -7,7 +7,7 @@ title: Slobodan Simic
 function: Lackierer, Schreiner
 email: simic@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/84b67451-6af1-4bc3-9670-4f63490a837d/
+image: https://ucarecdn.com/5addc016-20ec-4e1b-b253-826b414e36c6/
 ---
 Oft reichen ein paar Zeilen nicht aus, eine Person zu beschreiben.
 Hier könnte das der Fall sein. 
