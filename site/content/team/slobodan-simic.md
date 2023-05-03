@@ -5,10 +5,12 @@ draft: true
 robotsExclude: false
 title: Slobodan Simic
 function: Lackierer, Schreiner
+quote: Was ich bei 3dimensional am besten finde? Die ständige Abwechslung natürlich
 email: simic@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/5addc016-20ec-4e1b-b253-826b414e36c6/
 ---
-Oft reichen ein paar Zeilen nicht aus, eine Person zu beschreiben.
-Hier könnte das der Fall sein. 
-Oder wir suchen einfach noch nach der richtigen Formulierung.
+Slobodan ist unser pragmatischer Alleskönner. \
+In einem früheren Leben hat er Landwirtschaft studiert und teilt jetzt seine 20 Jahre Erfahrung bei Hauser&Partner mit uns.  
+
+Zeichnen, töpfern und Basketball spielen könnte er auch, aber beschränkt das auf seine Freizeit.
