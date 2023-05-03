@@ -15,8 +15,8 @@ teaser: Eine aussergewöhnliche Flasche Wein geniessen – danach ab an die Deck
   damit. So einfach geht Licht
 projectpictures:
   - https://ucarecdn.com/df27c68f-2d15-498f-89d5-cb2b219b9c08/
-  - https://ucarecdn.com/7af9f7c5-1cd4-4e75-a77c-b0b4426a18f2/
-  - https://ucarecdn.com/977afc28-4634-4fcb-9e03-a287910f03b6/
-  - https://ucarecdn.com/254522db-d2c3-4776-b2c2-b088400af337/
+  - https://ucarecdn.com/1cd7beff-e3c1-4f18-9cd0-8e8d796fb941/
+  - https://ucarecdn.com/175dfc74-7040-4c7c-9476-a636611dc7c7/
+  - https://ucarecdn.com/bfdd603b-db2f-4501-8a2e-0b8b68822d00/
 ---
 Die Staatskellerei Zürich produziert seit über 150 Jahren an aussergewöhnlicher Lage in Rheinau Weine, die regelmässig Auszeichnungen gewinnen. Im Interieur des historischen Klosterkellers hängt über dem fünf Meter langen Tisch aus massiver Eiche ein imposanter Flaschenluster aus achtzehn explosionsartig angeordneten Magnumflaschen, die einen dynamischen Kronleuchter bilden. Hier trifft sich, wer gediegen einen Wein degustieren will – im Bewusstsein, dass Gottfried Keller als Staatsschreiber 1862 den Grundstein für diesen besonderen Genuss legte. Bureau Hindermann hat zusammen mit 3dimensional dem Ort sein stilvolles Ambiente zurückgegeben.
