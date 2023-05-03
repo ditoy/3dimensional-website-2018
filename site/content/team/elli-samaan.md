@@ -6,7 +6,7 @@ robotsExclude: false
 title: Elli Samaan
 function: Polydesignerin 3D
 quote: Eines der Highlights an meiner Arbeit ist immer, wenn ich ein Projekt, an
-  dem ich mitgearbeitet habe, im Laden stehen sehe.
+  dem ich mitgearbeitet habe, im Schaufenster stehen sehe.
 email: samaan@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/79a5af53-e52f-418e-960d-f3c08fa2763a/
