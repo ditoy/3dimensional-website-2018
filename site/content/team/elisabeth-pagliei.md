@@ -4,7 +4,7 @@ position: 20
 draft: true
 robotsExclude: false
 title: Elisabeth Pagliei
-function: 3D-Polydesignerin
+function: Polydesignerin 3D
 quote: Neue Trends erkennen und verstehen, finde ich an unserer Arbeit mit das
   Spannendste
 image: https://ucarecdn.com/28169f63-5acf-4976-b8fb-b7241e6abd6d/
