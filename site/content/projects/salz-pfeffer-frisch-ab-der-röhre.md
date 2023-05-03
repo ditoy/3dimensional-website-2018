@@ -18,6 +18,5 @@ projectpictures:
   - https://ucarecdn.com/64957391-16f8-4144-a524-c303f69599d4/
   - https://ucarecdn.com/c6c2cb20-5cc4-414b-a826-2bd5330d8a41/
   - https://ucarecdn.com/3d3657ae-54b8-4089-aeca-66ec5db57b2e/
-  - https://ucarecdn.com/37a43060-aae4-4efd-b84e-5b926ff13f66/
 ---
 Geberit, Marktführer für Sanitärprodukte, kennen viele für dessen Rohre aus Kunststoff und Metall. Im Innern von Böden und Wänden sind die Rohre in Gebäuden vor dem Auge meist verborgen. Umso erstaunlicher, wenn von Bureau Hindermann in Zusammenarbeit mit 3dimensional für einmal die Rohre ins Zentrum der Aufmerksamkeit gerückt werden, und daraus formschöne und praktische Salz- & Pfeffermühlen entstehen, die auf jedem Esstisch eine gute Figur abgeben.
