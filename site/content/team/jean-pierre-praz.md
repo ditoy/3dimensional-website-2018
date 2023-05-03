@@ -1,7 +1,7 @@
 ---
 date: 2019-02-21T10:59:28.841Z
 position: 40
-draft: false
+draft: true
 robotsExclude: false
 title: Jean-Pierre Praz
 function: Projektleiter, Architekt BSc, Design Vermittler BA
