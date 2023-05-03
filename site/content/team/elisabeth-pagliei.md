@@ -13,4 +13,4 @@ Elisabeth hat als erfahrene 3D-Polidesignerin schon bei allen gearbeitet: Stenz,
 
 Auch uns hat Elisabeth immer wieder ausgeholfen, bevor wir sie überzeugen konnten bei uns fest einzusteigen.
 
-Fürs Kraft tanken zieht es Elisabeth im Sommer an den See. Im Winter in die Bergen.
+Fürs Kraft tanken zieht es Elisabeth im Sommer an den See. Im Winter in die Berge.
