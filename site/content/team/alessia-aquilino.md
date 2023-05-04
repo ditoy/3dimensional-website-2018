@@ -1,7 +1,7 @@
 ---
 date: 2023-01-04T13:03:48.613Z
 position: 45
-draft: true
+draft: false
 robotsExclude: false
 title: Alessia Aquilino
 function: Werbetechnikerin EFZ
