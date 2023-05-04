@@ -1,7 +1,7 @@
 ---
 date: 2022-07-26T13:02:00.000Z
 position: 45
-draft: true
+draft: false
 robotsExclude: false
 title: Slobodan Simic
 function: Lackierer, Schreiner
