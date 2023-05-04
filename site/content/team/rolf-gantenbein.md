@@ -4,7 +4,7 @@ position: 62
 draft: false
 robotsExclude: false
 title: Rolf Gantenbein
-function: IWC Visual Merchandiser
+function: Visual Merchandiser - IWC Schaffhausen
 quote: Am meisten mag ich den Moment, wenn der Kunde und ich gemeinsam,
   zufrieden vor einer Arbeit stehen.
 email: rolf.gantenbein@3dimensional.ch
