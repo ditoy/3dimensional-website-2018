@@ -1,7 +1,7 @@
 ---
 date: 2022-07-26T13:05:50.211Z
 position: 46
-draft: true
+draft: false
 robotsExclude: false
 title: Elli Samaan
 function: Polydesignerin 3D
