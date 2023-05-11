@@ -9,7 +9,7 @@ quote: Neue Trends erkennen und verstehen, finde ich an unserer Arbeit mit das
   Spannendste
 email: pagliei@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/6a784974-e8c9-4239-beee-8513ae70f8ae/
+image: https://ucarecdn.com/4a6a1fcd-88be-4cb7-b09f-9db805d799e7/
 ---
 Elisabeth hat als erfahrene 3D-Polidesignerin schon bei allen gearbeitet: Stenz, Hauser und Aroma - und das gleich zweimal. Festangestellt und als Freelancerin. 
 
