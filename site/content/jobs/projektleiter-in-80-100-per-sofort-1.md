@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2022-03-14T22:09:00.000Z
 title: Projektleiter/In 80 - 100% per sofort
 ---
@@ -12,21 +12,21 @@ Für unsere Planungsabteilung, mit eigener Schreinerei und Schriftenmalerei such
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, wie auch für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unserem Werkstatt-Team zusammen. Sie haben Erfahrung in der Aufbereitung von CNC-Maschinendaten und betreuen Ihre Projekte vom Entwurf bis zur Fertigstellung. Sie können sich auch vorstellen, bei Bedarf in der Werkstatt mitzuwirken.
+Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, wie auch für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unserem Werkstatt-Team zusammen. Sie betreuen Ihre Projekte vom Entwurf bis zur Fertigstellung und begleiten die Produktion mit lösungsorientiertem Einwirken.
 
 Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannenden Umfeld weiterentwickeln? Dann freuen wir uns auf Sie!
 
 ### Das ist uns wichtig
 
 * Grundausbildung als SchreinerIn oder PolydesignerIn 3D mit einer planerischen Weiterbildung oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
-* sehr gute Kenntnisse in VektorWorks, SektchUp, sowie in Rhino, Cinema 4D und Adobe Suite
+* sehr gute Kenntnisse in VektorWorks, SektchUp, sowie in Rhino und Adobe Suite
 * Passion für Detaillösungen in der Innenarchitektur und im Möbelbau
 * umfassende Materialkenntnisse
 * selbständiges, qualitativ hochwertiges Arbeitsverständnis
 * Organisationsgeschick und eine hohe Flexibilität
 * zielgerichtete, fokussierte Vorgehensweise
 * Teamplayer
-* Deutsche Muttersprache und gute Englischkenntnisse
+* Deutsche Muttersprache, Englischkenntnisse von Vorteil
 * Führerausweis Kategorie B
 
 Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
