@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-07-03T14:58:48.766Z
+date: 2023-06-30T14:58:48.766Z
 title: Schreiner/In 80-100% vielseitig und technisch kreativ.
 ---
 ### Wer wir sind
