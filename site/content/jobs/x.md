@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-06-30T14:52:57.302Z
+date: 2023-07-03T14:52:57.302Z
 title: Schreiner/In mit CNC Erfahrung 80 - 100%
 ---
 ### Wer wir sind
