@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-06-29T14:53:59.169Z
+date: 2023-07-04T15:06:43.839Z
 title: Polydesigner/In 3D Realisation 80 - 100%
 ---
 ### Wer wir sind
