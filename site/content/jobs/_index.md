@@ -7,7 +7,7 @@ textJobs: >-
   interessieren.
 
 
-  Gerade keine passende Stelle für Sie dabei? Gerne können Sie uns Ihre Unterlagen elektronisch als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch) zusenden, da wir immer wieder Mitarbeiter als Schreiner, Polydesigner 3D oder im Bereich AVOR benötigen.
+  Gerade keine passende Stelle für Sie dabei? Gerne können Sie uns Ihre Unterlagen elektronisch als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch) zusenden, da wir immer wieder Mitarbeiter/Innen als Schreiner, Polydesigner 3D, Werbetechniker oder im Bereich AVOR und Projektleitung suchen.
 
 
   Im Moment suchen wir per sofort, für folgende Stellen die passende Besetzung:
