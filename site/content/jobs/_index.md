@@ -16,7 +16,7 @@ textNoJobs: >-
   interessieren. Im Moment haben wir keine offenen Stellen zu besetzen.
 
 
-  Wir benötigen aber immer wieder vielseitige und technisch kreative Mitarbeiter/innen als Schreiner, Polydesigner 3D, Werbetechniker oder im Bereich AVOR und Projektleitung.
+  Wir benötigen aber immer wieder vielseitige und technisch kreative Mitarbeiter/Innen als Schreiner, Polydesigner 3D, Werbetechniker oder im Bereich AVOR und Projektleitung.
 
 
   Gerne können Sie uns Ihre Unterlagen elektronisch als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch) zusenden.
