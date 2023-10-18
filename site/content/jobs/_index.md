@@ -1,7 +1,7 @@
 ---
 title: Jobs
 date: 2018-07-26
-hasJobs: false
+hasJobs: true
 textJobs: >-
   Wir freuen uns, dass Sie sich für eine Anstellung in unserem Unternehmen
   interessieren.
