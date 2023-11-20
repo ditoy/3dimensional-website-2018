@@ -4,7 +4,7 @@ position: 46
 draft: false
 robotsExclude: false
 title: Elli Samaan
-function: Polydesignerin 3D
+function: Auszubildende (Polydesignerin 3D)
 quote: Eines der Highlights an meiner Arbeit ist immer, wenn ich ein Projekt, an
   dem ich mitgearbeitet habe, im Schaufenster stehen sehe.
 email: samaan@3dimensional.ch
