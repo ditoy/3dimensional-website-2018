@@ -7,8 +7,8 @@ title: Andi Weimer
 function: Schreiner, Werbetechniker
 quote: Am meisten Spass machen die verschiedenen Materialien und Arbeitsweisen
   mit denen unsere Produkte entstehen.
-email: ""
-phone: ""
+email: weimer@3dimensional.ch
+phone: +41 44 422 44 25
 image: https://ucarecdn.com/997d2bb7-7687-481d-9ce9-653bc50c3432/
 ---
 Von der Vor- bis zur Postproduktion kennt Andy alle Aspekte der Filmbranche. 
