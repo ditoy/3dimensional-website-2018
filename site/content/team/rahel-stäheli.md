@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21T08:42:17.587Z
 position: 50
-draft: false
+draft: true
 robotsExclude: false
 title: Rahel Stäheli
 function: Projektleiterin, Holztechnikerin HF Schreinerei und Innenausbau
