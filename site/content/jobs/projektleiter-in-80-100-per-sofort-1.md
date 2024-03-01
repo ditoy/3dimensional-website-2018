@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2023-10-18T10:43:13.983Z
 title: Projektleiter/In Planer/In AVOR Innenarchitektur - Innenausbau 80 - 100%
 ---
@@ -8,7 +8,7 @@ title: Projektleiter/In Planer/In AVOR Innenarchitektur - Innenausbau 80 - 100%
 Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen 
 Gestaltung tätig ist. Für unsere Kunden im In- und Ausland, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
 
-Für unsere Planungsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte und selbständige ProjektleiterIn, welche mit viel Liebe zum Detail arbeitet.
+Für unsere Planungsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, selbständige Projektleiterin, welche mit Liebe zum Detail arbeitet.
 
 ### Was Sie auszeichnet
 
