@@ -1,7 +1,7 @@
 ---
 date: 2023-01-04T13:05:18.067Z
 position: 50
-draft: false
+draft: true
 robotsExclude: false
 title: Christian Tanner
 function: Projektleiter, Schreiner
