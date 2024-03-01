@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21T09:03:00.000Z
 position: 45
-draft: false
+draft: true
 robotsExclude: false
 title: Anna Job
 function: Polydesignerin 3D
