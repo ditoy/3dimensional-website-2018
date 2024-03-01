@@ -6,9 +6,9 @@ title: Polydesigner/In 3D Realisation 80 - 100%
 ### Wer wir sind
 
 Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen 
-Gestaltung tätig ist. Für unsere Kunden im In- und Ausland und, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
+Gestaltung tätig ist. Für unsere Kunden im In- und Ausland, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
 
-Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte, selbständige PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
+Für unsere Produktionsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, selbständige PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
 
 ### Was Sie auszeichnet
 
