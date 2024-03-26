@@ -1,6 +1,6 @@
 ---
-draft: true
-date: 2023-07-01T14:55:22.759Z
+draft: false
+date: 2024-03-26T19:19:28.455Z
 title: " Werbetechniker/In 80 - 100%"
 ---
 ### Wer wir sind
@@ -8,11 +8,11 @@ title: " Werbetechniker/In 80 - 100%"
 Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen 
 Gestaltung tätig ist. Für unsere Kunden im In- und Ausland und, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
 
-Für unsere Produktionsabteilung, mit eigener Schreinerei und Schriftenmalerei suchen wir eine motivierte, selbständige WerbetechnikerIn oder PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
+Für unsere Produktionsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, selbständige WerbetechnikerIn oder PolydesignerIn 3D Realisation, welche mit Liebe zum Detail arbeitet. 
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung und schätzen es in einem kleinen Team zu arbeiten.  Sie haben Erfahrung im Bedienen eines Flachbettdruckers und können diesen selbständig betreuen. Ihr Wissen im Umgang mit Folien ist gross, Sie kennen sich mit den gängigen Grafikprogrammen aus und erledigen Arbeiten auf dem Schneideplotter. 
+Mit Tatkraft verarbeiten Sie unterschiedliche Materialien, begeistern sich für verschiedene Aufgabenstellungen im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung und schätzen es in einem kleinen Team zu arbeiten. Sie haben Erfahrung im Bedienen eines Flachbettdruckers und können diesen selbständig betreuen. Ihr Wissen im Umgang mit Folien ist gross, Sie kennen sich mit den gängigen Grafikprogrammen aus und erledigen Arbeiten auf dem Schneideplotter. 
 
 Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannenden Umfeld weiterentwickeln? Dann freuen wir uns auf Sie!
 
