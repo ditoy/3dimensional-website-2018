@@ -29,4 +29,4 @@ Mit grossem Engagement unterstützen Sie unser Produktionsteam, leiten es souver
 * Deutsche Muttersprache
 * Führerausweis Kategorie B
 
-Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
+Sind Sie interessiert an einer vielseitigen Arbeit zu wachsen? Dann senden Sie uns Ihre elektronische Bewerbung als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
