@@ -5,7 +5,7 @@ title: WerkstattleiterIn Schreinerei - Polydesign 3D   80 - 100%
 ---
 ### Wen wir suchen
 
-Für unsere Produktionsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, engagiert, selbständige, disziplinarische WerkstattleiterIn, welche mit Liebe zum Detail arbeitet und ein fundiertes technisches Verständnis mitbringt.
+Für unsere Produktionsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, engagierte, selbständige, disziplinarische WerkstattleiterIn, welche mit Liebe zum Detail arbeitet und ein fundiertes technisches Verständnis mitbringt.
 
 ### Wer wir sind
 
