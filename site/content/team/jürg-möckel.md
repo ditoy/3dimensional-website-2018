@@ -1,7 +1,7 @@
 ---
 date: 2023-12-28T15:56:25.003Z
 position: 71
-draft: false
+draft: true
 robotsExclude: false
 title: Jürg Möckel
 function: Projektleiter, Modellbauer
