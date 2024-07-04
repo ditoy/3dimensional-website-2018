@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2024-05-21T12:00:54.401Z
 title: WerkstattleiterIn Schreinerei - Polydesign 3D   80 - 100%
 ---
