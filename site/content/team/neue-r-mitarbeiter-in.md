@@ -3,7 +3,7 @@ date: 2019-03-15T11:54:27.736Z
 position: 70
 draft: false
 robotsExclude: false
-title: Andi Weimer
+title: Andy Weimer
 function: Schreiner, Werbetechniker
 quote: Am meisten Spass machen die verschiedenen Materialien und Arbeitsweisen
   mit denen unsere Produkte entstehen.
