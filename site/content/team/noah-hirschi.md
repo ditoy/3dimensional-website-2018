@@ -5,9 +5,9 @@ draft: true
 robotsExclude: false
 title: Noah Hirschi
 function: "Projektleiter / "
-email: gaemperle@3dimensional.ch
-phone: +41 44 422 44 25
-image: https://ucarecdn.com/84b67451-6af1-4bc3-9670-4f63490a837d/
+email: hirschi@3dimensional.ch
+phone: +41 44 422 44 26
+image: https://ucarecdn.com/f684d5e4-5dca-4fd6-b49f-672e38fb632e/
 ---
 Oft reichen ein paar Zeilen nicht aus, eine Person zu beschreiben.
 Hier könnte das der Fall sein. 
