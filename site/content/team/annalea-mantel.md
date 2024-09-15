@@ -4,7 +4,7 @@ position: 45
 draft: true
 robotsExclude: false
 title: Annalea Mantel
-function: "Projektleiterin, "
+function: Projektleiterin, Bachelor of Arts (BA) in Innenarchitektur
 email: mantel@3dimensional.ch
 phone: +41 44 422 44 18
 image: https://ucarecdn.com/2c926bcc-c1b8-4cbe-9c1b-9bd6007bebf9/
