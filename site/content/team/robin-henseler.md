@@ -1,7 +1,7 @@
 ---
 date: 2024-09-15T17:13:15.265Z
 position: 45
-draft: false
+draft: true
 robotsExclude: false
 title: Robin Henseler
 function: Polydesigner 3D, Bachelor of Arts in Produkt- und Industriedesign
