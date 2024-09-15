@@ -1,7 +1,7 @@
 ---
 date: 2024-09-15T15:38:37.436Z
 position: 45
-draft: false
+draft: true
 robotsExclude: false
 title: Noah Hirschi
 function: Projektleiter, Gestalter HF Industrial Design, Architekturmodellbauer EFZ
