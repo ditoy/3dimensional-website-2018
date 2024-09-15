@@ -4,7 +4,7 @@ position: 45
 draft: true
 robotsExclude: false
 title: Noah Hirschi
-function: "Projektleiter / "
+function: Projektleiter, Gestalter HF Industrial Design, Architekturmodellbauer EFZ
 email: hirschi@3dimensional.ch
 phone: +41 44 422 44 26
 image: https://ucarecdn.com/f684d5e4-5dca-4fd6-b49f-672e38fb632e/
