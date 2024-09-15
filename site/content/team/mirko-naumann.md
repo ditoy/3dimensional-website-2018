@@ -1,7 +1,7 @@
 ---
 date: 2018-07-01
 position: 60
-draft: false
+draft: true
 robotsExclude: false
 title: Mirko Naumann
 function: Teamleiter Produktion
