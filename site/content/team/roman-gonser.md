@@ -1,7 +1,7 @@
 ---
 date: 2024-09-15T17:17:52.051Z
 position: 45
-draft: false
+draft: true
 robotsExclude: false
 title: Roman Gonser
 function: Gestalter Werbetechniker EFZ, CAS Arts & Design in Practice
