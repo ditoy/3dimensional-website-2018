@@ -1,7 +1,7 @@
 ---
 date: 2024-09-15T16:40:56.834Z
 position: 45
-draft: false
+draft: true
 robotsExclude: false
 title: Annalea Mantel
 function: Projektleiterin, Bachelor of Arts (BA) in Innenarchitektur
