@@ -10,7 +10,7 @@ quote: Die schönste Bestätigung erlebe ich, wenn die wochenlange Planung in di
   schliesslich zusammenkommen, sodass das Ergebnis greifbar wird.
 email: hirschi@3dimensional.ch
 phone: +41 44 422 44 26
-image: https://ucarecdn.com/440495aa-0e9e-4b5e-b1f1-b026ff5954f1/-/preview/
+image: https://ucarecdn.com/1af173c5-0f48-4b29-8ccd-25d37fa77aa3/
 ---
 Noah Hirschi bringt über ein Jahrzehnt Erfahrung als Modellbauer mit und verfügt über umfassende Kenntnisse in Material- und Fertigungstechnik. In seiner Rolle als Atelierleiter in einem renommierten Architekturbüro hat er wertvolle Einblicke in grosse Bauprojekte gesammelt. Durch seine Weiterbildung zum diplomierten Industrial Designer hat Noah sein vorhandenes Wissen nicht nur erweitert, sondern auch verknüpft. Seine umfangreichen Erfahrungen und Fähigkeiten in verschiedenen Bereichen machen seine Tätigkeit zu mehr als nur einem Beruf; sie sind seine große Leidenschaft.
 
