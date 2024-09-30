@@ -2,7 +2,7 @@
 date: 2023-05-03T08:46:40.980Z
 position: 40
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Elisabeth Pagliei
 function: Polydesignerin 3D
 quote: Neue Trends erkennen und verstehen, finde ich an unserer Arbeit mit das
