@@ -4,7 +4,7 @@ position: 45
 draft: false
 robotsExclude: false
 title: Noah Hirschi
-function: Projektleiter, Gestalter HF Industrial Design, Architekturmodellbauer EFZ
+function: Projektleiter, Industriedesigner HF, Architekturmodellbauer EFZ
 quote: Die schönste Bestätigung erlebe ich, wenn die wochenlange Planung in die
   physische Umsetzung von Details führt und alle theoretischen Teile
   schliesslich zusammenkommen, sodass das Ergebnis greifbar wird.
