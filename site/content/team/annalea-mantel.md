@@ -4,7 +4,7 @@ position: 56
 draft: false
 robotsExclude: false
 title: Annalea Mantel
-function: Projektleiterin, Bachelor of Arts (BA) in Innenarchitektur
+function: Projektleiterin, Innenarchitektin FH
 quote: In meiner früheren Rolle als Projektleiterin in der Innenarchitektur
   verbrachte ich viele Stunden am Bürotisch. Bei 3dimensional erlebe ich
   Abwechslung im Atelier und in der Werkstatt und bin Teil eines vielfältigen
