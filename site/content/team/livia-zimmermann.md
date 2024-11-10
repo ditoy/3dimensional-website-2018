@@ -1,7 +1,7 @@
 ---
 date: 2024-11-10T20:41:58.406Z
 position: 46
-draft: false
+draft: true
 robotsExclude: false
 title: Livia Zimmermann
 function: Gestalter Werbetechniker EFZ
