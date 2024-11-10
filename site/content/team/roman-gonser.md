@@ -4,7 +4,7 @@ position: 45
 draft: true
 robotsExclude: false
 title: Roman Gonser
-function: Gestalter Werbetechniker EFZ, CAS Arts & Design in Practice
+function: Gestalter Werbetechniker EFZ
 email: gonser@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/08fe74a8-70ce-4648-962b-c2397dc1f0dd/
