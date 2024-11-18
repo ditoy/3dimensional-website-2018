@@ -1,15 +1,15 @@
 ---
 date: 2023-05-03T08:46:40.980Z
 position: 40
-draft: true
-robotsExclude: true
+draft: false
+robotsExclude: false
 title: Elisabeth Pagliei
 function: Polydesignerin 3D
 quote: Neue Trends erkennen und verstehen, finde ich an unserer Arbeit mit das
   Spannendste
 email: pagliei@3dimensional.ch
 phone: +41 44 422 44 25
-image: https://ucarecdn.com/4a6a1fcd-88be-4cb7-b09f-9db805d799e7/
+image: https://ucarecdn.com/9071cab1-0268-4eab-a5b5-e591298858c7/
 ---
 Elisabeth hat als erfahrene 3D-Polydesignerin schon bei allen gearbeitet: Peter Stenz, Hauser&Partner und Aroma. 
 
