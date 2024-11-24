@@ -8,7 +8,7 @@ function: Teamleiter Atelier, Gestalter im Handwerk FA, Architekturmodellbauer (
 quote: Wenn aus verschiedenen Berufen und Erfahrungsgebieten Wissen
   zusammenkommt und daraus gemeinsam etwas Neues und Spannendes entsteht.
 email: tanner@3dimensional.ch
-phone: "+41 44 422 44 "
+phone: +41 44 422 44 27
 image: https://ucarecdn.com/4e14dc8b-f758-4eec-b013-15b02dbe893e/
 ---
 Daniel Tanner bringt seine Leidenschaft für präzises Arbeiten als Architekturmodellbauer in unsere Agentur ein. Er liebt es, Designmodelle und Prototypen zu schaffen, wobei er ständig neue Materialien und Techniken entdeckt und anwendet.
