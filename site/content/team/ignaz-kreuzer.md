@@ -5,8 +5,9 @@ draft: false
 robotsExclude: false
 title: Ignaz Kreuzer
 function: Schreiner, Tischlermeister HWK
-quote: Wenn sich ein Konzept passend wie ein Puzzle zusammenfügt und in meinen
-  Händen greif- und sichtbare Realität wird.
+quote: Die schönste Bestätigung meiner Arbeit erlebe ich, wenn sich ein Konzept
+  wie ein passendes Puzzle zusammenfügt und in meinen Händen zu einer greif- und
+  sichtbaren Realität wird.
 email: kreuzer@3dimensional.ch
 phone: +41 44 422 44 25
 image: https://ucarecdn.com/4d026396-a3d5-4787-bdd8-85256a863b8c/
