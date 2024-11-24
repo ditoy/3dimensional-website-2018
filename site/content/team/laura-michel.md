@@ -2,7 +2,7 @@
 date: 2018-11-21T09:07:28.469Z
 position: 40
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Laura Michel
 function: Polydesignerin 3D
 quote: Ich mag es, wenn Ideen zu fertigen Produkten werden und sich zeigt, was
