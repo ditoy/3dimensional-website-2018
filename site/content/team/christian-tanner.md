@@ -2,7 +2,7 @@
 date: 2023-01-04T13:05:18.067Z
 position: 50
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Christian Tanner
 function: Projektleiter, Schreiner
 quote: Wenn aus verschiedensten Materialien und Prozessen eine elegante Lösung
