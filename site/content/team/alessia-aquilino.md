@@ -2,7 +2,7 @@
 date: 2023-01-04T13:03:48.613Z
 position: 45
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Alessia Aquilino
 function: Werbetechnikerin EFZ
 quote: Solange ich in einem tollen Team Schönes realisieren kann, macht mir die
