@@ -2,7 +2,7 @@
 date: 2023-12-28T15:56:25.003Z
 position: 71
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Jürg Möckel
 function: Projektleiter, Modellbauer
 quote: Wenn bei komplexen Projekten, nach Wochen der Vorbereitung, in unserer
