@@ -2,7 +2,7 @@
 date: 2018-11-21T08:42:17.587Z
 position: 50
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Rahel Stäheli
 function: Projektleiterin, Holztechnikerin HF Schreinerei und Innenausbau
 quote: Wenn es wie am Schnürchen läuft und sich am Ende alle zufrieden über das
