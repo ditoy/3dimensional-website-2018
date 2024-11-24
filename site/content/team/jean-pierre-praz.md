@@ -2,7 +2,7 @@
 date: 2019-02-21T10:59:28.841Z
 position: 40
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Jean-Pierre Praz
 function: Projektleiter, Architekt BSc, Design Vermittler BA
 quote: Etwas an den Punkt zu bringen, wo nichts fehlt und nichts stört, macht
