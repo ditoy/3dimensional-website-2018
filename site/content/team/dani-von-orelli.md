@@ -2,7 +2,7 @@
 date: 2018-11-21T09:05:32.416Z
 position: 40
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Daniel von Orelli
 function: Projektleiter, Schreiner, Innenausbaugestalter HF
 quote: Nach einem Projekt voll neuer Herausforderungen und konstruktiver
