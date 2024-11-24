@@ -4,9 +4,9 @@ position: 46
 draft: true
 robotsExclude: false
 title: Daniel Tanner
-function: Projektleiter, Schreiner
-quote: Wenn aus verschiedensten Materialien und Prozessen eine elegante Lösung
-  zu einem komplexen Problem entsteht, wird mir nie langweilig.
+function: Teamleiter Atelier, Gestalter im Handwerk FA, Architekturmodellbauer (EFZ)
+quote: Wenn aus verschiedenen Berufen und Erfahrungsgebieten Wissen
+  zusammenkommt und daraus gemeinsam etwas Neues und Spannendes entsteht.
 email: tanner@3dimensional.ch
 phone: "+41 44 422 44 "
 image: https://ucarecdn.com/4e14dc8b-f758-4eec-b013-15b02dbe893e/
