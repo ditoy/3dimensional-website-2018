@@ -2,7 +2,7 @@
 date: 2023-01-04T12:59:00.998Z
 position: 45
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Tamara Gämperle
 function: Werbetechnikerin EFZ
 email: gaemperle@3dimensional.ch
