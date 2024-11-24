@@ -4,7 +4,7 @@ position: 46
 draft: false
 robotsExclude: false
 title: Daniel Tanner
-function: Teamleiter Atelier, Gestalter im Handwerk FA, Architekturmodellbauer (EFZ)
+function: Teamleiter Atelier, Architekturmodellbauer
 quote: Wenn aus verschiedenen Berufen und Erfahrungsgebieten Wissen
   zusammenkommt und daraus gemeinsam etwas Neues und Spannendes entsteht.
 email: tanner@3dimensional.ch
