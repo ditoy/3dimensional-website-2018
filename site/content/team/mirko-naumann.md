@@ -2,7 +2,7 @@
 date: 2018-07-01
 position: 60
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Mirko Naumann
 function: Teamleiter Produktion
 quote: Die grösste Bestätigung erlebe ich, wenn aus einer Idee etwas
