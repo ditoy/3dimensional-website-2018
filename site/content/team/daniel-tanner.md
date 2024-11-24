@@ -11,6 +11,10 @@ email: tanner@3dimensional.ch
 phone: "+41 44 422 44 "
 image: https://ucarecdn.com/4e14dc8b-f758-4eec-b013-15b02dbe893e/
 ---
-Nach seiner Ausbildung zum Möbelschreiner hat Christian ein Film-Stipendium ergattert. Als freiberuflicher Kameramann hat er Imagefilme, Werbungen und Musikvideos gedreht und gleichzeitig bei Dunedin-Arts sein Gespür für Lichtgestaltung als Visualisierer in die digitale Welt übersetzt.  
+Daniel Tanner bringt seine Leidenschaft für präzises Arbeiten als Architekturmodellbauer in unsere Agentur ein. Er liebt es, Designmodelle und Prototypen zu schaffen, wobei er ständig neue Materialien und Techniken entdeckt und anwendet.
 
-Und wenn er mal nicht plant, filmt oder schreinert, spielt Christian Brettspiele.
+Als stellvertretender Geschäftsführer und Berufsbildungsverantwortlicher hat Daniel wertvolle Erfahrungen in der Personalführung gesammelt und genießt es, junge Talente auszubilden und zu fördern. 
+
+Neu in seiner Funktion als Atelierleiter verantwortet er die kreativen Prozesse in unserem Atelier und sorgt dafür, dass innovative Ideen Realität werden. 
+
+Neben der Arbeit engagiert sich Daniel aktiv in der Feuerwehr. Diese Tätigkeit bietet ihm einen wertvollen Ausgleich und konfrontiert ihn mit spannenden Herausforderungen, die im Alltag nicht vorkommen. In stressigen Situationen behält er stets einen kühlen Kopf und geht flexibel mit unerwarteten Entwicklungen um.
