@@ -2,7 +2,7 @@
 date: 2018-11-21T09:03:00.000Z
 position: 45
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Anna Job
 function: Polydesignerin 3D
 quote: Neue Herausforderungen zu meistern macht mir Spass und besonders freut es
