@@ -1,7 +1,7 @@
 ---
 date: 2024-11-24T14:12:05.119Z
 position: 71
-draft: true
+draft: false
 robotsExclude: false
 title: Ignaz Kreuzer
 function: Schreiner, Tischlermeister HWK
