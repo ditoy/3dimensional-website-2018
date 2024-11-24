@@ -2,7 +2,7 @@
 date: 2019-12-04T16:36:51.800Z
 position: 46
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Phill-Jurij Lucas
 function: Schreiner
 quote: Mir ist es wichtig, mit meinen Händen Ideen umsetzen und den Dingen eine
