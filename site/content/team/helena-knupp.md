@@ -2,7 +2,7 @@
 date: 2020-03-17T15:25:26.534Z
 position: 43
 draft: true
-robotsExclude: false
+robotsExclude: true
 title: Helena Knupp
 function: Schreinerin
 quote: Am liebsten setze ich mit meinen Ideen und handwerklichen Fähigkeiten
