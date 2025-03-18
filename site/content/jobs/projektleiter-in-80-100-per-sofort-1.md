@@ -1,6 +1,6 @@
 ---
-draft: true
-date: 2023-10-18T10:43:13.983Z
+draft: false
+date: 2025-03-18T20:46:49.928Z
 title: Projektleiter/In Planer/In AVOR Innenarchitektur - Innenausbau 80 - 100%
 ---
 ### Wer wir sind
@@ -8,17 +8,19 @@ title: Projektleiter/In Planer/In AVOR Innenarchitektur - Innenausbau 80 - 100%
 Wir sind eine dynamische Firma, welche in unterschiedlichen Bereichen der dreidimensionalen 
 Gestaltung tätig ist. Für unsere Kunden im In- und Ausland, gestalten, planen und produzieren wir abwechslungsreiche Projekte.
 
-Für unsere Planungsabteilung, mit eigener Schreinerei, Schriftenmalerei, Werbetechnik und 3d-Druck, suchen wir eine motivierte, selbständige Projektleiterin, welche mit Liebe zum Detail arbeitet.
+Für unsere Planungsabteilung, die über eine eigene Schreinerei, Schriftenmalerei, Werbetechnik und 3D-Druck verfügt, suchen wir eine motivierte und selbständige Projektleiterin oder einen Projektleiter, der mit Leidenschaft und Liebe zum Detail arbeitet.
 
 ### Was Sie auszeichnet
 
-Mit Tatkraft unterstützen Sie uns bei der Ausarbeitung von spannenden Projekten im Bereich der Schaufenstergestaltung, Signaletik, Display- und Messebau sowie der Innenraum- und Ausstellungsgestaltung. Sie sind für die Ausarbeitung von Gestaltungsideen, wie auch für die Planung dieser Projekte zuständig, kennen sich mit Detaillösungen aus und arbeiten mit unserem Werkstatt-Team zusammen. Sie betreuen Ihre Projekte vom Entwurf bis zur Fertigstellung und begleiten die Produktion mit lösungsorientiertem Einwirken.
+Mit Tatkraft unterstützen Sie uns bei der Umsetzung spannender Projekte in den Bereichen Schaufenstergestaltung, Signaletik, Display- und Messebau sowie Innenraum- und Ausstellungsgestaltung. Dabei sind Sie verantwortlich für die präzise Umsetzung von Gestaltungsideen und die Planung dieser Projekte. Sie bringen fundierte Kenntnisse in Detaillösungen ein und arbeiten eng mit unserem Werkstatt-Team zusammen. Vom ersten Entwurf bis zur Fertigstellung betreuen Sie Ihre Projekte und steuern die Produktion mit einer lösungsorientierten Herangehensweise.
+
+Sie bringen nicht nur Organisationstalent mit, sondern betätigen sich auch gerne handwerklich – sei es bei der Entwicklung von Prototypen oder durch aktive Mithilfe in der Produktion.
 
 Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannenden Umfeld weiterentwickeln? Dann freuen wir uns auf Sie!
 
 ### Das ist uns wichtig
 
-* Grundausbildung als SchreinerIn, ModellbauerIn oder PolydesignerIn 3D mit einer planerischen Weiterbildung oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
+* Grundausbildung als SchreinerIn, ModellbauerIn oder PolydesignerIn 3D mit einer planerischen Weiterbildung, oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
 * sehr gute Kenntnisse in VektorWorks, SektchUp, sowie in Rhino und Adobe Suite
 * Passion für Detaillösungen in der Innenarchitektur und im Möbelbau
 * umfassende Materialkenntnisse
