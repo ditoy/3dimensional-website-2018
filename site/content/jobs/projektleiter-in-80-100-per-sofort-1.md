@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2025-03-18T20:46:49.928Z
-title: Projektleiter/In Planer/In AVOR Innenarchitektur - Innenausbau 80 - 100%
+title: Projektleiter:in Planer:in AVOR Innenarchitektur - Innenausbau 80 - 100%
 ---
 ### Wer wir sind
 
@@ -20,7 +20,7 @@ Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannende
 
 ### Das ist uns wichtig
 
-* Grundausbildung als SchreinerIn, ModellbauerIn oder PolydesignerIn 3D mit einer planerischen Weiterbildung, oder InnenarchitektIn mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
+* Grundausbildung als Schreiner:in, Modellbauer:in oder Polydesigner:in 3D mit einer planerischen Weiterbildung, oder Innenarchitekt:in mit mehrjähriger Erfahrung in der Detail- und Ausführungsplanung
 * sehr gute Kenntnisse in VektorWorks, SektchUp, sowie in Rhino und Adobe Suite
 * Passion für Detaillösungen in der Innenarchitektur und im Möbelbau
 * umfassende Materialkenntnisse
