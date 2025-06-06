@@ -1,7 +1,7 @@
 ---
 title: Ihre Ansprechpartner
-date: '2018-07-01'
+date: 2018-07-01
 ---
 # Ihre Ansprechpartner
 
-## Lernen Sie unser interdisziplinäres Team aus erfahrenen Designern, Planern und Handwerkern kennen.
+## Lernen Sie unser Kompetenzteam aus erfahrenen Designern, strukturierten Planern und versierten Handwerkern kennen.
