@@ -2,7 +2,7 @@
 draft: false
 date: 2025-06-06T06:35:35.035Z
 title: Visual Merchandiser (m/w/d) – 80%, Reiseanteil 90% – Luxussegment – per
-  1. August 2025    (Ganz Schweiz, mit eigenem Boutiquen- und
+  1. August 2025    (Ganze Schweiz, mit eigenem Boutiquen- und
   Einzelhändlernetzwerk)
 ---
 ### Unternehmensbeschreibung
