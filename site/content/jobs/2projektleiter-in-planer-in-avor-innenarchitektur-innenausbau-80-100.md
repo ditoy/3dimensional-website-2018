@@ -3,12 +3,11 @@ draft: false
 date: 2025-06-06T06:35:35.035Z
 title: Visual Merchandiser (m/w/d) – 80%, Reiseanteil 90% – Luxussegment
 ---
-#### Ab 1. August 2025 
-#### (Ganze Schweiz, mit eigenem Boutiquen- und Einzelhändlernetzwerk)
+#### Ab 1. August 2025
 
 ### Unternehmensbeschreibung
 
-Für eine renommierte Marke im Luxussegment suchen wir einen talentierten und engagierten Visual Merchandiser (m/w/d), der mit Leidenschaft und Kreativität die Sichtbarkeit unseres Kunden in der ganzen Schweiz mitgestaltet. 
+Für eine renommierte Marke im Luxussegment suchen wir einen talentierten und engagierten Visual Merchandiser (m/w/d), der mit Leidenschaft und Kreativität die Sichtbarkeit unseres Kunden in der ganzen Schweiz mitgestaltet. (Ganze Schweiz, mit eigenem Boutiquen- und Einzelhändlernetzwerk)
 
 Im Rahmen Ihrer Anstellung bei 3dimensional ag übernehmen Sie das Visual Merchandising direkt für unseren Kunden und tragen so massgeblich zur hochwertigen Inszenierung der Marke im Retail-Umfeld bei. Mit einem einzigartigen Fokus auf Uhren und luxuriöse Produkte bieten wir eine spannende Herausforderung in einem dynamischen Umfeld.
 
