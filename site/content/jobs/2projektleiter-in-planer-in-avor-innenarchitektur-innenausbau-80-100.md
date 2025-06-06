@@ -1,10 +1,10 @@
 ---
 draft: false
 date: 2025-06-06T06:35:35.035Z
-title: Visual Merchandiser (m/w/d) – 80%, Reiseanteil 90% – Luxussegment – per
-  1. August 2025    (Ganze Schweiz, mit eigenem Boutiquen- und
-  Einzelhändlernetzwerk)
+title: Visual Merchandiser (m/w/d) – 80%, Reiseanteil 90% – Luxussegment
 ---
+#### Ab 1. August 2025    (Ganze Schweiz, mit eigenem Boutiquen- und Einzelhändlernetzwerk)
+
 ### Unternehmensbeschreibung
 
 Für eine renommierte Marke im Luxussegment suchen wir einen talentierten und engagierten Visual Merchandiser (m/w/d), der mit Leidenschaft und Kreativität die Sichtbarkeit unseres Kunden in der ganzen Schweiz mitgestaltet. 
@@ -31,17 +31,20 @@ Im Rahmen Ihrer Anstellung bei 3dimensional ag übernehmen Sie das Visual Mercha
 * Aktive Teilnahme an Projekten und Initiative zur Weiterentwicklung der 
   Markenpräsentation im Markt.
 
-
 ### Ihr Profil
 
 * Erfahrung im Visual Merchandising, idealerweise im Luxussegment, insbesondere im 
   Bereich Uhren.  
-* Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch, Französischkenntnisse sind von Vorteil.  
-* Kreativität und ein gutes Auge für Details in der Gestaltung von Schaufensterdisplays und Dekorationen, sowie Sinn für Ästhetik.
+* Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch, Französischkenntnisse sind 
+  von Vorteil.  
+* Kreativität und ein gutes Auge für Details in der Gestaltung von Schaufensterdisplays und 
+  Dekorationen, sowie Sinn für Ästhetik.
 * Erfahrung in der Vorbereitung, dem Aufbau und der Durchführung von Events.  
 * Eigenverantwortliches strukturiertes Arbeiten mit hohem Engagement und Eigeninitiative.
-* Hohe Flexibilität und Bereitschaft zu unregelmässigen Arbeitszeiten, inklusive Abend- und Wochenendeinsätzen, sowie zu Reisetätigkeit von bis zu 90 % der Arbeitszeit.
-* Ausgeprägte Teamfähigkeit und die Fähigkeit, sich schnell an wechselnde Anforderungen anzupassen.  
+* Hohe Flexibilität und Bereitschaft zu unregelmässigen Arbeitszeiten, inklusive Abend- und 
+  Wochenendeinsätzen, sowie zu Reisetätigkeit von bis zu 90 % der Arbeitszeit.
+* Ausgeprägte Teamfähigkeit und die Fähigkeit, sich schnell an wechselnde Anforderungen 
+  anzupassen.  
 
 ### Was wir bieten
 
@@ -49,11 +52,12 @@ Im Rahmen Ihrer Anstellung bei 3dimensional ag übernehmen Sie das Visual Mercha
   abwechslungsreich zu agieren und Teil einer renommierten Marke zu sein.
 * Raum für kreatives Arbeiten mit sichtbarem Einfluss auf die visuelle Kommunikation.
 * Flexibles Arbeiten mit einer spannenden Reiseaufgabe (bis zu 90%).
-* Ein dynamisches und internationales Arbeitsumfeld mit Fokus auf den Tätigkeitsbereich Schweiz.
+* Ein dynamisches und internationales Arbeitsumfeld mit Fokus auf den Tätigkeitsbereich 
+  Schweiz.
 * Ein motiviertes Team und eine offene Unternehmenskultur. 
 * Anbindung an ein breit aufgestelltes, professionellen Produktionsatelier.
 * Ein Firmenfahrzeug wird zur Verfügung gestellt – auch zur privaten Nutzung.
- 
+
 ### Bewerbung
 
 Wenn Sie eine Leidenschaft für Luxusmarken und Visual Merchandising haben und auf der Suche nach einer flexiblen, selbständigen und abwechslungsreichen Aufgabe sind, freuen wir uns auf Ihre Bewerbung! Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen und Ihren frühestmöglichen Einstiegstermin als PDF an [jobs@3dimensional.ch](mailto:jobs@3dimensional.ch)
