@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-06-06T07:00:59.261Z
 title: Projektleiter:in Planer:in AVOR Innenarchitektur - Innenausbau 80 - 100%
 ---
