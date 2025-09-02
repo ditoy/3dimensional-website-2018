@@ -1,6 +1,6 @@
 ---
 title: Home
-date: '2018-07-01'
+date: 2018-07-01
 ---
 # Kompetenzen
 
@@ -10,7 +10,7 @@ date: '2018-07-01'
     {{< /col >}}
     {{< col 8 >}}
         {{< heading "Design" >}}
-        Ob für ein Ausstellungs-Display, Ihre Gebäude-Signaletik oder für die Gestaltung von Inneneinrichtungen – wir kreieren innovative Konzepte, welche bei ihrer täglichen Nutzung funktional überzeugen.
+        Ob für ein Ausstellungs-Display, Ihre Gebäude-Signaletik oder für die Gestaltung von Inneneinrichtungen – wir kreieren innovative Konzepte, welche bei ihrer täglichen Nutzung funktional überzeugen. Test
     {{< /col >}}
 {{< /row >}}
 {{< row >}}
