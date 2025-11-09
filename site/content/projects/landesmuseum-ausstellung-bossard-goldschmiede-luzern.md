@@ -2,7 +2,7 @@
 title: Landesmuseum Ausstellung, Bossard Goldschmiede Luzern
 projectNumber: "23.5135"
 date: 2018-09-02T19:54:00.000Z
-position: 20
+position: 1
 draft: false
 Year: "2023"
 concept: false
