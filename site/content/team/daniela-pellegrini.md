@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21T09:08:56.840Z
 position: 30
-draft: false
+draft: true
 robotsExclude: false
 title: Daniela Pellegrini
 function: Polydesignerin 3D
