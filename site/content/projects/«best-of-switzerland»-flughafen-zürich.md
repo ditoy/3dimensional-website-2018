@@ -2,7 +2,7 @@
 title: «Best of Switzerland» Flughafen Zürich
 projectNumber: "23.5073"
 date: 2025-11-09T17:14:36.833Z
-position: 20
+position: 1
 draft: false
 Year: "2025"
 concept: true
