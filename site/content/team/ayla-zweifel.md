@@ -1,7 +1,7 @@
 ---
 date: 2025-11-09T16:31:34.740Z
 position: 47
-draft: true
+draft: false
 robotsExclude: false
 title: Ayla Zweifel
 function: Projektleiterin, Dipl. Produktdesignerin HF
