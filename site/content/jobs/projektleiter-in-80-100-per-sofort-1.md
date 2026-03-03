@@ -31,7 +31,7 @@ Gefällt Ihnen die Abwechslung und möchten Sie sich täglich in einem spannende
 * Deutsche Muttersprache, Englischkenntnisse von Vorteil
 * Führerausweis Kategorie B
 
-## Was Sie erwartet
+### Was Sie erwartet
 
 * Vielseitige Projekte mit hoher gestalterischer Qualität
 * Direkte Zusammenarbeit mit Planung und Produktion
