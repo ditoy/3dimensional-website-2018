@@ -1,7 +1,7 @@
 ---
 title: Jobs
 date: 2025-03-19T07:28:14.589Z
-hasJobs: false
+hasJobs: true
 textJobs: >-
   Wir freuen uns, dass Sie sich für eine Anstellung in unserem Unternehmen
   interessieren.
