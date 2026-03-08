@@ -11,7 +11,7 @@ quote: In meiner früheren Rolle als Projektleiterin in der Innenarchitektur
   Teams, das gemeinsam beeindruckende Projekte kreiert und produziert.
 email: mantel@3dimensional.ch
 phone: +41 44 422 44 18
-image: https://ucarecdn.com/5856b0ad-7f3d-4330-a32a-ad2cd0ea19de/
+image: https://5cylfven5p.ucarecd.net/59af045e-2c47-4336-85ac-8c1dbb35c33f/-/preview/1000x750/
 ---
 Bereits während ihrer Berufslehre als Polydesignerin 3D tauchte Annalea tief in die Welt der Materialien, Farben und Formen ein. Im berufsbegleitenden Studium an der Hochschule Luzern erweiterte sie nicht nur ihr theoretisches Wissen, sondern sammelte auch wertvolle praktische Erfahrungen in einem Innenarchitekturbüro. Diese Kombination aus Theorie und Praxis hat sie befähigt, ihr Wissen in beiden Bereichen erfolgreich zu verknüpfen. 
 
