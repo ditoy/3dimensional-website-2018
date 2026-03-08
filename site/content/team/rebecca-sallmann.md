@@ -5,8 +5,8 @@ draft: true
 robotsExclude: false
 title: Rebecca Sallmann
 function: Visual Merchandiserin - IWC Schaffhausen
-quote: Am meisten mag ich den Moment, wenn der Kunde und ich gemeinsam,
-  zufrieden vor einer Arbeit stehen.
+quote: Mein Anspruch ist es, dass alles zur richtigen Zeit und in der richtigen
+  Qualität fertig ist und dass die Kunden am Ende zufrieden sind.
 email: sallmann@3dimensional.ch
 phone: +41 44 422 44 14
 image: a9f79a7c-9fb9-4226-a6ae-b48e7f693273
