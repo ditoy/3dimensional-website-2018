@@ -1,7 +1,7 @@
 ---
 date: 2026-03-08T17:39:19.642Z
 position: 62
-draft: true
+draft: false
 robotsExclude: false
 title: Rebecca Sallmann
 function: Visual Merchandiserin - IWC Schaffhausen
