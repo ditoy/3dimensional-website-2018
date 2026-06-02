@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2026-03-03T19:18:44.491Z
 title: Schreiner:in / Modellbauer:In 60–100% – vielseitig und kreativ
 ---
